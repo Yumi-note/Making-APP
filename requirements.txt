@@ -1,0 +1,6 @@
+pandas
+yfinance
+mkdocs
+requests
+pyyaml
+m2r2
