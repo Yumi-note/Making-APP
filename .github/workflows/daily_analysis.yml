@@ -2,9 +2,9 @@ name: Daily Stock Analysis
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日 01:00 UTC (10:00 JST)
-    - cron: '5 1 * * *'  # 毎日 01:05 UTC (10:05 JST)
-    - cron: '10 1 * * *'  # 毎日 01:10 UTC (10:10 JST)
+    - cron: '25 13 * * *'  # 毎日 13:25 UTC (22:25 JST)
+    - cron: '30 13 * * *'  # 毎日 13:30 UTC (22:30 JST)
+    - cron: '35 13 * * *'  # 毎日 13:35 UTC (22:35 JST)
   workflow_dispatch: {}
 
 permissions:
