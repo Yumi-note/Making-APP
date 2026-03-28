@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-28",
+  "us": [
+    "ZM",
+    "SHOP",
+    "TSLA",
+    "GOOGL",
+    "NFLX"
+  ],
+  "jp": [
+    "6501.T",
+    "6594.T",
+    "7751.T",
+    "7203.T",
+    "6902.T"
+  ],
+  "items": [
+    {
+      "symbol": "ZM",
+      "name": "Zoom Communications, Inc.",
+      "lastClose": 77.70999908447266
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify Inc.",
+      "lastClose": 111.8499984741211
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "lastClose": 361.8299865722656
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "lastClose": 274.3399963378906
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "lastClose": 93.43000030517578
+    },
+    {
+      "symbol": "6501.T",
+      "name": "Hitachi, Ltd.",
+      "lastClose": 4716.0
+    },
+    {
+      "symbol": "6594.T",
+      "name": "Nidec Corporation",
+      "lastClose": 2080.0
+    },
+    {
+      "symbol": "7751.T",
+      "name": "Canon Inc.",
+      "lastClose": 4440.0
+    },
+    {
+      "symbol": "7203.T",
+      "name": "Toyota Motor Corporation",
+      "lastClose": 3408.0
+    },
+    {
+      "symbol": "6902.T",
+      "name": "DENSO Corporation",
+      "lastClose": 1953.5
+    }
+  ]
+}
