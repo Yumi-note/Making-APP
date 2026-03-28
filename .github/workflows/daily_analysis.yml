@@ -2,9 +2,9 @@ name: Daily Stock Analysis
 
 on:
   schedule:
-    - cron: '17 15 * * *'  # 毎日 15:17 UTC (00:17 JST)
-    - cron: '22 15 * * *'  # 毎日 15:22 UTC (00:22 JST)
-    - cron: '27 15 * * *'  # 毎日 15:27 UTC (00:27 JST)
+    - cron: '47 15 * * *'  # 毎日 15:47 UTC (00:47 JST)
+    - cron: '52 15 * * *'  # 毎日 15:52 UTC (00:52 JST)
+    - cron: '57 15 * * *'  # 毎日 15:57 UTC (00:57 JST)
   workflow_dispatch: {}
 
 permissions:
@@ -46,3 +46,6 @@ jobs:
             git commit -m "Daily analysis reports $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
