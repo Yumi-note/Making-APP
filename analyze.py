@@ -177,6 +177,61 @@ def assign_position_tier(item, market_items):
     return "下位", f"同市場の対象銘柄群で時価総額順位が下位（{idx}/{total}）に位置。"
 
 
+def build_sector_position_map(item, market_items):
+    sector = item.get("sector") or ""
+    peers = [x for x in market_items if (x.get("sector") or "") == sector and x.get("marketCap") is not None]
+    if len(peers) < 2 or item.get("marketCap") is None:
+        return "同セクター比較データが不足しているため、ポジション図は暫定。"
+
+    ranked = sorted(peers, key=lambda x: x["marketCap"], reverse=True)
+    idx = [x["symbol"] for x in ranked].index(item["symbol"]) + 1
+    total = len(ranked)
+    ratio = idx / total
+    if ratio <= 0.33:
+        zone = "上位ゾーン"
+        bar = "[■■■■■]"
+    elif ratio <= 0.67:
+        zone = "中位ゾーン"
+        bar = "[■■■□□]"
+    else:
+        zone = "下位ゾーン"
+        bar = "[■□□□□]"
+    return f"同セクター内順位: {idx}/{total} {zone} {bar}"
+
+
+def build_valuation_comment(item):
+    market = item.get("market")
+    pe = item.get("trailingPE")
+    dy = item.get("dividendYieldPct")
+    if pe is None and dy is None:
+        return "評価に十分なPER/配当データが不足。"
+
+    if market == "US":
+        pe_note = "PER基準(US): 15以下が割安目安"
+    else:
+        pe_note = "PER基準(JP): 12以下が割安目安"
+
+    pe_eval = "PERデータなし"
+    if pe is not None:
+        if (market == "US" and pe <= 15) or (market == "JP" and pe <= 12):
+            pe_eval = f"PER {pe:.2f} は割安寄り"
+        elif (market == "US" and pe <= 25) or (market == "JP" and pe <= 20):
+            pe_eval = f"PER {pe:.2f} は中立"
+        else:
+            pe_eval = f"PER {pe:.2f} は割高寄り"
+
+    dy_eval = "配当データなし"
+    if dy is not None:
+        if dy >= 3.5:
+            dy_eval = f"配当利回り {dy:.2f}% は高水準"
+        elif dy >= 2.0:
+            dy_eval = f"配当利回り {dy:.2f}% は中水準"
+        else:
+            dy_eval = f"配当利回り {dy:.2f}% は低め"
+
+    return f"{pe_note}。{pe_eval}。{dy_eval}。"
+
+
 def compute_scores(symbol, info, yfn, npa):
     market = classify_market(symbol)
 
@@ -504,7 +559,11 @@ def write_research_pages(items):
                 f.write("中位プレイヤー  : [■■■□□]\n")
                 f.write("下位/新興       : [■□□□□]\n")
                 f.write(f"この銘柄の位置  : [{tier_label}]\n")
+                f.write(build_sector_position_map(item, market_groups[item["market"]]) + "\n")
                 f.write("```\n\n")
+
+                f.write("## 割安性コメント（国別基準）\n\n")
+                f.write("- " + build_valuation_comment(item) + "\n\n")
 
                 f.write("## 日常生活への影響\n\n")
                 f.write(profile["daily_impact"] + "\n\n")
@@ -522,6 +581,30 @@ def write_research_pages(items):
                 f"| {item['symbol']} | {item['market']} | {item['name']} | {tier} | "
                 f"[詳細](./{symbol_file}.md) |\n"
             )
+
+
+def write_slack_payload(items):
+    payload_path = os.path.join("docs", "slack_payload.json")
+    top_items = sorted(items, key=lambda x: x["overallScore"], reverse=True)[:10]
+    lines = [
+        f"更新: {LAST_UPDATED}",
+        f"実行ID: {RUN_ID}",
+        "今日の候補10銘柄",
+    ]
+    for i, item in enumerate(top_items, 1):
+        lines.append(
+            f"{i}. {item['symbol']} ({item['market']}) Score:{item['overallScore']} News:{item['newsScore']} Value:{item['valueScore']} 判定:{item['decision']}"
+        )
+
+    payload = {
+        "runId": RUN_ID,
+        "updatedAt": LAST_UPDATED,
+        "channel": "#stock-alerts",
+        "text": "\n".join(lines),
+        "top10": top_items,
+    }
+    with open(payload_path, "w", encoding="utf-8") as f:
+        f.write(safe_json(payload))
 
 
 def write_today_page(items):
@@ -583,6 +666,8 @@ def write_update_log_page(items):
         f.write("## 対象銘柄\n\n")
         for item in sorted(items, key=lambda x: (x["market"], x["symbol"])):
             f.write(f"- {item['market']} / {item['symbol']} / 判定: {item['decision']}\n")
+        f.write("\n## Slack通知準備データ\n\n")
+        f.write("- [Slack payload](slack_payload.json): 定時通知・条件通知に利用するJSON\n")
 
 
 def main():
@@ -640,6 +725,7 @@ def main():
     write_value_page(items)
     write_research_pages(items)
     write_update_log_page(items)
+    write_slack_payload(items)
 
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write("# Stock Analyzer\n\n")
@@ -651,6 +737,7 @@ def main():
         f.write("- [割安分析](value.md): PER+配当で中長期候補を絞る\n")
         f.write("- [企業研究](research/index.md): 企業の立ち位置・事業・社会的影響を把握する\n")
         f.write("- [更新状況](update_log.md): 更新時刻と実行状況を確認する\n")
+        f.write("- [Slack payload](slack_payload.json): 通知連携用データ\n")
         f.write("- [銘柄レポート一覧](stocks/index.md): 全実行分の銘柄詳細を見る\n")
         f.write("- [実行履歴](reports/index.md): 日時別の過去実行を追う\n")
 
