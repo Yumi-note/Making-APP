@@ -9,6 +9,8 @@ nav:
   - 分析:
       - ニュース分析: news.md
       - 割安分析: value.md
+    - 企業研究:
+      - 一覧: research/index.md
   - レポート:
       - 銘柄一覧: stocks/index.md
       - 実行履歴: reports/index.md

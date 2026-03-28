@@ -63,6 +63,120 @@ def to_float_or_none(value):
         return None
 
 
+def to_int_or_none(value):
+    try:
+        if value is None:
+            return None
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def format_market_cap(cap):
+    if cap is None:
+        return "N/A"
+    units = [(1_000_000_000_000, "T"), (1_000_000_000, "B"), (1_000_000, "M")]
+    for base, suffix in units:
+        if cap >= base:
+            return f"{cap / base:.2f}{suffix}"
+    return str(int(cap))
+
+
+def get_business_profile(sector, industry):
+    sector_lower = (sector or "").lower()
+    industry_lower = (industry or "").lower()
+
+    defaults = {
+        "segments": [
+            "主力プロダクト/サービス領域",
+            "成長投資領域",
+            "収益安定領域",
+        ],
+        "daily_impact": "日常生活・産業インフラのどこかで利用される基盤を提供し、社会活動の効率性に影響を与える。",
+        "job_roles": [
+            "事業開発/戦略",
+            "プロダクト開発/運用",
+            "営業/カスタマーサクセス",
+        ],
+    }
+
+    profiles = {
+        "technology": {
+            "segments": ["ソフトウェア/クラウド", "半導体・ハードウェア", "広告/プラットフォーム"],
+            "daily_impact": "仕事の生産性、コミュニケーション、エンタメなど日常のデジタル体験に直結。",
+            "job_roles": ["プロダクト開発", "インフラ運用", "エンタープライズ営業"],
+        },
+        "financial": {
+            "segments": ["法人金融", "個人金融", "資産運用/決済"],
+            "daily_impact": "住宅ローン、決済、貯蓄・投資など個人と企業の資金循環を支える。",
+            "job_roles": ["法人営業", "審査/リスク管理", "資産運用"],
+        },
+        "healthcare": {
+            "segments": ["医薬品", "医療機器", "ヘルスケアサービス"],
+            "daily_impact": "治療・予防・健康維持の質とアクセスに影響し、生活の安心に寄与。",
+            "job_roles": ["研究開発", "薬事/品質保証", "医療機関向け営業"],
+        },
+        "consumer": {
+            "segments": ["ブランド製品", "小売/EC", "サプライチェーン"],
+            "daily_impact": "食品、衣料、日用品、EC体験など生活に最も近い消費活動へ影響。",
+            "job_roles": ["商品企画", "店舗/EC運営", "マーケティング"],
+        },
+        "industrial": {
+            "segments": ["製造装置", "インフラ/建設", "輸送/物流"],
+            "daily_impact": "モノづくりや社会インフラの生産性・安全性を左右し、供給網全体に波及。",
+            "job_roles": ["生産技術", "調達/SCM", "法人営業"],
+        },
+        "communication": {
+            "segments": ["通信インフラ", "モバイルサービス", "法人向けソリューション"],
+            "daily_impact": "ネット接続・通話・データ通信など生活とビジネスの基盤に直接影響。",
+            "job_roles": ["ネットワーク運用", "サービス企画", "法人営業"],
+        },
+    }
+
+    if "software" in industry_lower or "semiconductor" in industry_lower or "internet" in industry_lower:
+        return profiles["technology"]
+    if "bank" in industry_lower or "financial" in industry_lower or "insurance" in industry_lower:
+        return profiles["financial"]
+    if "pharma" in industry_lower or "biotech" in industry_lower or "health" in industry_lower:
+        return profiles["healthcare"]
+    if "retail" in industry_lower or "consumer" in industry_lower or "apparel" in industry_lower:
+        return profiles["consumer"]
+    if "telecom" in industry_lower or "communication" in industry_lower:
+        return profiles["communication"]
+    if "industrial" in sector_lower or "manufactur" in industry_lower or "auto" in industry_lower:
+        return profiles["industrial"]
+    if "technology" in sector_lower:
+        return profiles["technology"]
+    if "financial" in sector_lower:
+        return profiles["financial"]
+    if "health" in sector_lower:
+        return profiles["healthcare"]
+    if "consumer" in sector_lower:
+        return profiles["consumer"]
+    if "communication" in sector_lower:
+        return profiles["communication"]
+    return defaults
+
+
+def assign_position_tier(item, market_items):
+    sorted_caps = sorted(
+        [i for i in market_items if i["marketCap"] is not None],
+        key=lambda x: x["marketCap"],
+        reverse=True,
+    )
+    if not sorted_caps or item["marketCap"] is None:
+        return "情報不足", "同市場内の時価総額情報が不足しており、ポジション判定は暫定。"
+
+    idx = [x["symbol"] for x in sorted_caps].index(item["symbol"]) + 1
+    total = len(sorted_caps)
+
+    if idx <= max(1, total // 3):
+        return "上位", f"同市場の対象銘柄群で時価総額順位が上位（{idx}/{total}）に位置。"
+    if idx <= max(2, (total * 2) // 3):
+        return "中位", f"同市場の対象銘柄群で時価総額順位が中位（{idx}/{total}）に位置。"
+    return "下位", f"同市場の対象銘柄群で時価総額順位が下位（{idx}/{total}）に位置。"
+
+
 def compute_scores(symbol, info, yfn, npa):
     market = classify_market(symbol)
 
@@ -322,11 +436,92 @@ def render_row(item):
     pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
     dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
     report_link = f"reports/{TODAY}/{NOW_STR}/{item['symbol'].replace('.', '_')}.md"
+    research_link = f"research/{item['symbol'].replace('.', '_')}.md"
     return (
-        f"| {item['market']} | [{item['symbol']}]({report_link}) | {item['name']} | "
+        f"| {item['market']} | [{item['symbol']}]({report_link}) / [企業研究]({research_link}) | {item['name']} | "
         f"{item['newsScore']} | {item['valueScore']} | {item['overallScore']} | "
         f"{pe} | {dy} | {item['decision']} |"
     )
+
+
+def write_research_pages(items):
+    docs_research = os.path.join("docs", "research")
+    if os.path.isdir(docs_research):
+        shutil.rmtree(docs_research)
+    mkdir_p(docs_research)
+
+    market_groups = {
+        "US": [i for i in items if i["market"] == "US"],
+        "JP": [i for i in items if i["market"] == "JP"],
+    }
+
+    index_path = os.path.join(docs_research, "index.md")
+    with open(index_path, "w", encoding="utf-8") as idx:
+        idx.write("# 企業研究\n\n")
+        idx.write("<div class=\"purpose\">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>\n\n")
+        idx.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        idx.write("| 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |\n")
+        idx.write("|---|---|---|---|---|\n")
+
+        for item in sorted(items, key=lambda x: x["overallScore"], reverse=True):
+            tier, _ = assign_position_tier(item, market_groups[item["market"]])
+            symbol_file = item["symbol"].replace(".", "_")
+            page_path = os.path.join(docs_research, f"{symbol_file}.md")
+            profile = get_business_profile(item.get("sector"), item.get("industry"))
+            summary = item.get("businessSummary") or "企業概要データが不足しています。"
+            short_summary = textwrap.shorten(summary.replace("\n", " "), width=320, placeholder="...")
+            tier_label, tier_desc = assign_position_tier(item, market_groups[item["market"]])
+
+            with open(page_path, "w", encoding="utf-8") as f:
+                f.write(f"# {item['symbol']} 企業研究\n\n")
+                f.write("<div class=\"purpose\">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>\n\n")
+                f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+                f.write("## 企業の基本像\n\n")
+                f.write(f"- 企業名: {item['name']}\n")
+                f.write(f"- 市場: {item['market']}\n")
+                f.write(f"- 国: {item.get('country') or 'N/A'}\n")
+                f.write(f"- セクター: {item.get('sector') or 'N/A'}\n")
+                f.write(f"- 業種: {item.get('industry') or 'N/A'}\n")
+                f.write(f"- 時価総額: {format_market_cap(item.get('marketCap'))}\n")
+                if item.get("website"):
+                    f.write(f"- 公式サイト: {item['website']}\n")
+                f.write("\n")
+
+                f.write("## この企業は何をしているか\n\n")
+                f.write(short_summary + "\n\n")
+
+                f.write("## 事業部レベルの構成（推定）\n\n")
+                for seg in profile["segments"]:
+                    f.write(f"- {seg}\n")
+                f.write("\n")
+
+                f.write("## 業界での立ち位置\n\n")
+                f.write(f"- 判定: **{tier_label}**\n")
+                f.write(f"- 根拠: {tier_desc}\n\n")
+                f.write("### 業界ポジション図（簡易）\n\n")
+                f.write("```text\n")
+                f.write("上位プレイヤー  : [■■■■■]\n")
+                f.write("中位プレイヤー  : [■■■□□]\n")
+                f.write("下位/新興       : [■□□□□]\n")
+                f.write(f"この銘柄の位置  : [{tier_label}]\n")
+                f.write("```\n\n")
+
+                f.write("## 日常生活への影響\n\n")
+                f.write(profile["daily_impact"] + "\n\n")
+
+                f.write("## どんな仕事内容があるか（事業部レベル）\n\n")
+                for role in profile["job_roles"]:
+                    f.write(f"- {role}\n")
+                f.write("\n")
+
+                f.write("## 銘柄選定への接続\n\n")
+                f.write(f"- [当日の銘柄レポート](../reports/{TODAY}/{NOW_STR}/{item['symbol'].replace('.', '_')}.md)\n")
+                f.write(f"- News Score: {item['newsScore']} / Value Score: {item['valueScore']} / 総合: {item['overallScore']}\n")
+
+            idx.write(
+                f"| {item['symbol']} | {item['market']} | {item['name']} | {tier} | "
+                f"[詳細](./{symbol_file}.md) |\n"
+            )
 
 
 def write_today_page(items):
@@ -353,7 +548,7 @@ def write_news_page(items):
         f.write("|---:|---|---|---:|---:|---|\n")
         ranked = sorted(items, key=lambda x: (x["newsScore"], x["overallScore"]), reverse=True)
         for i, item in enumerate(ranked, 1):
-            f.write(f"| {i} | {item['symbol']} | {item['market']} | {item['newsCount']} | {item['newsScore']} | {item['decision']} |\\n")
+            f.write(f"| {i} | {item['symbol']} | {item['market']} | {item['newsCount']} | {item['newsScore']} | {item['decision']} |\n")
 
 
 def write_value_page(items):
@@ -371,7 +566,7 @@ def write_value_page(items):
         for i, item in enumerate(ranked, 1):
             pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
             dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
-            f.write(f"| {i} | {item['symbol']} | {item['market']} | {pe} | {dy} | {item['valueScore']} | {item['overallScore']} |\\n")
+            f.write(f"| {i} | {item['symbol']} | {item['market']} | {pe} | {dy} | {item['valueScore']} | {item['overallScore']} |\n")
 
 
 def write_update_log_page(items):
@@ -420,6 +615,13 @@ def main():
             "symbol": symbol,
             "name": info.get("longName") or symbol,
             "lastClose": float(hist["Close"].dropna().iloc[-1]) if not hist.empty else None,
+            "marketCap": to_float_or_none(info.get("marketCap")),
+            "sector": info.get("sector"),
+            "industry": info.get("industry"),
+            "country": info.get("country"),
+            "website": info.get("website"),
+            "fullTimeEmployees": to_int_or_none(info.get("fullTimeEmployees")),
+            "businessSummary": info.get("longBusinessSummary"),
             **scores,
         })
 
@@ -436,6 +638,7 @@ def main():
     write_today_page(items)
     write_news_page(items)
     write_value_page(items)
+    write_research_pages(items)
     write_update_log_page(items)
 
     with open("docs/index.md", "w", encoding="utf-8") as f:
@@ -446,6 +649,7 @@ def main():
         f.write("- [今日の候補10銘柄](today.md): 毎日の候補を最短で選ぶ\n")
         f.write("- [ニュース分析](news.md): 材料の強さで優先順位をつける\n")
         f.write("- [割安分析](value.md): PER+配当で中長期候補を絞る\n")
+        f.write("- [企業研究](research/index.md): 企業の立ち位置・事業・社会的影響を把握する\n")
         f.write("- [更新状況](update_log.md): 更新時刻と実行状況を確認する\n")
         f.write("- [銘柄レポート一覧](stocks/index.md): 全実行分の銘柄詳細を見る\n")
         f.write("- [実行履歴](reports/index.md): 日時別の過去実行を追う\n")
