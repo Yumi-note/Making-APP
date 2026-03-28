@@ -1,9 +1,9 @@
 site_name: Stock Analyzer
-site_url: https://<your-username>.github.io/stock-analysis
-repo_url: https://github.com/<your-username>/stock-analysis
+site_url: https://Yumi-note.github.io/Making-APP
+repo_url: https://github.com/Yumi-note/Making-APP
 nav:
   - Home: index.md
   - Reports:
-      - Latest: /reports
+      - Overview: reports/index.md
 theme:
   name: material
