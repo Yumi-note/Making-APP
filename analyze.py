@@ -4,6 +4,7 @@
 import datetime
 import json
 import os
+import random
 import shutil
 import textwrap
 from urllib.parse import quote_plus
@@ -12,12 +13,29 @@ import pandas as pd
 import yfinance as yf
 import requests
 
-US_CANDIDATES = ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA"]
-JP_CANDIDATES = ["7203.T", "9984.T", "6758.T", "8306.T", "9432.T"]
+# 候補リスト（毎回このプールからランダムに選択）
+US_POOL = [
+    "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA",
+    "NVDA", "META", "NFLX", "AMD", "INTC",
+    "CRM", "ORCL", "ADBE", "PYPL", "UBER",
+    "SHOP", "SPOT", "SNAP", "TWLO", "ZM",
+]
+JP_POOL = [
+    "7203.T", "9984.T", "6758.T", "8306.T", "9432.T",
+    "6367.T", "7974.T", "4063.T", "8411.T", "9433.T",
+    "6902.T", "7751.T", "4543.T", "8035.T", "6501.T",
+    "9020.T", "7267.T", "4307.T", "6273.T", "6594.T",
+]
+
+# 毎回5銘柄ずつランダムに選択
+random.seed(datetime.datetime.now().timestamp())
+US_CANDIDATES = random.sample(US_POOL, 5)
+JP_CANDIDATES = random.sample(JP_POOL, 5)
 
 REPORT_ROOT = "reports"
 TODAY = datetime.date.today().isoformat()
-OUT_DIR = os.path.join(REPORT_ROOT, TODAY)
+NOW_STR = datetime.datetime.now().strftime("%H%M%S")
+OUT_DIR = os.path.join(REPORT_ROOT, TODAY, NOW_STR)
 
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "")
 
@@ -97,26 +115,41 @@ def sync_reports_to_docs():
         f.write("# レポート一覧\n\n")
         for day in sorted(os.listdir(docs_reports), reverse=True):
             day_path = os.path.join(docs_reports, day)
-            if os.path.isdir(day_path):
-                f.write(f"- [{day}]({day}/README.md)\n")
+            if not os.path.isdir(day_path):
+                continue
+            f.write(f"## {day}\n\n")
+            for time_dir in sorted(os.listdir(day_path), reverse=True):
+                time_path = os.path.join(day_path, time_dir)
+                if os.path.isdir(time_path):
+                    f.write(f"- [{time_dir}]({day}/{time_dir}/README.md)\n")
+            f.write("\n")
 
 
 def sync_stocks_to_docs():
     """最新のレポートをdocs/stocksにコピー"""
     docs_stocks = os.path.join("docs", "stocks")
     mkdir_p(docs_stocks)
-    
-    # 最新のレポートディレクトリを取得
-    if os.path.isdir(REPORT_ROOT):
-        latest_date = max(os.listdir(REPORT_ROOT))
-        latest_dir = os.path.join(REPORT_ROOT, latest_date)
-        
-        # 各銘柄のレポートをコピー
-        for filename in os.listdir(latest_dir):
-            if filename.endswith(".md") and filename != "README.md":
-                src = os.path.join(latest_dir, filename)
-                dst = os.path.join(docs_stocks, filename)
-                shutil.copy2(src, dst)
+
+    # 最新のレポートディレクトリを取得（reports/YYYY-MM-DD/HHMMSS/）
+    if not os.path.isdir(REPORT_ROOT):
+        return
+    date_dirs = [d for d in os.listdir(REPORT_ROOT)
+                 if os.path.isdir(os.path.join(REPORT_ROOT, d))]
+    if not date_dirs:
+        return
+    latest_date_dir = os.path.join(REPORT_ROOT, max(date_dirs))
+    time_dirs = [d for d in os.listdir(latest_date_dir)
+                 if os.path.isdir(os.path.join(latest_date_dir, d))]
+    if not time_dirs:
+        return
+    latest_dir = os.path.join(latest_date_dir, max(time_dirs))
+
+    # 各銘柄のレポートをコピー
+    for filename in os.listdir(latest_dir):
+        if filename.endswith(".md") and filename != "README.md":
+            src = os.path.join(latest_dir, filename)
+            dst = os.path.join(docs_stocks, filename)
+            shutil.copy2(src, dst)
 
 
 def generate_md_index(us, jp):
@@ -163,9 +196,9 @@ def main():
     mkdir_p("docs")
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write("# Stock Analyzer\n\n")
-        f.write(f"最終更新: {TODAY}\n\n")
+        f.write(f"最終更新: {TODAY} {NOW_STR}\n\n")
         f.write("## レポート一覧\n\n")
-        f.write(f"- [レポート {TODAY}](reports/{TODAY}/)\n")
+        f.write(f"- [レポート {TODAY} {NOW_STR}](reports/{TODAY}/{NOW_STR}/)\n")
 
     sync_reports_to_docs()
     sync_stocks_to_docs()
