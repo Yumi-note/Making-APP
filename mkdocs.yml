@@ -3,6 +3,17 @@ site_url: https://Yumi-note.github.io/Making-APP
 repo_url: https://github.com/Yumi-note/Making-APP
 nav:
   - Home: index.md
+  - Stocks:
+      - AAPL: stocks/AAPL.md
+      - MSFT: stocks/MSFT.md
+      - GOOGL: stocks/GOOGL.md
+      - AMZN: stocks/AMZN.md
+      - TSLA: stocks/TSLA.md
+      - トヨタ (7203.T): stocks/7203_T.md
+      - ソフトバンク (9984.T): stocks/9984_T.md
+      - ソニー (6758.T): stocks/6758_T.md
+      - 三菱UFJ (8306.T): stocks/8306_T.md
+      - 武田薬品 (9432.T): stocks/9432_T.md
   - Reports:
       - Overview: reports/index.md
 theme:

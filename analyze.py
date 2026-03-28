@@ -101,6 +101,24 @@ def sync_reports_to_docs():
                 f.write(f"- [{day}]({day}/README.md)\n")
 
 
+def sync_stocks_to_docs():
+    """最新のレポートをdocs/stocksにコピー"""
+    docs_stocks = os.path.join("docs", "stocks")
+    mkdir_p(docs_stocks)
+    
+    # 最新のレポートディレクトリを取得
+    if os.path.isdir(REPORT_ROOT):
+        latest_date = max(os.listdir(REPORT_ROOT))
+        latest_dir = os.path.join(REPORT_ROOT, latest_date)
+        
+        # 各銘柄のレポートをコピー
+        for filename in os.listdir(latest_dir):
+            if filename.endswith(".md") and filename != "README.md":
+                src = os.path.join(latest_dir, filename)
+                dst = os.path.join(docs_stocks, filename)
+                shutil.copy2(src, dst)
+
+
 def generate_md_index(us, jp):
     filepath = os.path.join(OUT_DIR, "README.md")
     with open(filepath, "w", encoding="utf-8") as f:
@@ -150,6 +168,7 @@ def main():
         f.write(f"- [レポート {TODAY}](reports/{TODAY}/)\n")
 
     sync_reports_to_docs()
+    sync_stocks_to_docs()
 
     print("レポート生成完了: " + OUT_DIR)
 
