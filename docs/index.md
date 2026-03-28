@@ -1,7 +1,7 @@
 # Stock Analyzer
 
-このサイトは [Stock Analyzer](https://your-username.github.io/stock-analysis) のレポートを表示します。
+最終更新: 2026-03-28
 
-最新レポート:
+## レポート一覧
 
-- [reports/README.md](../reports/README.md)
+- [レポート 2026-03-28](/reports/2026-03-28/README.md)
