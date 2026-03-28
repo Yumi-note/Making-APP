@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-28",
+  "us": [
+    "GOOGL",
+    "ADBE",
+    "CRM",
+    "TSLA",
+    "META"
+  ],
+  "jp": [
+    "4543.T",
+    "4307.T",
+    "6758.T",
+    "6902.T",
+    "6594.T"
+  ],
+  "items": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "lastClose": 274.3399963378906
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "lastClose": 234.83999633789062
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "lastClose": 179.30999755859375
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "lastClose": 361.8299865722656
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "lastClose": 525.719970703125
+    },
+    {
+      "symbol": "4543.T",
+      "name": "Terumo Corporation",
+      "lastClose": 2131.5
+    },
+    {
+      "symbol": "4307.T",
+      "name": "Nomura Research Institute, Ltd.",
+      "lastClose": 4257.0
+    },
+    {
+      "symbol": "6758.T",
+      "name": "Sony Group Corporation",
+      "lastClose": 3209.0
+    },
+    {
+      "symbol": "6902.T",
+      "name": "DENSO Corporation",
+      "lastClose": 1953.5
+    },
+    {
+      "symbol": "6594.T",
+      "name": "Nidec Corporation",
+      "lastClose": 2080.0
+    }
+  ]
+}
