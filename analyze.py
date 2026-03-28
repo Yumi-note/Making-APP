@@ -4,6 +4,7 @@
 import datetime
 import json
 import os
+import shutil
 import textwrap
 from urllib.parse import quote_plus
 
@@ -85,6 +86,21 @@ def write_report(symbol, info, hist, yfn, npa):
             f.write("- NewsAPI でニュースが取得されませんでした。\n")
 
 
+def sync_reports_to_docs():
+    docs_reports = os.path.join("docs", "reports")
+    if os.path.isdir(docs_reports):
+        shutil.rmtree(docs_reports)
+    shutil.copytree(REPORT_ROOT, docs_reports)
+
+    index_path = os.path.join(docs_reports, "index.md")
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write("# レポート一覧\n\n")
+        for day in sorted(os.listdir(docs_reports), reverse=True):
+            day_path = os.path.join(docs_reports, day)
+            if os.path.isdir(day_path):
+                f.write(f"- [{day}]({day}/README.md)\n")
+
+
 def generate_md_index(us, jp):
     filepath = os.path.join(OUT_DIR, "README.md")
     with open(filepath, "w", encoding="utf-8") as f:
@@ -131,7 +147,9 @@ def main():
         f.write("# Stock Analyzer\n\n")
         f.write(f"最終更新: {TODAY}\n\n")
         f.write("## レポート一覧\n\n")
-        f.write(f"- [レポート {TODAY}](/reports/{TODAY}/README.md)\n")
+        f.write(f"- [レポート {TODAY}](reports/{TODAY}/)\n")
+
+    sync_reports_to_docs()
 
     print("レポート生成完了: " + OUT_DIR)
 
