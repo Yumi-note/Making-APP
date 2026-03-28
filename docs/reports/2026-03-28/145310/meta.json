@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-28",
+  "us": [
+    "SPOT",
+    "PYPL",
+    "INTC",
+    "AAPL",
+    "NVDA"
+  ],
+  "jp": [
+    "7203.T",
+    "7974.T",
+    "8306.T",
+    "4307.T",
+    "8035.T"
+  ],
+  "items": [
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "lastClose": 472.4800109863281
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "lastClose": 43.59000015258789
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "lastClose": 43.130001068115234
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "lastClose": 248.8000030517578
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "lastClose": 167.52000427246094
+    },
+    {
+      "symbol": "7203.T",
+      "name": "Toyota Motor Corporation",
+      "lastClose": 3408.0
+    },
+    {
+      "symbol": "7974.T",
+      "name": "Nintendo Co., Ltd.",
+      "lastClose": 9215.0
+    },
+    {
+      "symbol": "8306.T",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "lastClose": 2715.0
+    },
+    {
+      "symbol": "4307.T",
+      "name": "Nomura Research Institute, Ltd.",
+      "lastClose": 4257.0
+    },
+    {
+      "symbol": "8035.T",
+      "name": "Tokyo Electron Limited",
+      "lastClose": 39290.0
+    }
+  ]
+}
