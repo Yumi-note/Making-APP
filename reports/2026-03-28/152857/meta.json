@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-28",
+  "us": [
+    "ADBE",
+    "NFLX",
+    "GOOGL",
+    "ORCL",
+    "SNAP"
+  ],
+  "jp": [
+    "6273.T",
+    "7203.T",
+    "4543.T",
+    "6902.T",
+    "7974.T"
+  ],
+  "items": [
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "lastClose": 234.83999633789062
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "lastClose": 93.43000030517578
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "lastClose": 274.3399963378906
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "lastClose": 139.66000366210938
+    },
+    {
+      "symbol": "SNAP",
+      "name": "Snap Inc.",
+      "lastClose": 3.930000066757202
+    },
+    {
+      "symbol": "6273.T",
+      "name": "SMC Corporation",
+      "lastClose": 62720.0
+    },
+    {
+      "symbol": "7203.T",
+      "name": "Toyota Motor Corporation",
+      "lastClose": 3408.0
+    },
+    {
+      "symbol": "4543.T",
+      "name": "Terumo Corporation",
+      "lastClose": 2131.5
+    },
+    {
+      "symbol": "6902.T",
+      "name": "DENSO Corporation",
+      "lastClose": 1953.5
+    },
+    {
+      "symbol": "7974.T",
+      "name": "Nintendo Co., Ltd.",
+      "lastClose": 9215.0
+    }
+  ]
+}

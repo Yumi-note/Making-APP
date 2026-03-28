@@ -1,0 +1,69 @@
+{
+  "date": "2026-03-28",
+  "us": [
+    "SPOT",
+    "GOOGL",
+    "NFLX",
+    "UBER",
+    "AMD"
+  ],
+  "jp": [
+    "6367.T",
+    "4307.T",
+    "6594.T",
+    "7203.T",
+    "7974.T"
+  ],
+  "items": [
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "lastClose": 472.4800109863281
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "lastClose": 274.3399963378906
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "lastClose": 93.43000030517578
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies, Inc.",
+      "lastClose": 69.18000030517578
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "lastClose": 201.99000549316406
+    },
+    {
+      "symbol": "6367.T",
+      "name": "Daikin Industries,Ltd.",
+      "lastClose": 19435.0
+    },
+    {
+      "symbol": "4307.T",
+      "name": "Nomura Research Institute, Ltd.",
+      "lastClose": 4257.0
+    },
+    {
+      "symbol": "6594.T",
+      "name": "Nidec Corporation",
+      "lastClose": 2080.0
+    },
+    {
+      "symbol": "7203.T",
+      "name": "Toyota Motor Corporation",
+      "lastClose": 3408.0
+    },
+    {
+      "symbol": "7974.T",
+      "name": "Nintendo Co., Ltd.",
+      "lastClose": 9215.0
+    }
+  ]
+}
