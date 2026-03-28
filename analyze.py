@@ -6,7 +6,6 @@ import json
 import os
 import random
 import shutil
-import textwrap
 from urllib.parse import quote_plus
 
 import pandas as pd
@@ -156,6 +155,45 @@ def get_business_profile(sector, industry):
     if "communication" in sector_lower:
         return profiles["communication"]
     return defaults
+
+
+def build_japanese_company_overview(item, profile):
+    name = item.get("name") or item.get("symbol")
+    symbol = item.get("symbol") or "N/A"
+    market = item.get("market") or "N/A"
+    country = item.get("country") or "N/A"
+    sector = item.get("sector") or "N/A"
+    industry = item.get("industry") or "N/A"
+    market_cap = format_market_cap(item.get("marketCap"))
+    employees = item.get("fullTimeEmployees")
+    employees_text = f"約{employees:,}名" if employees else "非開示"
+
+    segment_text = "、".join(profile["segments"])
+    roles_text = "、".join(profile["job_roles"])
+
+    paragraphs = [
+        (
+            f"{name}（{symbol}）は{country}を主な事業基盤とする{sector}セクターの企業で、"
+            f"市場区分は{market}です。業種は{industry}に属し、時価総額は{market_cap}、"
+            f"従業員規模は{employees_text}です。"
+        ),
+        (
+            f"事業の柱は{segment_text}で、単一事業に依存するのではなく複数領域を組み合わせて"
+            f"収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の"
+            f"拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。"
+        ),
+        (
+            f"日常生活への影響としては、{profile['daily_impact']}"
+            f"そのため、この企業の業績や投資方針の変化は、消費者体験・企業活動・社会インフラの"
+            f"いずれかに波及する可能性があります。"
+        ),
+        (
+            f"仕事内容の観点では、{roles_text}といった職務領域が主軸です。"
+            f"企業研究では、どの事業部が成長ドライバーか、どの領域が利益を下支えしているかを"
+            f"分けて把握することで、銘柄選定時の納得感を高められます。"
+        ),
+    ]
+    return "\n\n".join(paragraphs)
 
 
 def assign_position_tier(item, market_items):
@@ -523,8 +561,7 @@ def write_research_pages(items):
             symbol_file = item["symbol"].replace(".", "_")
             page_path = os.path.join(docs_research, f"{symbol_file}.md")
             profile = get_business_profile(item.get("sector"), item.get("industry"))
-            summary = item.get("businessSummary") or "企業概要データが不足しています。"
-            short_summary = textwrap.shorten(summary.replace("\n", " "), width=320, placeholder="...")
+            jp_overview = build_japanese_company_overview(item, profile)
             tier_label, tier_desc = assign_position_tier(item, market_groups[item["market"]])
 
             with open(page_path, "w", encoding="utf-8") as f:
@@ -543,7 +580,7 @@ def write_research_pages(items):
                 f.write("\n")
 
                 f.write("## この企業は何をしているか\n\n")
-                f.write(short_summary + "\n\n")
+                f.write(jp_overview + "\n\n")
 
                 f.write("## 事業部レベルの構成（推定）\n\n")
                 for seg in profile["segments"]:
