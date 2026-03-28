@@ -126,30 +126,56 @@ def sync_reports_to_docs():
 
 
 def sync_stocks_to_docs():
-    """最新のレポートをdocs/stocksにコピー"""
+    """全レポートをdocs/stocksにコピーして一覧を作成"""
     docs_stocks = os.path.join("docs", "stocks")
+    if os.path.isdir(docs_stocks):
+        shutil.rmtree(docs_stocks)
     mkdir_p(docs_stocks)
 
-    # 最新のレポートディレクトリを取得（reports/YYYY-MM-DD/HHMMSS/）
     if not os.path.isdir(REPORT_ROOT):
         return
-    date_dirs = [d for d in os.listdir(REPORT_ROOT)
-                 if os.path.isdir(os.path.join(REPORT_ROOT, d))]
-    if not date_dirs:
-        return
-    latest_date_dir = os.path.join(REPORT_ROOT, max(date_dirs))
-    time_dirs = [d for d in os.listdir(latest_date_dir)
-                 if os.path.isdir(os.path.join(latest_date_dir, d))]
-    if not time_dirs:
-        return
-    latest_dir = os.path.join(latest_date_dir, max(time_dirs))
 
-    # 各銘柄のレポートをコピー
-    for filename in os.listdir(latest_dir):
-        if filename.endswith(".md") and filename != "README.md":
-            src = os.path.join(latest_dir, filename)
-            dst = os.path.join(docs_stocks, filename)
-            shutil.copy2(src, dst)
+    index_path = os.path.join(docs_stocks, "index.md")
+    with open(index_path, "w", encoding="utf-8") as idx:
+        idx.write("# 銘柄レポート一覧\n\n")
+
+        date_dirs = sorted(
+            [d for d in os.listdir(REPORT_ROOT) if os.path.isdir(os.path.join(REPORT_ROOT, d))],
+            reverse=True,
+        )
+        if not date_dirs:
+            idx.write("- レポートがありません。\n")
+            return
+
+        for date_dir in date_dirs:
+            date_path = os.path.join(REPORT_ROOT, date_dir)
+            time_dirs = sorted(
+                [t for t in os.listdir(date_path) if os.path.isdir(os.path.join(date_path, t))],
+                reverse=True,
+            )
+            if not time_dirs:
+                continue
+
+            idx.write(f"## {date_dir}\n\n")
+            for time_dir in time_dirs:
+                src_dir = os.path.join(date_path, time_dir)
+                dst_dir = os.path.join(docs_stocks, date_dir, time_dir)
+                mkdir_p(dst_dir)
+
+                stock_files = sorted(
+                    [f for f in os.listdir(src_dir) if f.endswith(".md") and f != "README.md"]
+                )
+                if not stock_files:
+                    continue
+
+                idx.write(f"### {time_dir}\n\n")
+                for filename in stock_files:
+                    src = os.path.join(src_dir, filename)
+                    dst = os.path.join(dst_dir, filename)
+                    shutil.copy2(src, dst)
+                    symbol = filename.replace(".md", "").replace("_", ".")
+                    idx.write(f"- [{symbol}]({date_dir}/{time_dir}/{filename})\n")
+                idx.write("\n")
 
 
 def generate_md_index(us, jp):
