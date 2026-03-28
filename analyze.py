@@ -36,6 +36,8 @@ REPORT_ROOT = "reports"
 TODAY = datetime.date.today().isoformat()
 NOW_STR = datetime.datetime.now().strftime("%H%M%S")
 OUT_DIR = os.path.join(REPORT_ROOT, TODAY, NOW_STR)
+RUN_ID = f"{TODAY}-{NOW_STR}"
+LAST_UPDATED = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S JST")
 
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "")
 
@@ -46,6 +48,80 @@ def mkdir_p(path):
 
 def safe_json(obj):
     return json.dumps(obj, ensure_ascii=False, indent=2)
+
+
+def classify_market(symbol):
+    return "JP" if symbol.endswith(".T") else "US"
+
+
+def to_float_or_none(value):
+    try:
+        if value is None:
+            return None
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def compute_scores(symbol, info, yfn, npa):
+    market = classify_market(symbol)
+
+    news_count = len(yfn) + len(npa)
+    news_score = min(100, news_count * 10)
+
+    pe = to_float_or_none(info.get("trailingPE"))
+    div_yield = to_float_or_none(info.get("dividendYield"))
+    div_pct = div_yield * 100 if div_yield is not None else None
+
+    value_score = 50
+    if pe is not None and pe > 0:
+        if market == "US":
+            if pe <= 15:
+                value_score += 25
+            elif pe <= 25:
+                value_score += 15
+            elif pe <= 35:
+                value_score += 5
+        else:
+            if pe <= 12:
+                value_score += 25
+            elif pe <= 20:
+                value_score += 15
+            elif pe <= 30:
+                value_score += 5
+
+    if div_pct is not None:
+        if div_pct >= 3.5:
+            value_score += 25
+        elif div_pct >= 2.0:
+            value_score += 15
+        elif div_pct >= 1.0:
+            value_score += 5
+
+    value_score = max(0, min(100, value_score))
+    overall = int(round(news_score * 0.5 + value_score * 0.35 + 15))
+
+    if overall >= 75:
+        decision = "有望"
+        tone = "positive"
+    elif overall >= 60:
+        decision = "監視"
+        tone = "neutral"
+    else:
+        decision = "見送り"
+        tone = "negative"
+
+    return {
+        "market": market,
+        "newsScore": news_score,
+        "valueScore": value_score,
+        "overallScore": overall,
+        "decision": decision,
+        "tone": tone,
+        "newsCount": news_count,
+        "trailingPE": pe,
+        "dividendYieldPct": div_pct,
+    }
 
 
 def fetch_ticker_data(symbol):
@@ -78,6 +154,9 @@ def write_report(symbol, info, hist, yfn, npa):
     filename = os.path.join(OUT_DIR, f"{symbol.replace('.', '_')}.md")
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# {symbol} レポート\n\n")
+        f.write("> このページの目的: 単一銘柄のファンダメンタル・価格推移・ニュースを確認し、候補採用可否を判断する。\n\n")
+        f.write(f"- 最終更新: {LAST_UPDATED}\n")
+        f.write(f"- 実行ID: {RUN_ID}\n\n")
         f.write("## 基本情報\n\n")
         for k in ["longName", "symbol", "sector", "industry", "country", "marketCap"]:
             f.write(f"- **{k}**: {info.get(k, 'N/A')}\n")
@@ -113,6 +192,9 @@ def sync_reports_to_docs():
     index_path = os.path.join(docs_reports, "index.md")
     with open(index_path, "w", encoding="utf-8") as f:
         f.write("# レポート一覧\n\n")
+        f.write("> このページの目的: 実行履歴（日時ごと）から過去レポートを追跡する。\n\n")
+        f.write(f"- 最終更新: {LAST_UPDATED}\n")
+        f.write(f"- 実行ID: {RUN_ID}\n\n")
         for day in sorted(os.listdir(docs_reports), reverse=True):
             day_path = os.path.join(docs_reports, day)
             if not os.path.isdir(day_path):
@@ -138,6 +220,9 @@ def sync_stocks_to_docs():
     index_path = os.path.join(docs_stocks, "index.md")
     with open(index_path, "w", encoding="utf-8") as idx:
         idx.write("# 銘柄レポート一覧\n\n")
+        idx.write("> このページの目的: 全実行分の銘柄ページへ、日付と時刻から素早くアクセスする。\n\n")
+        idx.write(f"- 最終更新: {LAST_UPDATED}\n")
+        idx.write(f"- 実行ID: {RUN_ID}\n\n")
 
         date_dirs = sorted(
             [d for d in os.listdir(REPORT_ROOT) if os.path.isdir(os.path.join(REPORT_ROOT, d))],
@@ -190,13 +275,136 @@ def generate_md_index(us, jp):
             f.write(f"- [{s}]({s.replace('.', '_')}.md)\n")
 
 
+def write_ui_stylesheet():
+    mkdir_p(os.path.join("docs", "stylesheets"))
+    css_path = os.path.join("docs", "stylesheets", "extra.css")
+    with open(css_path, "w", encoding="utf-8") as f:
+        f.write("""
+:root {
+  --positive: #1e8e3e;
+  --negative: #c62828;
+  --neutral: #5f6368;
+  --value: #1565c0;
+  --news: #ef6c00;
+  --panel: #f5f7fb;
+}
+
+.purpose {
+  background: var(--panel);
+  border-left: 4px solid var(--value);
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+}
+
+.meta-line {
+  font-size: 0.95rem;
+  color: #334155;
+  margin-bottom: 0.6rem;
+}
+
+.badge {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.badge-positive { background: #e8f5e9; color: var(--positive); }
+.badge-negative { background: #ffebee; color: var(--negative); }
+.badge-neutral { background: #eceff1; color: var(--neutral); }
+.badge-news { background: #fff3e0; color: var(--news); }
+.badge-value { background: #e3f2fd; color: var(--value); }
+""".strip())
+
+
+def render_row(item):
+    pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
+    dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
+    report_link = f"reports/{TODAY}/{NOW_STR}/{item['symbol'].replace('.', '_')}.md"
+    return (
+        f"| {item['market']} | [{item['symbol']}]({report_link}) | {item['name']} | "
+        f"{item['newsScore']} | {item['valueScore']} | {item['overallScore']} | "
+        f"{pe} | {dy} | {item['decision']} |"
+    )
+
+
+def write_today_page(items):
+    path = os.path.join("docs", "today.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# 今日の候補10銘柄\n\n")
+        f.write("<div class=\"purpose\">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("- US 5銘柄 + JP 5銘柄（固定）\n")
+        f.write("- 評価軸: ニュース（量+質）50%、割安（PER+配当）35%、安定性補正15%\n\n")
+        f.write("| 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | 判定 |\n")
+        f.write("|---|---|---|---:|---:|---:|---:|---:|---|\n")
+        for item in sorted(items, key=lambda x: x["overallScore"], reverse=True):
+            f.write(render_row(item) + "\n")
+
+
+def write_news_page(items):
+    path = os.path.join("docs", "news.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# ニュース分析\n\n")
+        f.write("<div class=\"purpose\">このページの目的: ニュース材料が強い銘柄を先に把握し、監視優先度を決める。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("| 順位 | 銘柄 | 市場 | ニュース件数 | News Score | 判定 |\n")
+        f.write("|---:|---|---|---:|---:|---|\n")
+        ranked = sorted(items, key=lambda x: (x["newsScore"], x["overallScore"]), reverse=True)
+        for i, item in enumerate(ranked, 1):
+            f.write(f"| {i} | {item['symbol']} | {item['market']} | {item['newsCount']} | {item['newsScore']} | {item['decision']} |\\n")
+
+
+def write_value_page(items):
+    path = os.path.join("docs", "value.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# 割安分析\n\n")
+        f.write("<div class=\"purpose\">このページの目的: PERと配当利回りで割安候補を比較し、中長期候補の優先順位を決める。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("## 国別ルール\n\n")
+        f.write("- US: PER 15以下を高評価、配当利回り3.5%以上を高評価\n")
+        f.write("- JP: PER 12以下を高評価、配当利回り3.5%以上を高評価\n\n")
+        f.write("| 順位 | 銘柄 | 市場 | PER | 配当利回り | Value Score | 総合 |\n")
+        f.write("|---:|---|---|---:|---:|---:|---:|\n")
+        ranked = sorted(items, key=lambda x: (x["valueScore"], x["overallScore"]), reverse=True)
+        for i, item in enumerate(ranked, 1):
+            pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
+            dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
+            f.write(f"| {i} | {item['symbol']} | {item['market']} | {pe} | {dy} | {item['valueScore']} | {item['overallScore']} |\\n")
+
+
+def write_update_log_page(items):
+    path = os.path.join("docs", "update_log.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# 更新状況\n\n")
+        f.write("<div class=\"purpose\">このページの目的: いつ何が更新されたかを確認し、データ鮮度を担保する。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("## 今回の実行サマリー\n\n")
+        f.write(f"- 実行ディレクトリ: `{OUT_DIR}`\n")
+        f.write(f"- 対象銘柄数: {len(items)}\n")
+        f.write(f"- US銘柄数: {len([i for i in items if i['market'] == 'US'])}\n")
+        f.write(f"- JP銘柄数: {len([i for i in items if i['market'] == 'JP'])}\n\n")
+        f.write("## 対象銘柄\n\n")
+        for item in sorted(items, key=lambda x: (x["market"], x["symbol"])):
+            f.write(f"- {item['market']} / {item['symbol']} / 判定: {item['decision']}\n")
+
+
 def main():
     mkdir_p(OUT_DIR)
 
     us_list = US_CANDIDATES
     jp_list = JP_CANDIDATES
 
-    reports = {"date": TODAY, "us": us_list, "jp": jp_list, "items": []}
+    reports = {
+        "date": TODAY,
+        "time": NOW_STR,
+        "runId": RUN_ID,
+        "lastUpdated": LAST_UPDATED,
+        "us": us_list,
+        "jp": jp_list,
+        "items": [],
+    }
 
     for symbol in us_list + jp_list:
         print(f"Collecting {symbol}...")
@@ -207,10 +415,12 @@ def main():
 
         write_report(symbol, info, hist, yfn_news, nws)
 
+        scores = compute_scores(symbol, info, yfn_news, nws)
         reports["items"].append({
             "symbol": symbol,
             "name": info.get("longName") or symbol,
             "lastClose": float(hist["Close"].dropna().iloc[-1]) if not hist.empty else None,
+            **scores,
         })
 
     with open(os.path.join(OUT_DIR, "meta.json"), "w", encoding="utf-8") as f:
@@ -220,11 +430,25 @@ def main():
 
     # docs 生成
     mkdir_p("docs")
+    write_ui_stylesheet()
+
+    items = reports["items"]
+    write_today_page(items)
+    write_news_page(items)
+    write_value_page(items)
+    write_update_log_page(items)
+
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write("# Stock Analyzer\n\n")
-        f.write(f"最終更新: {TODAY} {NOW_STR}\n\n")
-        f.write("## レポート一覧\n\n")
-        f.write(f"- [レポート {TODAY} {NOW_STR}](reports/{TODAY}/{NOW_STR}/)\n")
+        f.write("<div class=\"purpose\">このページの目的: 画面の役割を把握し、今日の銘柄選定にすぐ移る。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("## 画面ガイド\n\n")
+        f.write("- [今日の候補10銘柄](today.md): 毎日の候補を最短で選ぶ\n")
+        f.write("- [ニュース分析](news.md): 材料の強さで優先順位をつける\n")
+        f.write("- [割安分析](value.md): PER+配当で中長期候補を絞る\n")
+        f.write("- [更新状況](update_log.md): 更新時刻と実行状況を確認する\n")
+        f.write("- [銘柄レポート一覧](stocks/index.md): 全実行分の銘柄詳細を見る\n")
+        f.write("- [実行履歴](reports/index.md): 日時別の過去実行を追う\n")
 
     sync_reports_to_docs()
     sync_stocks_to_docs()

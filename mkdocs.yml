@@ -3,9 +3,16 @@ site_url: https://Yumi-note.github.io/Making-APP
 repo_url: https://github.com/Yumi-note/Making-APP
 nav:
   - Home: index.md
-  - Stocks:
-      - Overview: stocks/index.md
-  - Reports:
-      - Overview: reports/index.md
+  - 今日の候補:
+      - 候補10銘柄: today.md
+      - 更新状況: update_log.md
+  - 分析:
+      - ニュース分析: news.md
+      - 割安分析: value.md
+  - レポート:
+      - 銘柄一覧: stocks/index.md
+      - 実行履歴: reports/index.md
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
