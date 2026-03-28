@@ -1,6 +1,7 @@
 pandas
 yfinance
 mkdocs
+mkdocs-material
 requests
 pyyaml
 m2r2
