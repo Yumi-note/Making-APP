@@ -40,6 +40,17 @@ LAST_UPDATED = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S JST")
 
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "")
 
+CORE_ROUTES = [
+    ("ホーム", "index.md", "全体の入口"),
+    ("今日の候補10銘柄", "today.md", "最初に見るページ"),
+    ("ニュース分析", "news.md", "材料の強さを確認"),
+    ("割安分析", "value.md", "PER+配当で比較"),
+    ("企業研究一覧", "research/index.md", "企業理解を深める"),
+    ("更新状況", "update_log.md", "更新時刻と実行状況"),
+    ("銘柄レポート一覧", "stocks/index.md", "全銘柄詳細への入口"),
+    ("実行履歴", "reports/index.md", "過去実行の参照"),
+]
+
 
 def mkdir_p(path):
     os.makedirs(path, exist_ok=True)
@@ -47,6 +58,34 @@ def mkdir_p(path):
 
 def safe_json(obj):
     return json.dumps(obj, ensure_ascii=False, indent=2)
+
+
+def write_transition_block(f, current_label, suggested, base_prefix=""):
+    f.write("## 画面遷移ガイド\n\n")
+    f.write(f"- 現在地: **{current_label}**\n")
+    f.write("- 次に見るページ:\n")
+    for label, path, desc in suggested:
+        f.write(f"  - [{label}]({base_prefix}{path}): {desc}\n")
+    f.write("\n")
+
+
+def write_navigation_map_page():
+    path = os.path.join("docs", "navigation.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# 画面遷移マップ\n\n")
+        f.write("<div class=\"purpose\">このページの目的: どこに何があるかを把握し、迷わず目的ページへ移動する。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        f.write("## 基本導線（推奨）\n\n")
+        f.write("1. [今日の候補10銘柄](today.md)\n")
+        f.write("2. [ニュース分析](news.md) / [割安分析](value.md)\n")
+        f.write("3. [企業研究一覧](research/index.md) → 各企業ページ\n")
+        f.write("4. [更新状況](update_log.md) で最終確認\n\n")
+
+        f.write("## ページ一覧\n\n")
+        f.write("| ページ | 役割 |\n")
+        f.write("|---|---|\n")
+        for label, path, desc in CORE_ROUTES:
+            f.write(f"| [{label}]({path}) | {desc} |\n")
 
 
 def classify_market(symbol):
@@ -402,6 +441,15 @@ def sync_reports_to_docs():
         f.write("> このページの目的: 実行履歴（日時ごと）から過去レポートを追跡する。\n\n")
         f.write(f"- 最終更新: {LAST_UPDATED}\n")
         f.write(f"- 実行ID: {RUN_ID}\n\n")
+        write_transition_block(
+            f,
+            "実行履歴",
+            [
+                ("今日の候補10銘柄", "../today.md", "現在の候補に戻る"),
+                ("銘柄レポート一覧", "../stocks/index.md", "全銘柄から探す"),
+                ("画面遷移マップ", "../navigation.md", "どこに何があるか確認"),
+            ],
+        )
         for day in sorted(os.listdir(docs_reports), reverse=True):
             day_path = os.path.join(docs_reports, day)
             if not os.path.isdir(day_path):
@@ -430,6 +478,15 @@ def sync_stocks_to_docs():
         idx.write("> このページの目的: 全実行分の銘柄ページへ、日付と時刻から素早くアクセスする。\n\n")
         idx.write(f"- 最終更新: {LAST_UPDATED}\n")
         idx.write(f"- 実行ID: {RUN_ID}\n\n")
+        write_transition_block(
+            idx,
+            "銘柄レポート一覧",
+            [
+                ("今日の候補10銘柄", "../today.md", "本日の候補に戻る"),
+                ("企業研究一覧", "../research/index.md", "企業背景を確認"),
+                ("画面遷移マップ", "../navigation.md", "サイト全体導線を確認"),
+            ],
+        )
 
         date_dirs = sorted(
             [d for d in os.listdir(REPORT_ROOT) if os.path.isdir(os.path.join(REPORT_ROOT, d))],
@@ -553,6 +610,15 @@ def write_research_pages(items):
         idx.write("# 企業研究\n\n")
         idx.write("<div class=\"purpose\">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>\n\n")
         idx.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            idx,
+            "企業研究一覧",
+            [
+                ("今日の候補10銘柄", "../today.md", "候補と企業研究を行き来する"),
+                ("ニュース分析", "../news.md", "材料背景と合わせて見る"),
+                ("画面遷移マップ", "../navigation.md", "目的別に移動する"),
+            ],
+        )
         idx.write("| 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |\n")
         idx.write("|---|---|---|---|---|\n")
 
@@ -568,6 +634,15 @@ def write_research_pages(items):
                 f.write(f"# {item['symbol']} 企業研究\n\n")
                 f.write("<div class=\"purpose\">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>\n\n")
                 f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+                write_transition_block(
+                    f,
+                    f"企業研究: {item['symbol']}",
+                    [
+                        ("企業研究一覧", "index.md", "他銘柄の研究ページへ"),
+                        ("今日の候補10銘柄", "../today.md", "候補全体に戻る"),
+                        ("画面遷移マップ", "../navigation.md", "全体導線を確認"),
+                    ],
+                )
                 f.write("## 企業の基本像\n\n")
                 f.write(f"- 企業名: {item['name']}\n")
                 f.write(f"- 市場: {item['market']}\n")
@@ -650,6 +725,16 @@ def write_today_page(items):
         f.write("# 今日の候補10銘柄\n\n")
         f.write("<div class=\"purpose\">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>\n\n")
         f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "今日の候補10銘柄",
+            [
+                ("ニュース分析", "news.md", "材料面を先に確認"),
+                ("割安分析", "value.md", "PER+配当で妥当性確認"),
+                ("企業研究一覧", "research/index.md", "企業背景を深掘り"),
+                ("画面遷移マップ", "navigation.md", "全体導線を確認"),
+            ],
+        )
         f.write("- US 5銘柄 + JP 5銘柄（固定）\n")
         f.write("- 評価軸: ニュース（量+質）50%、割安（PER+配当）35%、安定性補正15%\n\n")
         f.write("| 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | 判定 |\n")
@@ -664,6 +749,15 @@ def write_news_page(items):
         f.write("# ニュース分析\n\n")
         f.write("<div class=\"purpose\">このページの目的: ニュース材料が強い銘柄を先に把握し、監視優先度を決める。</div>\n\n")
         f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "ニュース分析",
+            [
+                ("今日の候補10銘柄", "today.md", "候補ページで最終比較"),
+                ("企業研究一覧", "research/index.md", "ニュース背景を企業で確認"),
+                ("画面遷移マップ", "navigation.md", "次の移動先を確認"),
+            ],
+        )
         f.write("| 順位 | 銘柄 | 市場 | ニュース件数 | News Score | 判定 |\n")
         f.write("|---:|---|---|---:|---:|---|\n")
         ranked = sorted(items, key=lambda x: (x["newsScore"], x["overallScore"]), reverse=True)
@@ -677,6 +771,15 @@ def write_value_page(items):
         f.write("# 割安分析\n\n")
         f.write("<div class=\"purpose\">このページの目的: PERと配当利回りで割安候補を比較し、中長期候補の優先順位を決める。</div>\n\n")
         f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "割安分析",
+            [
+                ("今日の候補10銘柄", "today.md", "候補ページで総合判断"),
+                ("企業研究一覧", "research/index.md", "事業内容と合わせて判断"),
+                ("画面遷移マップ", "navigation.md", "全体導線を確認"),
+            ],
+        )
         f.write("## 国別ルール\n\n")
         f.write("- US: PER 15以下を高評価、配当利回り3.5%以上を高評価\n")
         f.write("- JP: PER 12以下を高評価、配当利回り3.5%以上を高評価\n\n")
@@ -695,6 +798,15 @@ def write_update_log_page(items):
         f.write("# 更新状況\n\n")
         f.write("<div class=\"purpose\">このページの目的: いつ何が更新されたかを確認し、データ鮮度を担保する。</div>\n\n")
         f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "更新状況",
+            [
+                ("今日の候補10銘柄", "today.md", "最新候補に戻る"),
+                ("実行履歴", "reports/index.md", "過去との比較を確認"),
+                ("画面遷移マップ", "navigation.md", "迷った時の導線確認"),
+            ],
+        )
         f.write("## 今回の実行サマリー\n\n")
         f.write(f"- 実行ディレクトリ: `{OUT_DIR}`\n")
         f.write(f"- 対象銘柄数: {len(items)}\n")
@@ -763,12 +875,23 @@ def main():
     write_research_pages(items)
     write_update_log_page(items)
     write_slack_payload(items)
+    write_navigation_map_page()
 
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write("# Stock Analyzer\n\n")
         f.write("<div class=\"purpose\">このページの目的: 画面の役割を把握し、今日の銘柄選定にすぐ移る。</div>\n\n")
         f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "ホーム",
+            [
+                ("画面遷移マップ", "navigation.md", "どこに何があるか先に把握"),
+                ("今日の候補10銘柄", "today.md", "毎日の銘柄選定を開始"),
+                ("更新状況", "update_log.md", "更新済みデータか確認"),
+            ],
+        )
         f.write("## 画面ガイド\n\n")
+        f.write("- [画面遷移マップ](navigation.md): 目的別のおすすめ導線\n")
         f.write("- [今日の候補10銘柄](today.md): 毎日の候補を最短で選ぶ\n")
         f.write("- [ニュース分析](news.md): 材料の強さで優先順位をつける\n")
         f.write("- [割安分析](value.md): PER+配当で中長期候補を絞る\n")

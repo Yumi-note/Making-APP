@@ -1,22 +1,30 @@
-# UBER 企業研究
+# MSFT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-03-29 08:32:57 JST / 実行ID: 2026-03-29-083257</div>
+<div class="meta-line">最終更新: 2026-03-29 09:00:06 JST / 実行ID: 2026-03-29-090006</div>
+
+## 画面遷移ガイド
+
+- 現在地: **企業研究: MSFT**
+- 次に見るページ:
+  - [企業研究一覧](index.md): 他銘柄の研究ページへ
+  - [今日の候補10銘柄](../today.md): 候補全体に戻る
+  - [画面遷移マップ](../navigation.md): 全体導線を確認
 
 ## 企業の基本像
 
-- 企業名: Uber Technologies, Inc.
+- 企業名: Microsoft Corporation
 - 市場: US
 - 国: United States
 - セクター: Technology
-- 業種: Software - Application
-- 時価総額: 142.38B
-- 公式サイト: https://www.uber.com
+- 業種: Software - Infrastructure
+- 時価総額: 2.65T
+- 公式サイト: https://www.microsoft.com
 
 ## この企業は何をしているか
 
-Uber Technologies, Inc.（UBER）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は142.38B、従業員規模は約34,000名です。
+Microsoft Corporation（MSFT）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は2.65T、従業員規模は約228,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -42,12 +50,12 @@ Uber Technologies, Inc.（UBER）はUnited Statesを主な事業基盤とするT
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 2/3 中位ゾーン [■■■□□]
+同セクター内順位: 2/4 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 14.63 は割安寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 22.33 は中立。配当利回り 102.00% は高水準。
 
 ## 日常生活への影響
 
@@ -61,5 +69,5 @@ Uber Technologies, Inc.（UBER）はUnited Statesを主な事業基盤とするT
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-03-29/083257/UBER.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-03-29/090006/MSFT.md)
+- News Score: 100 / Value Score: 90 / 総合: 96
