@@ -49,6 +49,7 @@ CORE_ROUTES = [
     ("今日の候補10銘柄", "today.md", "最初に見るページ"),
     ("ニュース分析", "news.md", "材料の強さを確認"),
     ("割安分析", "value.md", "PER+配当で比較"),
+    ("指標ヘルプ", "indicators.md", "指標の見方を確認"),
     ("企業研究一覧", "research/index.md", "企業理解を深める"),
     ("更新状況", "update_log.md", "更新時刻と実行状況"),
     ("銘柄レポート一覧", "stocks/index.md", "全銘柄詳細への入口"),
@@ -112,6 +113,14 @@ def to_int_or_none(value):
         return int(value)
     except (TypeError, ValueError):
         return None
+
+
+def format_num(value, digits=2):
+    return "-" if value is None else f"{value:.{digits}f}"
+
+
+def format_pct(value, digits=2):
+    return "-" if value is None else f"{value:.{digits}f}%"
 
 
 def format_market_cap(cap):
@@ -313,6 +322,39 @@ def build_valuation_comment(item):
     return f"{pe_note}。{pe_eval}。{dy_eval}。"
 
 
+def write_indicators_help_page():
+    path = os.path.join("docs", "indicators.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("# 指標ヘルプ\n\n")
+        f.write("<div class=\"purpose\">このページの目的: 各指標が何を意味し、どう判断に使うかを明確にする。</div>\n\n")
+        f.write(f"<div class=\"meta-line\">最終更新: {LAST_UPDATED} / 実行ID: {RUN_ID}</div>\n\n")
+        write_transition_block(
+            f,
+            "指標ヘルプ",
+            [
+                ("今日の候補10銘柄", "today.md", "指標を見ながら候補を比較"),
+                ("割安分析", "value.md", "評価ロジックを確認"),
+                ("企業研究一覧", "research/index.md", "定性情報と組み合わせる"),
+            ],
+        )
+
+        f.write("## 指標一覧と見方\n\n")
+        f.write("| 指標 | 意味 | 目安（一般論） | 注意点 |\n")
+        f.write("|---|---|---|---|\n")
+        f.write("| PER | 株価が利益の何倍か | 低いほど割安傾向 | 赤字や一時利益で歪む |\n")
+        f.write("| 配当利回り | 株価に対する配当率 | 高いほどインカム期待 | 高すぎる場合は減配リスク確認 |\n")
+        f.write("| PBR | 純資産に対する株価倍率 | 1倍前後は割安検討余地 | 業種で適正水準が大きく異なる |\n")
+        f.write("| ROE | 自己資本に対する利益効率 | 高いほど資本効率良好 | 借入増でも高く見える場合あり |\n")
+        f.write("| Debt/Equity | 借入依存度 | 低いほど財務安定傾向 | 金融業など業種特性を考慮 |\n")
+        f.write("| 売上成長率 | 売上の前年比成長 | プラスほど成長傾向 | 一時要因・買収でブレる |\n")
+        f.write("| Beta | 市場全体に対する値動き感応度 | 1超で値動き大きめ | 高成長株は高くなりやすい |\n")
+
+        f.write("\n## あなた向けの使い方（中長期）\n\n")
+        f.write("1. まず [今日の候補10銘柄](today.md) で News/Value/指標を横比較\n")
+        f.write("2. 次に [割安分析](value.md) で PER・配当・PBR を確認\n")
+        f.write("3. 最後に [企業研究](research/index.md) で定性情報（事業/立ち位置）を確認\n")
+
+
 def compute_scores(symbol, info, yfn, npa):
     market = classify_market(symbol)
 
@@ -437,6 +479,18 @@ def write_report(symbol, info, hist, yfn, npa):
             f.write(f"![{symbol} 3-year price chart]({chart_filename})\n\n")
         else:
             f.write("- 3年分の株価データが取得できなかったため、チャートを表示できませんでした。\n\n")
+
+        f.write("## 主要指標\n\n")
+        f.write("- [指標の見方ヘルプ](../../../../indicators.md)\n\n")
+        f.write("| 指標 | 値 |\n")
+        f.write("|---|---:|\n")
+        f.write(f"| PER | {format_num(to_float_or_none(info.get('trailingPE')))} |\n")
+        f.write(f"| 配当利回り | {format_pct((to_float_or_none(info.get('dividendYield')) or 0) * 100) if to_float_or_none(info.get('dividendYield')) is not None else '-'} |\n")
+        f.write(f"| PBR | {format_num(to_float_or_none(info.get('priceToBook')))} |\n")
+        f.write(f"| ROE | {format_pct((to_float_or_none(info.get('returnOnEquity')) or 0) * 100) if to_float_or_none(info.get('returnOnEquity')) is not None else '-'} |\n")
+        f.write(f"| Debt/Equity | {format_num(to_float_or_none(info.get('debtToEquity')))} |\n")
+        f.write(f"| 売上成長率 | {format_pct((to_float_or_none(info.get('revenueGrowth')) or 0) * 100) if to_float_or_none(info.get('revenueGrowth')) is not None else '-'} |\n")
+        f.write(f"| Beta | {format_num(to_float_or_none(info.get('beta')))} |\n\n")
 
         f.write("## yfinance ニュース\n\n")
         if yfn:
@@ -617,12 +671,14 @@ def write_ui_stylesheet():
 def render_row(item):
     pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
     dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
+    pbr = "-" if item.get("priceToBook") is None else f"{item['priceToBook']:.2f}"
+    roe = "-" if item.get("returnOnEquityPct") is None else f"{item['returnOnEquityPct']:.2f}%"
     report_link = f"reports/{TODAY}/{NOW_STR}/{item['symbol'].replace('.', '_')}.md"
     research_link = f"research/{item['symbol'].replace('.', '_')}.md"
     return (
         f"| {item['market']} | [{item['symbol']}]({report_link}) / [企業研究]({research_link}) | {item['name']} | "
         f"{item['newsScore']} | {item['valueScore']} | {item['overallScore']} | "
-        f"{pe} | {dy} | {item['decision']} |"
+        f"{pe} | {dy} | {pbr} | {roe} | {item['decision']} |"
     )
 
 
@@ -763,14 +819,16 @@ def write_today_page(items):
             [
                 ("ニュース分析", "news.md", "材料面を先に確認"),
                 ("割安分析", "value.md", "PER+配当で妥当性確認"),
+                ("指標ヘルプ", "indicators.md", "指標の見方を確認"),
                 ("企業研究一覧", "research/index.md", "企業背景を深掘り"),
                 ("画面遷移マップ", "navigation.md", "全体導線を確認"),
             ],
         )
         f.write("- US 5銘柄 + JP 5銘柄（固定）\n")
         f.write("- 評価軸: ニュース（量+質）50%、割安（PER+配当）35%、安定性補正15%\n\n")
-        f.write("| 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | 判定 |\n")
-        f.write("|---|---|---|---:|---:|---:|---:|---:|---|\n")
+        f.write("- [指標の見方ヘルプ](indicators.md)\n\n")
+        f.write("| 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |\n")
+        f.write("|---|---|---|---:|---:|---:|---:|---:|---:|---:|---|\n")
         for item in sorted(items, key=lambda x: x["overallScore"], reverse=True):
             f.write(render_row(item) + "\n")
 
@@ -808,6 +866,7 @@ def write_value_page(items):
             "割安分析",
             [
                 ("今日の候補10銘柄", "today.md", "候補ページで総合判断"),
+                ("指標ヘルプ", "indicators.md", "各指標の意味を確認"),
                 ("企業研究一覧", "research/index.md", "事業内容と合わせて判断"),
                 ("画面遷移マップ", "navigation.md", "全体導線を確認"),
             ],
@@ -815,13 +874,17 @@ def write_value_page(items):
         f.write("## 国別ルール\n\n")
         f.write("- US: PER 15以下を高評価、配当利回り3.5%以上を高評価\n")
         f.write("- JP: PER 12以下を高評価、配当利回り3.5%以上を高評価\n\n")
-        f.write("| 順位 | 銘柄 | 市場 | PER | 配当利回り | Value Score | 総合 |\n")
-        f.write("|---:|---|---|---:|---:|---:|---:|\n")
+        f.write("- [指標の見方ヘルプ](indicators.md)\n\n")
+        f.write("| 順位 | 銘柄 | 市場 | PER | 配当利回り | PBR | ROE | Debt/Equity | Value Score | 総合 |\n")
+        f.write("|---:|---|---|---:|---:|---:|---:|---:|---:|---:|\n")
         ranked = sorted(items, key=lambda x: (x["valueScore"], x["overallScore"]), reverse=True)
         for i, item in enumerate(ranked, 1):
             pe = "-" if item["trailingPE"] is None else f"{item['trailingPE']:.2f}"
             dy = "-" if item["dividendYieldPct"] is None else f"{item['dividendYieldPct']:.2f}%"
-            f.write(f"| {i} | {item['symbol']} | {item['market']} | {pe} | {dy} | {item['valueScore']} | {item['overallScore']} |\n")
+            pbr = "-" if item.get("priceToBook") is None else f"{item['priceToBook']:.2f}"
+            roe = "-" if item.get("returnOnEquityPct") is None else f"{item['returnOnEquityPct']:.2f}%"
+            debt = "-" if item.get("debtToEquity") is None else f"{item['debtToEquity']:.2f}"
+            f.write(f"| {i} | {item['symbol']} | {item['market']} | {pe} | {dy} | {pbr} | {roe} | {debt} | {item['valueScore']} | {item['overallScore']} |\n")
 
 
 def write_update_log_page(items):
@@ -877,6 +940,8 @@ def main():
         write_report(symbol, info, hist, yfn_news, nws)
 
         scores = compute_scores(symbol, info, yfn_news, nws)
+        roe = to_float_or_none(info.get("returnOnEquity"))
+        rev_growth = to_float_or_none(info.get("revenueGrowth"))
         reports["items"].append({
             "symbol": symbol,
             "name": info.get("longName") or symbol,
@@ -888,6 +953,11 @@ def main():
             "website": info.get("website"),
             "fullTimeEmployees": to_int_or_none(info.get("fullTimeEmployees")),
             "businessSummary": info.get("longBusinessSummary"),
+            "priceToBook": to_float_or_none(info.get("priceToBook")),
+            "returnOnEquityPct": roe * 100 if roe is not None else None,
+            "debtToEquity": to_float_or_none(info.get("debtToEquity")),
+            "revenueGrowthPct": rev_growth * 100 if rev_growth is not None else None,
+            "beta": to_float_or_none(info.get("beta")),
             **scores,
         })
 
@@ -904,6 +974,7 @@ def main():
     write_today_page(items)
     write_news_page(items)
     write_value_page(items)
+    write_indicators_help_page()
     write_research_pages(items)
     write_update_log_page(items)
     write_slack_payload(items)
@@ -927,6 +998,7 @@ def main():
         f.write("- [今日の候補10銘柄](today.md): 毎日の候補を最短で選ぶ\n")
         f.write("- [ニュース分析](news.md): 材料の強さで優先順位をつける\n")
         f.write("- [割安分析](value.md): PER+配当で中長期候補を絞る\n")
+        f.write("- [指標ヘルプ](indicators.md): 指標の意味と見方を確認する\n")
         f.write("- [企業研究](research/index.md): 企業の立ち位置・事業・社会的影響を把握する\n")
         f.write("- [更新状況](update_log.md): 更新時刻と実行状況を確認する\n")
         f.write("- [Slack payload](slack_payload.json): 通知連携用データ\n")

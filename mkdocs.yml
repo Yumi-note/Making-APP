@@ -4,6 +4,7 @@ repo_url: https://github.com/Yumi-note/Making-APP
 nav:
   - Home: index.md
   - 画面遷移マップ: navigation.md
+  - 指標ヘルプ: indicators.md
   - 今日の候補:
       - 候補10銘柄: today.md
       - 更新状況: update_log.md

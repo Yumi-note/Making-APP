@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-03-29 09:00:06 JST / 実行ID: 2026-03-29-090006</div>
+<div class="meta-line">最終更新: 2026-03-29 09:05:54 JST / 実行ID: 2026-03-29-090554</div>
 
 ## 画面遷移ガイド
 
@@ -69,5 +69,5 @@ Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication S
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-03-29/090006/SNAP.md)
+- [当日の銘柄レポート](../reports/2026-03-29/090554/SNAP.md)
 - News Score: 100 / Value Score: 50 / 総合: 82
