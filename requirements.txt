@@ -6,3 +6,4 @@ requests
 pyyaml
 m2r2
 tabulate
+matplotlib

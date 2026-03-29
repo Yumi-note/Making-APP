@@ -8,9 +8,13 @@ import random
 import shutil
 from urllib.parse import quote_plus
 
+import matplotlib
 import pandas as pd
 import yfinance as yf
 import requests
+
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 
 # 候補リスト（毎回このプールからランダムに選択）
 US_POOL = [
@@ -372,8 +376,27 @@ def compute_scores(symbol, info, yfn, npa):
 
 def fetch_ticker_data(symbol):
     ticker = yf.Ticker(symbol)
-    history = ticker.history(period="1mo", interval="1d")
+    history = ticker.history(period="3y", interval="1d")
     return ticker, history
+
+
+def write_price_chart(symbol, hist):
+    if hist.empty or "Close" not in hist:
+        return None
+
+    chart_filename = f"{symbol.replace('.', '_')}_3y.png"
+    chart_path = os.path.join(OUT_DIR, chart_filename)
+
+    plt.figure(figsize=(10, 4))
+    plt.plot(hist.index, hist["Close"], linewidth=1.2)
+    plt.title(f"{symbol} 3-Year Price Chart")
+    plt.xlabel("Date")
+    plt.ylabel("Close")
+    plt.grid(alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(chart_path, dpi=140)
+    plt.close()
+    return chart_filename
 
 
 def fetch_yfinance_news(ticker):
@@ -398,6 +421,7 @@ def fetch_newsapi(symbol):
 
 def write_report(symbol, info, hist, yfn, npa):
     filename = os.path.join(OUT_DIR, f"{symbol.replace('.', '_')}.md")
+    chart_filename = write_price_chart(symbol, hist)
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# {symbol} レポート\n\n")
         f.write("> このページの目的: 単一銘柄のファンダメンタル・価格推移・ニュースを確認し、候補採用可否を判断する。\n\n")
@@ -408,8 +432,11 @@ def write_report(symbol, info, hist, yfn, npa):
             f.write(f"- **{k}**: {info.get(k, 'N/A')}\n")
         f.write("\n")
 
-        f.write("## 最新株価（1ヶ月データ）\n\n")
-        f.write(hist.tail(5).to_markdown() + "\n\n")
+        f.write("## 株価チャート（3年）\n\n")
+        if chart_filename:
+            f.write(f"![{symbol} 3-year price chart]({chart_filename})\n\n")
+        else:
+            f.write("- 3年分の株価データが取得できなかったため、チャートを表示できませんでした。\n\n")
 
         f.write("## yfinance ニュース\n\n")
         if yfn:
@@ -511,17 +538,22 @@ def sync_stocks_to_docs():
                 dst_dir = os.path.join(docs_stocks, date_dir, time_dir)
                 mkdir_p(dst_dir)
 
-                stock_files = sorted(
+                stock_md_files = sorted(
                     [f for f in os.listdir(src_dir) if f.endswith(".md") and f != "README.md"]
                 )
-                if not stock_files:
+                asset_files = sorted(
+                    [f for f in os.listdir(src_dir) if f.endswith(".png")]
+                )
+                if not stock_md_files:
                     continue
 
-                idx.write(f"### {time_dir}\n\n")
-                for filename in stock_files:
+                for filename in stock_md_files + asset_files:
                     src = os.path.join(src_dir, filename)
                     dst = os.path.join(dst_dir, filename)
                     shutil.copy2(src, dst)
+
+                idx.write(f"### {time_dir}\n\n")
+                for filename in stock_md_files:
                     symbol = filename.replace(".md", "").replace("_", ".")
                     idx.write(f"- [{symbol}]({date_dir}/{time_dir}/{filename})\n")
                 idx.write("\n")
