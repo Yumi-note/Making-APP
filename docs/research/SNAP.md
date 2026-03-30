@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-03-30 16:39:07 JST / 実行ID: 2026-03-30-163907</div>
+<div class="meta-line">最終更新: 2026-03-30 16:41:46 JST / 実行ID: 2026-03-30-164146</div>
 
 ## 画面遷移ガイド
 
@@ -19,12 +19,12 @@
 - 国: United States
 - セクター: Communication Services
 - 業種: Internet Content & Information
-- 時価総額: 6.93B
+- 時価総額: 6.87B
 - 公式サイト: https://www.snap.com
 
 ## この企業は何をしているか
 
-Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は6.93B、従業員規模は約5,261名です。
+Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は6.87B、従業員規模は約5,261名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -69,5 +69,5 @@ Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication S
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-03-30/163907/SNAP.md)
+- [当日の銘柄レポート](../reports/2026-03-30/164146/SNAP.md)
 - News Score: 100 / Value Score: 50 / 総合: 82

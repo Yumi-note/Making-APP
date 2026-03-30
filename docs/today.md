@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-03-30 16:39:07 JST / 実行ID: 2026-03-30-163907</div>
+<div class="meta-line">最終更新: 2026-03-30 16:41:46 JST / 実行ID: 2026-03-30-164146</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7267.T](reports/2026-03-30/163907/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 100 | 100 | 10.18 | 522.00% | 0.40 | 4.30% | 有望 |
-| US | [META](reports/2026-03-30/163907/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.90 | 40.00% | 6.27 | 30.24% | 有望 |
-| US | [CRM](reports/2026-03-30/163907/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.78 | 98.00% | 2.91 | 12.40% | 有望 |
-| JP | [6594.T](reports/2026-03-30/163907/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 90 | 96 | 18.85 | 192.00% | 1.29 | 6.31% | 有望 |
-| JP | [6758.T](reports/2026-03-30/163907/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 15.45 | 78.00% | 2.33 | 14.92% | 有望 |
-| JP | [8411.T](reports/2026-03-30/163907/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 14.55 | 227.00% | 1.36 | 9.65% | 有望 |
-| JP | [9432.T](reports/2026-03-30/163907/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.44 | 333.00% | 1.34 | 10.72% | 有望 |
-| US | [ORCL](reports/2026-03-30/163907/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 25.04 | 143.00% | 11.96 | 57.57% | 有望 |
-| US | [ZM](reports/2026-03-30/163907/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 12.74 | - | 2.37 | 20.28% | 有望 |
-| US | [SNAP](reports/2026-03-30/163907/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.08 | -19.46% | 有望 |
+| US | [PYPL](reports/2026-03-30/164146/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.28 | 128.00% | 2.03 | 25.73% | 有望 |
+| JP | [7203.T](reports/2026-03-30/164146/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 11.34 | 279.00% | 1.08 | 10.03% | 有望 |
+| JP | [6902.T](reports/2026-03-30/164146/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 14.87 | 328.00% | 0.96 | 7.89% | 有望 |
+| JP | [6501.T](reports/2026-03-30/164146/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.15 | 95.00% | 3.23 | - | 有望 |
+| JP | [6367.T](reports/2026-03-30/164146/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 20.31 | 170.00% | 1.76 | 9.29% | 有望 |
+| JP | [8035.T](reports/2026-03-30/164146/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 32.95 | 153.00% | 8.88 | 26.46% | 有望 |
+| US | [SHOP](reports/2026-03-30/164146/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 120.46 | - | 10.96 | 9.84% | 有望 |
+| US | [AMD](reports/2026-03-30/164146/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 75.86 | - | 5.12 | 7.08% | 有望 |
+| US | [NFLX](reports/2026-03-30/164146/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 50 | 82 | 37.03 | - | 14.86 | 42.76% | 有望 |
+| US | [SNAP](reports/2026-03-30/164146/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.05 | -19.46% | 有望 |
