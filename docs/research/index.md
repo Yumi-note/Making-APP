@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-03-30 16:44:18 JST / 実行ID: 2026-03-30-164418</div>
+<div class="meta-line">最終更新: 2026-03-31 16:39:51 JST / 実行ID: 2026-03-31-163951</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 中位 | [詳細](./PYPL.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
 | 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| ZM | US | Zoom Communications, Inc. | 中位 | [詳細](./ZM.md) |
-| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
+| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
+| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
+| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
+| 9020.T | JP | East Japan Railway Company | 中位 | [詳細](./9020_T.md) |
