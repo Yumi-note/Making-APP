@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-03-31 16:39:51 JST / 実行ID: 2026-03-31-163951</div>
+<div class="meta-line">最終更新: 2026-03-31 16:42:38 JST / 実行ID: 2026-03-31-164238</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
-| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
-| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
 | ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
-| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
-| 9020.T | JP | East Japan Railway Company | 中位 | [詳細](./9020_T.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
+| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
