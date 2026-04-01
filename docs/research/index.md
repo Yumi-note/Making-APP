@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-01 16:39:56 JST / 実行ID: 2026-04-01-163956</div>
+<div class="meta-line">最終更新: 2026-04-01 16:42:25 JST / 実行ID: 2026-04-01-164225</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
-| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
-| 8035.T | JP | Tokyo Electron Limited | 下位 | [詳細](./8035_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| NFLX | US | Netflix, Inc. | 上位 | [詳細](./NFLX.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 下位 | [詳細](./4063_T.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 下位 | [詳細](./AMD.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| 9020.T | JP | East Japan Railway Company | 中位 | [詳細](./9020_T.md) |
