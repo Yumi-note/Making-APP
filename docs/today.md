@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-02 16:40:44 JST / 実行ID: 2026-04-02-164044</div>
+<div class="meta-line">最終更新: 2026-04-02 16:42:44 JST / 実行ID: 2026-04-02-164244</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9984.T](reports/2026-04-02/164044/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.74 | 29.00% | 1.33 | 26.02% | 有望 |
-| JP | [7203.T](reports/2026-04-02/164044/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 11.48 | 287.00% | 1.09 | 10.03% | 有望 |
-| US | [CRM](reports/2026-04-02/164044/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.86 | 95.00% | 2.92 | 12.40% | 有望 |
-| US | [MSFT](reports/2026-04-02/164044/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 23.19 | 99.00% | 7.05 | 34.39% | 有望 |
-| JP | [8411.T](reports/2026-04-02/164044/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.24 | 219.00% | 1.42 | 9.65% | 有望 |
-| JP | [8035.T](reports/2026-04-02/164044/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 32.26 | 153.00% | 8.69 | 26.46% | 有望 |
-| US | [SPOT](reports/2026-04-02/164044/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 50 | 82 | 39.87 | - | 10.36 | 31.93% | 有望 |
-| US | [SNAP](reports/2026-04-02/164044/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.47 | -19.46% | 有望 |
-| US | [SHOP](reports/2026-04-02/164044/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 126.29 | - | 11.49 | 9.84% | 有望 |
-| JP | [6273.T](reports/2026-04-02/164044/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 40 | 80 | 63 | 24.69 | 157.00% | 1.89 | 7.90% | 監視 |
+| JP | [8411.T](reports/2026-04-02/164244/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.24 | 219.00% | 1.42 | 9.65% | 有望 |
+| JP | [9433.T](reports/2026-04-02/164244/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.01 | 304.00% | 2.09 | 14.26% | 有望 |
+| US | [ORCL](reports/2026-04-02/164244/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 26.07 | 138.00% | 12.47 | 57.57% | 有望 |
+| JP | [6367.T](reports/2026-04-02/164244/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 20.89 | 168.00% | 1.82 | 9.29% | 有望 |
+| JP | [4307.T](reports/2026-04-02/164244/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 80 | 93 | 24.88 | 160.00% | 5.05 | 22.70% | 有望 |
+| JP | [7974.T](reports/2026-04-02/164244/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 27.64 | 201.00% | 3.43 | 14.13% | 有望 |
+| US | [UBER](reports/2026-04-02/164244/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.10 | - | 5.46 | 39.93% | 有望 |
+| US | [TWLO](reports/2026-04-02/164244/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 621.12 | - | 2.54 | 0.43% | 有望 |
+| US | [SNAP](reports/2026-04-02/164244/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.47 | -19.46% | 有望 |
+| US | [TSLA](reports/2026-04-02/164244/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 341.42 | - | 16.68 | 4.93% | 有望 |
