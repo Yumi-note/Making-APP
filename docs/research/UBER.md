@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-04 16:16:40 JST / 実行ID: 2026-04-04-161640</div>
+<div class="meta-line">最終更新: 2026-04-04 16:20:35 JST / 実行ID: 2026-04-04-162035</div>
 
 ## 画面遷移ガイド
 
@@ -69,5 +69,5 @@ Uber Technologies, Inc.（UBER）はUnited Statesを主な事業基盤とするT
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-04/161640/UBER.md)
+- [当日の銘柄レポート](../reports/2026-04-04/162035/UBER.md)
 - News Score: 100 / Value Score: 65 / 総合: 88

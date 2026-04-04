@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-04 16:16:40 JST / 実行ID: 2026-04-04-161640</div>
+<div class="meta-line">最終更新: 2026-04-04 16:20:35 JST / 実行ID: 2026-04-04-162035</div>
 
 ## 画面遷移ガイド
 
@@ -69,5 +69,5 @@ Amazon.com, Inc.（AMZN）はUnited Statesを主な事業基盤とするConsumer
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-04/161640/AMZN.md)
+- [当日の銘柄レポート](../reports/2026-04-04/162035/AMZN.md)
 - News Score: 100 / Value Score: 55 / 総合: 84
