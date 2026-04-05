@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-05 13:51:57 JST / 実行ID: 2026-04-05-135157</div>
+<div class="meta-line">最終更新: 2026-04-05 16:02:35 JST / 実行ID: 2026-04-05-160235</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
+| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
+| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| PANW | US | Palo Alto Networks, Inc. | 下位 | [詳細](./PANW.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
