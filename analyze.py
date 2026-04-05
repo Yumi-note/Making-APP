@@ -5,6 +5,7 @@ import datetime
 import json
 import os
 import random
+import re
 import shutil
 from urllib.parse import quote_plus
 
@@ -16,24 +17,27 @@ import requests
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# 候補リスト（毎回このプールからランダムに選択）
+# 候補母集団（固定候補 + 既存データからの自動発見）
 US_POOL = [
     "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA",
     "NVDA", "META", "NFLX", "AMD", "INTC",
     "CRM", "ORCL", "ADBE", "PYPL", "UBER",
     "SHOP", "SPOT", "SNAP", "TWLO", "ZM",
+    "QCOM", "AVGO", "CSCO", "IBM", "TXN",
+    "AMAT", "MU", "PANW", "SNOW", "PLTR",
+    "ABNB", "DIS", "PEP",
 ]
 JP_POOL = [
     "7203.T", "9984.T", "6758.T", "8306.T", "9432.T",
     "6367.T", "7974.T", "4063.T", "8411.T", "9433.T",
     "6902.T", "7751.T", "4543.T", "8035.T", "6501.T",
     "9020.T", "7267.T", "4307.T", "6273.T", "6594.T",
+    "6098.T", "2914.T", "8766.T", "9101.T", "9104.T",
+    "1605.T", "4502.T", "4568.T", "3382.T", "8316.T",
 ]
-
-# 毎回5銘柄ずつランダムに選択
-random.seed(datetime.datetime.now().timestamp())
-US_CANDIDATES = random.sample(US_POOL, 5)
-JP_CANDIDATES = random.sample(JP_POOL, 5)
+US_PICK_COUNT = 5
+JP_PICK_COUNT = 5
+RECENT_RUN_WINDOW = 3
 
 REPORT_ROOT = "reports"
 TODAY = datetime.date.today().isoformat()
@@ -63,6 +67,132 @@ def mkdir_p(path):
 
 def safe_json(obj):
     return json.dumps(obj, ensure_ascii=False, indent=2)
+
+
+def parse_symbol_from_stem(stem):
+    if not stem:
+        return None
+
+    upper_stem = stem.strip().upper()
+    if upper_stem in {"README", "INDEX", "TODAY", "NEWS", "VALUE", "UPDATE_LOG", "NAVIGATION", "INDICATORS"}:
+        return None
+
+    symbol = upper_stem.replace("_", ".")
+    if re.fullmatch(r"\d{4}\.T", symbol):
+        return symbol
+    if re.fullmatch(r"[A-Z][A-Z0-9.-]{0,9}", symbol) and not symbol.endswith(".T"):
+        return symbol
+    return None
+
+
+def load_symbols_from_research_docs():
+    symbols = set()
+    research_dir = os.path.join("docs", "research")
+    if not os.path.isdir(research_dir):
+        return symbols
+
+    for name in os.listdir(research_dir):
+        if not name.endswith(".md"):
+            continue
+        stem = os.path.splitext(name)[0]
+        symbol = parse_symbol_from_stem(stem)
+        if symbol:
+            symbols.add(symbol)
+    return symbols
+
+
+def find_recent_meta_files(limit):
+    meta_paths = []
+    if not os.path.isdir(REPORT_ROOT):
+        return meta_paths
+
+    for root, _, files in os.walk(REPORT_ROOT):
+        if "meta.json" in files:
+            path = os.path.join(root, "meta.json")
+            try:
+                mtime = os.path.getmtime(path)
+            except OSError:
+                continue
+            meta_paths.append((mtime, path))
+
+    meta_paths.sort(key=lambda x: x[0], reverse=True)
+    return [path for _, path in meta_paths[:limit]]
+
+
+def load_symbols_from_recent_meta(limit=30):
+    symbols = set()
+    for path in find_recent_meta_files(limit):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+        except Exception:
+            continue
+
+        for key in ("us", "jp"):
+            for symbol in payload.get(key, []):
+                parsed = parse_symbol_from_stem(str(symbol))
+                if parsed:
+                    symbols.add(parsed)
+
+        for item in payload.get("items", []):
+            symbol = item.get("symbol")
+            parsed = parse_symbol_from_stem(str(symbol)) if symbol else None
+            if parsed:
+                symbols.add(parsed)
+    return symbols
+
+
+def load_recent_symbols(run_window=RECENT_RUN_WINDOW):
+    symbols = set()
+    for path in find_recent_meta_files(run_window):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+        except Exception:
+            continue
+
+        for key in ("us", "jp"):
+            for symbol in payload.get(key, []):
+                parsed = parse_symbol_from_stem(str(symbol))
+                if parsed:
+                    symbols.add(parsed)
+
+        for item in payload.get("items", []):
+            symbol = item.get("symbol")
+            parsed = parse_symbol_from_stem(str(symbol)) if symbol else None
+            if parsed:
+                symbols.add(parsed)
+    return symbols
+
+
+def build_candidate_pools():
+    discovered = load_symbols_from_research_docs() | load_symbols_from_recent_meta(limit=50)
+
+    us = set(US_POOL)
+    jp = set(JP_POOL)
+
+    for symbol in discovered:
+        if symbol.endswith(".T"):
+            jp.add(symbol)
+        else:
+            us.add(symbol)
+
+    return sorted(us), sorted(jp)
+
+
+def choose_symbols(pool, count, recent_symbols):
+    if count >= len(pool):
+        return random.sample(pool, len(pool))
+
+    fresher = [s for s in pool if s not in recent_symbols]
+    if len(fresher) >= count:
+        return random.sample(fresher, count)
+
+    chosen = random.sample(fresher, len(fresher))
+    remaining = [s for s in pool if s not in chosen]
+    needed = count - len(chosen)
+    chosen.extend(random.sample(remaining, needed))
+    return chosen
 
 
 def write_transition_block(f, current_label, suggested, base_prefix=""):
@@ -917,8 +1047,11 @@ def write_update_log_page(items):
 def main():
     mkdir_p(OUT_DIR)
 
-    us_list = US_CANDIDATES
-    jp_list = JP_CANDIDATES
+    random.seed(datetime.datetime.now().timestamp())
+    us_pool, jp_pool = build_candidate_pools()
+    recent_symbols = load_recent_symbols(run_window=RECENT_RUN_WINDOW)
+    us_list = choose_symbols(us_pool, US_PICK_COUNT, recent_symbols)
+    jp_list = choose_symbols(jp_pool, JP_PICK_COUNT, recent_symbols)
 
     reports = {
         "date": TODAY,
@@ -928,6 +1061,11 @@ def main():
         "us": us_list,
         "jp": jp_list,
         "items": [],
+        "selection": {
+            "usPoolSize": len(us_pool),
+            "jpPoolSize": len(jp_pool),
+            "recentExclusionWindow": RECENT_RUN_WINDOW,
+        },
     }
 
     for symbol in us_list + jp_list:
