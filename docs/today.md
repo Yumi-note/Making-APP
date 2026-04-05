@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-04 16:20:35 JST / 実行ID: 2026-04-04-162035</div>
+<div class="meta-line">最終更新: 2026-04-05 13:51:57 JST / 実行ID: 2026-04-05-135157</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-04-04/162035/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.38 | 124.00% | 2.06 | 25.73% | 有望 |
-| JP | [7203.T](reports/2026-04-04/162035/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 11.46 | 291.00% | 1.09 | 10.03% | 有望 |
-| US | [CRM](reports/2026-04-04/162035/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.97 | 94.00% | 2.94 | 12.40% | 有望 |
-| JP | [8411.T](reports/2026-04-04/162035/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.32 | 226.00% | 1.43 | 9.65% | 有望 |
-| JP | [6758.T](reports/2026-04-04/162035/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 16.10 | 75.00% | 2.43 | 14.92% | 有望 |
-| JP | [6902.T](reports/2026-04-04/162035/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 15.12 | 332.00% | 0.98 | 7.89% | 有望 |
-| JP | [6594.T](reports/2026-04-04/162035/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 20.84 | 192.00% | 1.42 | 6.31% | 有望 |
-| US | [ADBE](reports/2026-04-04/162035/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.16 | - | 8.63 | 58.77% | 有望 |
-| US | [UBER](reports/2026-04-04/162035/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.19 | - | 5.49 | 39.93% | 有望 |
-| US | [AMZN](reports/2026-04-04/162035/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 29.26 | - | 5.48 | 22.29% | 有望 |
+| JP | [9104.T](reports/2026-04-05/135157/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.09 | 303.00% | 0.86 | 8.87% | 有望 |
+| US | [IBM](reports/2026-04-05/135157/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 22.28 | 271.00% | 7.12 | 35.16% | 有望 |
+| JP | [8306.T](reports/2026-04-05/135157/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 16.40 | 283.00% | 1.47 | 6.11% | 有望 |
+| JP | [8766.T](reports/2026-04-05/135157/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.18 | 291.00% | 2.59 | 20.66% | 有望 |
+| US | [GOOGL](reports/2026-04-05/135157/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 27.39 | 28.00% | 8.61 | 35.71% | 有望 |
+| US | [QCOM](reports/2026-04-05/135157/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 80 | 93 | 25.56 | 281.00% | 5.90 | 21.48% | 有望 |
+| JP | [4307.T](reports/2026-04-05/135157/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 80 | 93 | 25.07 | 168.00% | 5.09 | 22.70% | 有望 |
+| US | [TXN](reports/2026-04-05/135157/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 35.69 | 291.00% | 10.86 | 30.15% | 有望 |
+| US | [NFLX](reports/2026-04-05/135157/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 50 | 82 | 39.00 | - | 15.65 | 42.76% | 有望 |
+| JP | [4063.T](reports/2026-04-05/135157/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 24.96 | 165.00% | 2.79 | 11.48% | 監視 |
