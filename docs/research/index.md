@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-05 16:22:14 JST / 実行ID: 2026-04-05-162214</div>
+<div class="meta-line">最終更新: 2026-04-06 16:29:20 JST / 実行ID: 2026-04-06-162920</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
-| SPOT | US | Spotify Technology S.A. | 中位 | [詳細](./SPOT.md) |
-| PLTR | US | Palantir Technologies Inc. | 上位 | [詳細](./PLTR.md) |
-| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| TSLA | US | Tesla, Inc. | 下位 | [詳細](./TSLA.md) |
