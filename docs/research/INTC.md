@@ -1,12 +1,12 @@
-# NVDA 企業研究
+# INTC 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-06 16:33:43 JST / 実行ID: 2026-04-06-163343</div>
+<div class="meta-line">最終更新: 2026-04-07 16:39:12 JST / 実行ID: 2026-04-07-163912</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: NVDA**
+- 現在地: **企業研究: INTC**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: NVIDIA Corporation
+- 企業名: Intel Corporation
 - 市場: US
 - 国: United States
 - セクター: Technology
 - 業種: Semiconductors
-- 時価総額: 4.30T
-- 公式サイト: https://www.nvidia.com
+- 時価総額: 264.08B
+- 公式サイト: https://www.intel.com
 
 ## この企業は何をしているか
 
-NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は4.30T、従業員規模は約42,000名です。
+Intel Corporation（INTC）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は264.08B、従業員規模は約85,100名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 
 ## 業界での立ち位置
 
-- 判定: **上位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
+- 判定: **中位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [上位]
-同セクター内順位: 1/3 中位ゾーン [■■■□□]
+この銘柄の位置  : [中位]
+同セクター内順位: 2/3 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 36.13 は割高寄り。配当利回り 2.00% は中水準。
+- 評価に十分なPER/配当データが不足。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-06/163343/NVDA.md)
-- News Score: 100 / Value Score: 65 / 総合: 88
+- [当日の銘柄レポート](../reports/2026-04-07/163912/INTC.md)
+- News Score: 100 / Value Score: 50 / 総合: 82
