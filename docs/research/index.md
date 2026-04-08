@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-08 16:46:53 JST / 実行ID: 2026-04-08-164653</div>
+<div class="meta-line">最終更新: 2026-04-08 16:49:33 JST / 実行ID: 2026-04-08-164933</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 9433.T | JP | KDDI Corporation | 上位 | [詳細](./9433_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
-| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
+| ORCL | US | Oracle Corporation | 上位 | [詳細](./ORCL.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
