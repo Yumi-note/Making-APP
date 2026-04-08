@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-07 16:43:44 JST / 実行ID: 2026-04-07-164344</div>
+<div class="meta-line">最終更新: 2026-04-08 16:44:55 JST / 実行ID: 2026-04-08-164455</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
-| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
-| NFLX | US | Netflix, Inc. | 上位 | [詳細](./NFLX.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
+| PANW | US | Palo Alto Networks, Inc. | 下位 | [詳細](./PANW.md) |

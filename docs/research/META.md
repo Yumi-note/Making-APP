@@ -1,12 +1,12 @@
-# TXN 企業研究
+# META 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-07 16:43:44 JST / 実行ID: 2026-04-07-164344</div>
+<div class="meta-line">最終更新: 2026-04-08 16:44:55 JST / 実行ID: 2026-04-08-164455</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: TXN**
+- 現在地: **企業研究: META**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Texas Instruments Incorporated
+- 企業名: Meta Platforms, Inc.
 - 市場: US
 - 国: United States
-- セクター: Technology
-- 業種: Semiconductors
-- 時価総額: 181.04B
-- 公式サイト: https://www.ti.com
+- セクター: Communication Services
+- 業種: Internet Content & Information
+- 時価総額: 1.58T
+- 公式サイト: https://www.meta.com
 
 ## この企業は何をしているか
 
-Texas Instruments Incorporated（TXN）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は181.04B、従業員規模は約33,000名です。
+Meta Platforms, Inc.（META）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は1.58T、従業員規模は約78,865名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Texas Instruments Incorporated（TXN）はUnited Statesを主な事業基盤と�
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 1/4 上位ゾーン [■■■■■]
+同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 36.42 は割高寄り。配当利回り 291.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 26.60 は割高寄り。配当利回り 37.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Texas Instruments Incorporated（TXN）はUnited Statesを主な事業基盤と�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-07/164344/TXN.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-04-08/164455/META.md)
+- News Score: 100 / Value Score: 80 / 総合: 93
