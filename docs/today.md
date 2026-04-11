@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-10 16:38:38 JST / 実行ID: 2026-04-10-163838</div>
+<div class="meta-line">最終更新: 2026-04-11 16:03:31 JST / 実行ID: 2026-04-11-160331</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [DIS](reports/2026-04-10/163838/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 100 | 100 | 14.58 | 150.00% | 1.62 | 12.02% | 有望 |
-| JP | [8411.T](reports/2026-04-10/163838/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.08 | 215.00% | 1.50 | 9.65% | 有望 |
-| US | [AAPL](reports/2026-04-10/163838/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 80 | 93 | 32.97 | 40.00% | 43.38 | 152.02% | 有望 |
-| US | [ORCL](reports/2026-04-10/163838/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 25.01 | 145.00% | 11.94 | 57.57% | 有望 |
-| US | [ADBE](reports/2026-04-10/163838/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.16 | - | 8.02 | 58.77% | 有望 |
-| US | [AMAT](reports/2026-04-10/163838/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 41.33 | 53.00% | 14.72 | 38.86% | 有望 |
-| JP | [8035.T](reports/2026-04-10/163838/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 37.41 | 142.00% | 10.07 | 26.46% | 有望 |
-| JP | [4502.T](reports/2026-04-10/163838/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 81.39 | 344.00% | 1.18 | 1.50% | 有望 |
-| JP | [4063.T](reports/2026-04-10/163838/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 25.38 | 163.00% | 2.84 | 11.48% | 監視 |
-| JP | [6273.T](reports/2026-04-10/163838/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 40 | 80 | 63 | 28.56 | 146.00% | 2.18 | 7.90% | 監視 |
+| JP | [9984.T](reports/2026-04-11/160331/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 7.06 | 29.00% | 1.39 | 26.02% | 有望 |
+| JP | [9432.T](reports/2026-04-11/160331/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.20 | 346.00% | 1.32 | 10.72% | 有望 |
+| JP | [6902.T](reports/2026-04-11/160331/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 15.20 | 331.00% | 0.98 | 7.89% | 有望 |
+| US | [GOOGL](reports/2026-04-11/160331/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 29.32 | 26.00% | 9.23 | 35.71% | 有望 |
+| JP | [4307.T](reports/2026-04-11/160331/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 80 | 93 | 24.88 | 167.00% | 5.05 | 22.70% | 有望 |
+| JP | [7974.T](reports/2026-04-11/160331/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 26.18 | 218.00% | 3.25 | 14.13% | 有望 |
+| US | [TXN](reports/2026-04-11/160331/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 39.40 | 265.00% | 11.97 | 30.15% | 有望 |
+| US | [SHOP](reports/2026-04-11/160331/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 117.86 | - | 10.72 | 9.84% | 有望 |
+| US | [SPOT](reports/2026-04-11/160331/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 50 | 82 | 38.92 | - | 10.09 | 31.93% | 有望 |
+| US | [SNAP](reports/2026-04-11/160331/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.62 | -19.46% | 有望 |
