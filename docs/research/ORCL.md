@@ -1,12 +1,12 @@
-# SPOT 企業研究
+# ORCL 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-14 16:49:09 JST / 実行ID: 2026-04-14-164909</div>
+<div class="meta-line">最終更新: 2026-04-14 16:53:32 JST / 実行ID: 2026-04-14-165332</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: SPOT**
+- 現在地: **企業研究: ORCL**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Spotify Technology S.A.
+- 企業名: Oracle Corporation
 - 市場: US
-- 国: Sweden
-- セクター: Communication Services
-- 業種: Internet Content & Information
-- 時価総額: 105.21B
-- 公式サイト: https://www.spotify.com
+- 国: United States
+- セクター: Technology
+- 業種: Software - Infrastructure
+- 時価総額: 469.92B
+- 公式サイト: https://www.oracle.com
 
 ## この企業は何をしているか
 
-Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は105.21B、従業員規模は約7,000名です。
+Oracle Corporation（ORCL）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は469.92B、従業員規模は約162,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunic
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 1/2 中位ゾーン [■■■□□]
+同セクター内順位: 1/3 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 41.55 は割高寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 29.33 は割高寄り。配当利回り 129.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunic
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-14/164909/SPOT.md)
-- News Score: 100 / Value Score: 50 / 総合: 82
+- [当日の銘柄レポート](../reports/2026-04-14/165332/ORCL.md)
+- News Score: 100 / Value Score: 80 / 総合: 93
