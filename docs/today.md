@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-15 16:42:14 JST / 実行ID: 2026-04-15-164214</div>
+<div class="meta-line">最終更新: 2026-04-15 16:45:46 JST / 実行ID: 2026-04-15-164546</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-04-15/164214/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 9.12 | 117.00% | 2.24 | 25.73% | 有望 |
-| JP | [7203.T](reports/2026-04-15/164214/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 11.90 | 286.00% | 1.13 | 10.03% | 有望 |
-| JP | [9104.T](reports/2026-04-15/164214/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 7.60 | 312.00% | 0.81 | 8.87% | 有望 |
-| US | [CRM](reports/2026-04-15/164214/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.72 | 103.00% | 2.78 | 12.40% | 有望 |
-| US | [DIS](reports/2026-04-15/164214/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.15 | 146.00% | 1.68 | 12.02% | 有望 |
-| JP | [9433.T](reports/2026-04-15/164214/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.58 | 307.00% | 2.04 | 13.71% | 有望 |
-| JP | [6594.T](reports/2026-04-15/164214/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 21.05 | 192.00% | 1.44 | 6.31% | 有望 |
-| US | [AMAT](reports/2026-04-15/164214/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 39.45 | 54.00% | 14.03 | 38.86% | 有望 |
-| JP | [4502.T](reports/2026-04-15/164214/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 80.07 | 357.00% | 1.17 | 1.50% | 有望 |
-| US | [NVDA](reports/2026-04-15/164214/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 65 | 88 | 40.45 | 2.00% | 30.57 | 101.48% | 有望 |
+| US | [IBM](reports/2026-04-15/164546/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 21.91 | 280.00% | 7.01 | 35.16% | 有望 |
+| JP | [8306.T](reports/2026-04-15/164546/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 17.30 | 274.00% | 1.55 | 6.11% | 有望 |
+| US | [META](reports/2026-04-15/164546/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 80 | 93 | 28.63 | 32.00% | 7.84 | 30.24% | 有望 |
+| JP | [6367.T](reports/2026-04-15/164546/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 21.67 | 161.00% | 1.88 | 9.29% | 有望 |
+| US | [ZM](reports/2026-04-15/164546/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 14.09 | - | 2.62 | 20.28% | 有望 |
+| JP | [8035.T](reports/2026-04-15/164546/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 37.00 | 138.00% | 9.94 | 26.46% | 有望 |
+| US | [NFLX](reports/2026-04-15/164546/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 50 | 82 | 42.08 | - | 16.89 | 42.76% | 有望 |
+| US | [PLTR](reports/2026-04-15/164546/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 225.39 | - | 45.24 | 25.98% | 有望 |
+| JP | [4063.T](reports/2026-04-15/164546/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 26.35 | 158.00% | 2.95 | 11.48% | 監視 |
+| JP | [9020.T](reports/2026-04-15/164546/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.48 | 199.00% | 1.34 | 7.71% | 監視 |

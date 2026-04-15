@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-15 16:42:14 JST / 実行ID: 2026-04-15-164214</div>
+<div class="meta-line">最終更新: 2026-04-15 16:45:46 JST / 実行ID: 2026-04-15-164546</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
