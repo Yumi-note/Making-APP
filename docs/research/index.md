@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-15 16:51:04 JST / 実行ID: 2026-04-15-165104</div>
+<div class="meta-line">最終更新: 2026-04-16 16:58:52 JST / 実行ID: 2026-04-16-165852</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| 7751.T | JP | Canon Inc. | 中位 | [詳細](./7751_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 上位 | [詳細](./7974_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
+| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 6273.T | JP | SMC Corporation | 中位 | [詳細](./6273_T.md) |
