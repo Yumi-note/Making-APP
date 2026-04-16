@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-16 16:59:46 JST / 実行ID: 2026-04-16-165946</div>
+<div class="meta-line">最終更新: 2026-04-16 17:01:13 JST / 実行ID: 2026-04-16-170113</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-04-16/165946/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.95 | 268.00% | 0.97 | 8.46% | 有望 |
-| JP | [7267.T](reports/2026-04-16/165946/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 100 | 100 | 10.43 | 545.00% | 0.41 | 4.30% | 有望 |
-| JP | [6902.T](reports/2026-04-16/165946/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 15.08 | 334.00% | 0.98 | 7.89% | 有望 |
-| JP | [8766.T](reports/2026-04-16/165946/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 12.69 | 309.00% | 2.49 | 20.66% | 有望 |
-| US | [AAPL](reports/2026-04-16/165946/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 80 | 93 | 33.28 | 39.00% | 43.89 | 152.02% | 有望 |
-| US | [TXN](reports/2026-04-16/165946/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 40.87 | 263.00% | 12.42 | 30.15% | 有望 |
-| JP | [4502.T](reports/2026-04-16/165946/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 79.88 | 354.00% | 1.17 | 1.50% | 有望 |
-| US | [UBER](reports/2026-04-16/165946/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 16.29 | - | 5.89 | 39.93% | 有望 |
-| US | [SNAP](reports/2026-04-16/165946/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.56 | -19.46% | 有望 |
-| US | [PANW](reports/2026-04-16/165946/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 92.24 | - | 12.50 | 16.26% | 有望 |
+| JP | [9104.T](reports/2026-04-16/170113/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 7.63 | 314.00% | 0.81 | 8.87% | 有望 |
+| US | [CRM](reports/2026-04-16/170113/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.10 | 99.00% | 2.83 | 12.40% | 有望 |
+| JP | [4568.T](reports/2026-04-16/170113/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.32 | 275.00% | 3.13 | 18.27% | 有望 |
+| JP | [9433.T](reports/2026-04-16/170113/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.54 | 304.00% | 2.03 | 13.71% | 有望 |
+| JP | [6758.T](reports/2026-04-16/170113/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 16.51 | 75.00% | 2.49 | 14.92% | 有望 |
+| US | [ORCL](reports/2026-04-16/170113/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 31.92 | 118.00% | 15.24 | 57.57% | 有望 |
+| US | [QCOM](reports/2026-04-16/170113/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 80 | 93 | 27.18 | 268.00% | 6.27 | 21.48% | 有望 |
+| US | [CSCO](reports/2026-04-16/170113/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 30.05 | 204.00% | 6.91 | 23.75% | 有望 |
+| US | [GOOGL](reports/2026-04-16/170113/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 31.18 | 25.00% | 9.82 | 35.71% | 有望 |
+| JP | [8035.T](reports/2026-04-16/170113/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 38.87 | 138.00% | 10.47 | 26.46% | 有望 |
