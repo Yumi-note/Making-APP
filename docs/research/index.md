@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-17 16:34:52 JST / 実行ID: 2026-04-17-163452</div>
+<div class="meta-line">最終更新: 2026-04-17 16:38:48 JST / 実行ID: 2026-04-17-163848</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
-| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
+| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
