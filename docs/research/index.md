@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-17 16:40:23 JST / 実行ID: 2026-04-17-164023</div>
+<div class="meta-line">最終更新: 2026-04-18 16:20:44 JST / 実行ID: 2026-04-18-162044</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
-| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 上位 | [詳細](./CSCO.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
