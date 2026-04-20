@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-20 16:45:09 JST / 実行ID: 2026-04-20-164509</div>
+<div class="meta-line">最終更新: 2026-04-20 16:47:17 JST / 実行ID: 2026-04-20-164717</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
-| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
+| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
