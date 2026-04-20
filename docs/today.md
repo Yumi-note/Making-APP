@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-20 16:47:17 JST / 実行ID: 2026-04-20-164717</div>
+<div class="meta-line">最終更新: 2026-04-20 16:51:10 JST / 実行ID: 2026-04-20-165110</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [DIS](reports/2026-04-20/164717/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.70 | 141.00% | 1.75 | 12.02% | 有望 |
-| JP | [7751.T](reports/2026-04-20/164717/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.22 | 357.00% | 1.13 | 9.65% | 有望 |
-| US | [CSCO](reports/2026-04-20/164717/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 31.62 | 195.00% | 7.27 | 23.75% | 有望 |
-| JP | [2914.T](reports/2026-04-20/164717/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.58 | 417.00% | 2.52 | 12.58% | 有望 |
-| JP | [6367.T](reports/2026-04-20/164717/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.77 | 155.00% | 2.07 | 9.29% | 有望 |
-| US | [AVGO](reports/2026-04-20/164717/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 77.69 | 64.00% | 23.59 | 33.37% | 有望 |
-| US | [ZM](reports/2026-04-20/164717/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 14.57 | - | 2.71 | 20.28% | 有望 |
-| JP | [6501.T](reports/2026-04-20/164717/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 30.84 | 87.00% | 3.67 | - | 有望 |
-| US | [INTC](reports/2026-04-20/164717/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 2.87 | 0.02% | 有望 |
-| JP | [9020.T](reports/2026-04-20/164717/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.17 | 201.00% | 1.32 | 7.71% | 監視 |
+| US | [PYPL](reports/2026-04-20/165110/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 9.34 | 110.00% | 2.30 | 25.73% | 有望 |
+| US | [PEP](reports/2026-04-20/165110/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 24.61 | 361.00% | 10.50 | 43.88% | 有望 |
+| JP | [8411.T](reports/2026-04-20/165110/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.07 | 214.00% | 1.50 | 9.65% | 有望 |
+| JP | [8316.T](reports/2026-04-20/165110/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.91 | 280.00% | 1.36 | 4.93% | 有望 |
+| US | [GOOGL](reports/2026-04-20/165110/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 31.39 | 25.00% | 9.87 | 35.71% | 有望 |
+| JP | [6098.T](reports/2026-04-20/165110/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 25.66 | 33.00% | 6.87 | 27.32% | 有望 |
+| JP | [4568.T](reports/2026-04-20/165110/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 80 | 93 | 20.05 | 265.00% | 3.25 | 18.27% | 有望 |
+| US | [AMZN](reports/2026-04-20/165110/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 34.44 | - | 6.45 | 22.29% | 有望 |
+| US | [TSLA](reports/2026-04-20/165110/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 362.96 | - | 17.90 | 4.93% | 有望 |
+| JP | [4063.T](reports/2026-04-20/165110/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 26.22 | 153.00% | 2.93 | 11.48% | 監視 |
