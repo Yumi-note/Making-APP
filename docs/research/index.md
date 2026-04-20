@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-19 16:25:14 JST / 実行ID: 2026-04-19-162514</div>
+<div class="meta-line">最終更新: 2026-04-20 16:45:09 JST / 実行ID: 2026-04-20-164509</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| CRM | US | Salesforce, Inc. | 上位 | [詳細](./CRM.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 上位 | [詳細](./8766_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
-| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
