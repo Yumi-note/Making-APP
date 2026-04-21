@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-21 16:43:18 JST / 実行ID: 2026-04-21-164318</div>
+<div class="meta-line">最終更新: 2026-04-21 16:49:39 JST / 実行ID: 2026-04-21-164939</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
