@@ -1,12 +1,12 @@
-# PANW 企業研究
+# SPOT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-21 16:40:12 JST / 実行ID: 2026-04-21-164012</div>
+<div class="meta-line">最終更新: 2026-04-21 16:43:18 JST / 実行ID: 2026-04-21-164318</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: PANW**
+- 現在地: **企業研究: SPOT**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Palo Alto Networks, Inc.
+- 企業名: Spotify Technology S.A.
 - 市場: US
-- 国: United States
-- セクター: Technology
-- 業種: Software - Infrastructure
-- 時価総額: 143.49B
-- 公式サイト: https://www.paloaltonetworks.com
+- 国: Sweden
+- セクター: Communication Services
+- 業種: Internet Content & Information
+- 時価総額: 109.72B
+- 公式サイト: https://www.spotify.com
 
 ## この企業は何をしているか
 
-Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は143.49B、従業員規模は約17,027名です。
+Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は109.72B、従業員規模は約7,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とする
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター内順位: 4/4 下位ゾーン [■□□□□]
+同セクター内順位: 2/2 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 97.69 は割高寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 43.15 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とする
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-21/164012/PANW.md)
+- [当日の銘柄レポート](../reports/2026-04-21/164318/SPOT.md)
 - News Score: 100 / Value Score: 50 / 総合: 82
