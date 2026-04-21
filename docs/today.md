@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-20 16:51:10 JST / 実行ID: 2026-04-20-165110</div>
+<div class="meta-line">最終更新: 2026-04-21 16:40:12 JST / 実行ID: 2026-04-21-164012</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-04-20/165110/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 9.34 | 110.00% | 2.30 | 25.73% | 有望 |
-| US | [PEP](reports/2026-04-20/165110/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 24.61 | 361.00% | 10.50 | 43.88% | 有望 |
-| JP | [8411.T](reports/2026-04-20/165110/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.07 | 214.00% | 1.50 | 9.65% | 有望 |
-| JP | [8316.T](reports/2026-04-20/165110/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.91 | 280.00% | 1.36 | 4.93% | 有望 |
-| US | [GOOGL](reports/2026-04-20/165110/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 31.39 | 25.00% | 9.87 | 35.71% | 有望 |
-| JP | [6098.T](reports/2026-04-20/165110/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 25.66 | 33.00% | 6.87 | 27.32% | 有望 |
-| JP | [4568.T](reports/2026-04-20/165110/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 80 | 93 | 20.05 | 265.00% | 3.25 | 18.27% | 有望 |
-| US | [AMZN](reports/2026-04-20/165110/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 34.44 | - | 6.45 | 22.29% | 有望 |
-| US | [TSLA](reports/2026-04-20/165110/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 362.96 | - | 17.90 | 4.93% | 有望 |
-| JP | [4063.T](reports/2026-04-20/165110/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 26.22 | 153.00% | 2.93 | 11.48% | 監視 |
+| JP | [1605.T](reports/2026-04-21/164012/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.59 | 281.00% | 0.94 | 8.46% | 有望 |
+| US | [IBM](reports/2026-04-21/164012/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 23.03 | 265.00% | 7.36 | 35.16% | 有望 |
+| JP | [6902.T](reports/2026-04-21/164012/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 15.29 | 326.00% | 0.99 | 7.89% | 有望 |
+| JP | [3382.T](reports/2026-04-21/164012/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.87 | 297.00% | 1.28 | 7.61% | 有望 |
+| US | [META](reports/2026-04-21/164012/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 80 | 93 | 28.62 | 31.00% | 7.83 | 30.24% | 有望 |
+| US | [ORCL](reports/2026-04-21/164012/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 33.01 | 113.00% | 15.79 | 57.57% | 有望 |
+| JP | [4502.T](reports/2026-04-21/164012/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 77.51 | 359.00% | 1.13 | 1.50% | 有望 |
+| US | [PANW](reports/2026-04-21/164012/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 97.69 | - | 13.16 | 16.26% | 有望 |
+| US | [PLTR](reports/2026-04-21/164012/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 233.19 | - | 47.56 | 25.98% | 有望 |
+| JP | [9101.T](reports/2026-04-21/164012/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 8.11 | 339.00% | 0.84 | 7.98% | 監視 |
