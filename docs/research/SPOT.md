@@ -1,12 +1,12 @@
-# AMZN 企業研究
+# SPOT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-23 17:04:31 JST / 実行ID: 2026-04-23-170431</div>
+<div class="meta-line">最終更新: 2026-04-23 17:07:01 JST / 実行ID: 2026-04-23-170701</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: AMZN**
+- 現在地: **企業研究: SPOT**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Amazon.com, Inc.
+- 企業名: Spotify Technology S.A.
 - 市場: US
-- 国: United States
-- セクター: Consumer Cyclical
-- 業種: Internet Retail
-- 時価総額: 2.76T
-- 公式サイト: https://www.amazon.com
+- 国: Sweden
+- セクター: Communication Services
+- 業種: Internet Content & Information
+- 時価総額: 104.09B
+- 公式サイト: https://www.spotify.com
 
 ## この企業は何をしているか
 
-Amazon.com, Inc.（AMZN）はUnited Statesを主な事業基盤とするConsumer Cyclicalセクターの企業で、市場区分はUSです。業種はInternet Retailに属し、時価総額は2.76T、従業員規模は約1,576,000名です。
+Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は104.09B、従業員規模は約7,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Amazon.com, Inc.（AMZN）はUnited Statesを主な事業基盤とするConsumer
 
 ## 業界での立ち位置
 
-- 判定: **上位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
+- 判定: **下位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Amazon.com, Inc.（AMZN）はUnited Statesを主な事業基盤とするConsumer
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [上位]
-同セクター比較データが不足しているため、ポジション図は暫定。
+この銘柄の位置  : [下位]
+同セクター内順位: 2/2 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 35.73 は割高寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 40.80 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Amazon.com, Inc.（AMZN）はUnited Statesを主な事業基盤とするConsumer
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-23/170431/AMZN.md)
+- [当日の銘柄レポート](../reports/2026-04-23/170701/SPOT.md)
 - News Score: 100 / Value Score: 50 / 総合: 82
