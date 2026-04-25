@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-24 16:42:57 JST / 実行ID: 2026-04-24-164257</div>
+<div class="meta-line">最終更新: 2026-04-25 16:23:17 JST / 実行ID: 2026-04-25-162317</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9984.T](reports/2026-04-24/164257/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 11.15 | 19.00% | 2.20 | 26.02% | 有望 |
-| US | [MU](reports/2026-04-24/164257/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 23.47 | 12.00% | 7.75 | 39.82% | 有望 |
-| JP | [8316.T](reports/2026-04-24/164257/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.32 | 293.00% | 1.31 | 4.93% | 有望 |
-| US | [QCOM](reports/2026-04-24/164257/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 80 | 93 | 30.05 | 275.00% | 6.94 | 21.48% | 有望 |
-| JP | [4543.T](reports/2026-04-24/164257/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 23.22 | 146.00% | 1.99 | 8.74% | 有望 |
-| JP | [6098.T](reports/2026-04-24/164257/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 24.59 | 33.00% | 6.59 | 27.32% | 有望 |
-| US | [UBER](reports/2026-04-24/164257/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.67 | - | 5.67 | 39.93% | 有望 |
-| US | [AMD](reports/2026-04-24/164257/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 134.69 | - | 9.06 | 7.08% | 有望 |
-| US | [SHOP](reports/2026-04-24/164257/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 131.94 | - | 12.00 | 9.84% | 有望 |
-| JP | [9101.T](reports/2026-04-24/164257/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 8.11 | 344.00% | 0.84 | 7.98% | 監視 |
+| US | [DIS](reports/2026-04-25/162317/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.11 | 146.00% | 1.68 | 12.02% | 有望 |
+| JP | [6758.T](reports/2026-04-25/162317/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 15.53 | 78.00% | 2.35 | 14.92% | 有望 |
+| JP | [6902.T](reports/2026-04-25/162317/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 14.68 | 343.00% | 0.95 | 7.89% | 有望 |
+| US | [MSFT](reports/2026-04-25/162317/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 26.59 | 86.00% | 8.07 | 34.39% | 有望 |
+| US | [CSCO](reports/2026-04-25/162317/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 32.02 | 189.00% | 7.37 | 23.75% | 有望 |
+| JP | [7974.T](reports/2026-04-25/162317/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 25.06 | 228.00% | 3.11 | 14.13% | 有望 |
+| US | [AVGO](reports/2026-04-25/162317/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 82.57 | 62.00% | 25.07 | 33.37% | 有望 |
+| JP | [4307.T](reports/2026-04-25/162317/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 192.30 | 165.00% | 6.74 | 3.60% | 有望 |
+| JP | [8035.T](reports/2026-04-25/162317/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 38.91 | 131.00% | 10.48 | 26.46% | 有望 |
+| US | [SNOW](reports/2026-04-25/162317/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 25.08 | -53.91% | 有望 |
