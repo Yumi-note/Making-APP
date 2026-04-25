@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-25 16:24:31 JST / 実行ID: 2026-04-25-162431</div>
+<div class="meta-line">最終更新: 2026-04-25 16:27:55 JST / 実行ID: 2026-04-25-162755</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| ORCL | US | Oracle Corporation | 上位 | [詳細](./ORCL.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 上位 | [詳細](./2914_T.md) |
-| ADBE | US | Adobe Inc. | 中位 | [詳細](./ADBE.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
-| SPOT | US | Spotify Technology S.A. | 中位 | [詳細](./SPOT.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| PLTR | US | Palantir Technologies Inc. | 下位 | [詳細](./PLTR.md) |
+| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
