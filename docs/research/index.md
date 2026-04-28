@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-04-28 17:25:17 JST / 実行ID: 2026-04-28-172517</div>
+<div class="meta-line">最終更新: 2026-04-28 17:27:13 JST / 実行ID: 2026-04-28-172713</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
-| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
+| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 下位 | [詳細](./AMD.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
