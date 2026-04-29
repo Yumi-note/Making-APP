@@ -1,12 +1,12 @@
-# 3382.T 企業研究
+# AAPL 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-04-29 17:09:47 JST / 実行ID: 2026-04-29-170947</div>
+<div class="meta-line">最終更新: 2026-04-29 17:13:05 JST / 実行ID: 2026-04-29-171305</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 3382.T**
+- 現在地: **企業研究: AAPL**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Seven & i Holdings Co., Ltd.
-- 市場: JP
-- 国: Japan
-- セクター: Consumer Defensive
-- 業種: Grocery Stores
-- 時価総額: 4.44T
-- 公式サイト: https://www.7andi.com
+- 企業名: Apple Inc.
+- 市場: US
+- 国: United States
+- セクター: Technology
+- 業種: Consumer Electronics
+- 時価総額: 3.97T
+- 公式サイト: https://www.apple.com
 
 ## この企業は何をしているか
 
-Seven & i Holdings Co., Ltd.（3382.T）はJapanを主な事業基盤とするConsumer Defensiveセクターの企業で、市場区分はJPです。業種はGrocery Storesに属し、時価総額は4.44T、従業員規模は約29,995名です。
+Apple Inc.（AAPL）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はConsumer Electronicsに属し、時価総額は3.97T、従業員規模は約150,000名です。
 
 事業の柱はブランド製品、小売/EC、サプライチェーンで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ Seven & i Holdings Co., Ltd.（3382.T）はJapanを主な事業基盤とするCo
 ## 業界での立ち位置
 
 - 判定: **中位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（2/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -55,7 +55,7 @@ Seven & i Holdings Co., Ltd.（3382.T）はJapanを主な事業基盤とするCo
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 16.15 は中立。配当利回り 313.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 34.22 は割高寄り。配当利回り 38.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Seven & i Holdings Co., Ltd.（3382.T）はJapanを主な事業基盤とするCo
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-04-29/170947/3382_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-04-29/171305/AAPL.md)
+- News Score: 100 / Value Score: 80 / 総合: 93

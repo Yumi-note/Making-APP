@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-29 17:09:47 JST / 実行ID: 2026-04-29-170947</div>
+<div class="meta-line">最終更新: 2026-04-29 17:13:05 JST / 実行ID: 2026-04-29-171305</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-04-29/170947/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.24 | 388.00% | 1.04 | 9.37% | 有望 |
-| JP | [3382.T](reports/2026-04-29/170947/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.15 | 313.00% | 1.23 | 7.61% | 有望 |
-| JP | [9432.T](reports/2026-04-29/170947/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.03 | 351.00% | 1.30 | 10.72% | 有望 |
-| US | [ORCL](reports/2026-04-29/170947/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 29.19 | 121.00% | 13.96 | 57.57% | 有望 |
-| US | [ZM](reports/2026-04-29/170947/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 15.20 | - | 2.83 | 20.28% | 有望 |
-| US | [SNOW](reports/2026-04-29/170947/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 24.86 | -53.91% | 有望 |
-| US | [INTC](reports/2026-04-29/170947/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 4.07 | -2.91% | 有望 |
-| US | [TSLA](reports/2026-04-29/170947/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 341.88 | - | 17.02 | 4.90% | 有望 |
-| JP | [4063.T](reports/2026-04-29/170947/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 27.40 | 150.00% | 2.94 | 10.68% | 監視 |
-| JP | [9020.T](reports/2026-04-29/170947/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.83 | 203.00% | 1.29 | 7.71% | 監視 |
+| JP | [7267.T](reports/2026-04-29/171305/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 100 | 100 | 10.36 | 541.00% | 0.40 | 4.30% | 有望 |
+| JP | [9433.T](reports/2026-04-29/171305/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.06 | 310.00% | 1.99 | 13.71% | 有望 |
+| US | [GOOGL](reports/2026-04-29/171305/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 32.21 | 24.00% | 10.14 | 35.71% | 有望 |
+| US | [AAPL](reports/2026-04-29/171305/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 80 | 93 | 34.22 | 38.00% | 45.07 | 152.02% | 有望 |
+| JP | [6501.T](reports/2026-04-29/171305/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 28.57 | 111.00% | 3.59 | 13.30% | 有望 |
+| JP | [4307.T](reports/2026-04-29/171305/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 163.93 | 195.00% | 5.71 | 3.60% | 有望 |
+| US | [SPOT](reports/2026-04-29/171305/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 29.29 | - | 9.27 | 37.99% | 有望 |
+| US | [NFLX](reports/2026-04-29/171305/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 29.76 | - | 14.63 | 48.49% | 有望 |
+| US | [SNAP](reports/2026-04-29/171305/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.39 | -19.46% | 有望 |
+| JP | [6273.T](reports/2026-04-29/171305/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 40 | 75 | 61 | 31.15 | 130.00% | 2.38 | 7.90% | 監視 |
