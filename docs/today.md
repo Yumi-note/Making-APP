@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-29 17:13:05 JST / 実行ID: 2026-04-29-171305</div>
+<div class="meta-line">最終更新: 2026-04-30 17:04:15 JST / 実行ID: 2026-04-30-170415</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7267.T](reports/2026-04-29/171305/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 100 | 100 | 10.36 | 541.00% | 0.40 | 4.30% | 有望 |
-| JP | [9433.T](reports/2026-04-29/171305/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.06 | 310.00% | 1.99 | 13.71% | 有望 |
-| US | [GOOGL](reports/2026-04-29/171305/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 32.21 | 24.00% | 10.14 | 35.71% | 有望 |
-| US | [AAPL](reports/2026-04-29/171305/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 80 | 93 | 34.22 | 38.00% | 45.07 | 152.02% | 有望 |
-| JP | [6501.T](reports/2026-04-29/171305/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 28.57 | 111.00% | 3.59 | 13.30% | 有望 |
-| JP | [4307.T](reports/2026-04-29/171305/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 163.93 | 195.00% | 5.71 | 3.60% | 有望 |
-| US | [SPOT](reports/2026-04-29/171305/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 29.29 | - | 9.27 | 37.99% | 有望 |
-| US | [NFLX](reports/2026-04-29/171305/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 29.76 | - | 14.63 | 48.49% | 有望 |
-| US | [SNAP](reports/2026-04-29/171305/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.39 | -19.46% | 有望 |
-| JP | [6273.T](reports/2026-04-29/171305/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 40 | 75 | 61 | 31.15 | 130.00% | 2.38 | 7.90% | 監視 |
+| US | [META](reports/2026-04-30/170415/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.10 | 31.00% | 7.08 | 30.24% | 有望 |
+| US | [QCOM](reports/2026-04-30/170415/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.16 | 236.00% | 8.29 | 21.48% | 有望 |
+| JP | [8766.T](reports/2026-04-30/170415/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.09 | 292.00% | 2.57 | 20.66% | 有望 |
+| JP | [8316.T](reports/2026-04-30/170415/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.74 | 278.00% | 1.35 | 4.93% | 有望 |
+| JP | [7974.T](reports/2026-04-30/170415/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 24.26 | 228.00% | 3.01 | 14.13% | 有望 |
+| JP | [4543.T](reports/2026-04-30/170415/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 22.54 | 146.00% | 1.94 | 8.74% | 有望 |
+| US | [TXN](reports/2026-04-30/170415/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 47.83 | 211.00% | 15.15 | 32.35% | 有望 |
+| JP | [8035.T](reports/2026-04-30/170415/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 37.67 | 133.00% | 10.15 | 26.46% | 有望 |
+| US | [UBER](reports/2026-04-30/170415/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.62 | - | 5.65 | 39.93% | 有望 |
+| US | [PLTR](reports/2026-04-30/170415/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 218.62 | - | 44.59 | 25.98% | 有望 |
