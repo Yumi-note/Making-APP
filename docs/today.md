@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-04-30 17:04:15 JST / 実行ID: 2026-04-30-170415</div>
+<div class="meta-line">最終更新: 2026-04-30 17:06:51 JST / 実行ID: 2026-04-30-170651</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [META](reports/2026-04-30/170415/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.10 | 31.00% | 7.08 | 30.24% | 有望 |
-| US | [QCOM](reports/2026-04-30/170415/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.16 | 236.00% | 8.29 | 21.48% | 有望 |
-| JP | [8766.T](reports/2026-04-30/170415/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.09 | 292.00% | 2.57 | 20.66% | 有望 |
-| JP | [8316.T](reports/2026-04-30/170415/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.74 | 278.00% | 1.35 | 4.93% | 有望 |
-| JP | [7974.T](reports/2026-04-30/170415/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 24.26 | 228.00% | 3.01 | 14.13% | 有望 |
-| JP | [4543.T](reports/2026-04-30/170415/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 22.54 | 146.00% | 1.94 | 8.74% | 有望 |
-| US | [TXN](reports/2026-04-30/170415/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 47.83 | 211.00% | 15.15 | 32.35% | 有望 |
-| JP | [8035.T](reports/2026-04-30/170415/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 37.67 | 133.00% | 10.15 | 26.46% | 有望 |
-| US | [UBER](reports/2026-04-30/170415/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.62 | - | 5.65 | 39.93% | 有望 |
-| US | [PLTR](reports/2026-04-30/170415/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 218.62 | - | 44.59 | 25.98% | 有望 |
+| US | [MU](reports/2026-04-30/170651/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 24.09 | 12.00% | 7.95 | 39.82% | 有望 |
+| US | [DIS](reports/2026-04-30/170651/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.13 | 148.00% | 1.68 | 12.02% | 有望 |
+| JP | [6758.T](reports/2026-04-30/170651/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 15.09 | 77.00% | 2.28 | 14.92% | 有望 |
+| JP | [8306.T](reports/2026-04-30/170651/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 16.72 | 271.00% | 1.49 | 6.11% | 有望 |
+| US | [MSFT](reports/2026-04-30/170651/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 25.03 | 86.00% | 7.59 | 34.39% | 有望 |
+| JP | [6594.T](reports/2026-04-30/170651/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 22.86 | 192.00% | 1.56 | 6.31% | 有望 |
+| JP | [2914.T](reports/2026-04-30/170651/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.88 | 419.00% | 2.55 | 12.58% | 有望 |
+| JP | [4502.T](reports/2026-04-30/170651/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 74.36 | 378.00% | 1.09 | 1.50% | 有望 |
+| US | [ABNB](reports/2026-04-30/170651/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 34.86 | - | 10.31 | 30.23% | 有望 |
+| US | [TWLO](reports/2026-04-30/170651/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 683.52 | - | 2.80 | 0.43% | 有望 |
