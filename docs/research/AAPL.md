@@ -1,12 +1,12 @@
-# 6758.T 企業研究
+# AAPL 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-05-05 17:07:36 JST / 実行ID: 2026-05-05-170736</div>
+<div class="meta-line">最終更新: 2026-05-05 17:09:19 JST / 実行ID: 2026-05-05-170919</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 6758.T**
+- 現在地: **企業研究: AAPL**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Sony Group Corporation
-- 市場: JP
-- 国: Japan
+- 企業名: Apple Inc.
+- 市場: US
+- 国: United States
 - セクター: Technology
 - 業種: Consumer Electronics
-- 時価総額: 18.47T
-- 公式サイト: https://www.sony.com
+- 時価総額: 4.14T
+- 公式サイト: https://www.apple.com
 
 ## この企業は何をしているか
 
-Sony Group Corporation（6758.T）はJapanを主な事業基盤とするTechnologyセクターの企業で、市場区分はJPです。業種はConsumer Electronicsに属し、時価総額は18.47T、従業員規模は約112,300名です。
+Apple Inc.（AAPL）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はConsumer Electronicsに属し、時価総額は4.14T、従業員規模は約166,000名です。
 
 事業の柱はブランド製品、小売/EC、サプライチェーンで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Sony Group Corporation（6758.T）はJapanを主な事業基盤とするTechnolo
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [上位]
-同セクター内順位: 1/2 中位ゾーン [■■■□□]
+同セクター内順位: 1/4 上位ゾーン [■■■■■]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 15.15 は中立。配当利回り 80.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 34.20 は割高寄り。配当利回り 39.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Sony Group Corporation（6758.T）はJapanを主な事業基盤とするTechnolo
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-05-05/170736/6758_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-05-05/170919/AAPL.md)
+- News Score: 100 / Value Score: 80 / 総合: 93
