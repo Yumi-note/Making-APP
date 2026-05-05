@@ -1,12 +1,12 @@
-# SHOP 企業研究
+# QCOM 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-05-04 17:18:53 JST / 実行ID: 2026-05-04-171853</div>
+<div class="meta-line">最終更新: 2026-05-05 17:07:36 JST / 実行ID: 2026-05-05-170736</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: SHOP**
+- 現在地: **企業研究: QCOM**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Shopify Inc.
+- 企業名: QUALCOMM Incorporated
 - 市場: US
-- 国: Canada
+- 国: United States
 - セクター: Technology
-- 業種: Software - Application
-- 時価総額: 166.11B
-- 公式サイト: https://www.shopify.com
+- 業種: Semiconductors
+- 時価総額: 192.12B
+- 公式サイト: https://www.qualcomm.com
 
 ## この企業は何をしているか
 
-Shopify Inc.（SHOP）はCanadaを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は166.11B、従業員規模は約7,600名です。
+QUALCOMM Incorporated（QCOM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は192.12B、従業員規模は約52,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -55,7 +55,7 @@ Shopify Inc.（SHOP）はCanadaを主な事業基盤とするTechnologyセクタ
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 136.11 は割高寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 19.62 は中立。配当利回り 219.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Shopify Inc.（SHOP）はCanadaを主な事業基盤とするTechnologyセクタ
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-05-04/171853/SHOP.md)
-- News Score: 100 / Value Score: 50 / 総合: 82
+- [当日の銘柄レポート](../reports/2026-05-05/170736/QCOM.md)
+- News Score: 100 / Value Score: 90 / 総合: 96

@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-04 17:18:53 JST / 実行ID: 2026-05-04-171853</div>
+<div class="meta-line">最終更新: 2026-05-05 17:07:36 JST / 実行ID: 2026-05-05-170736</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7751.T | JP | Canon Inc. | 中位 | [詳細](./7751_T.md) |
-| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 9433.T | JP | KDDI Corporation | 上位 | [詳細](./9433_T.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| PLTR | US | Palantir Technologies Inc. | 上位 | [詳細](./PLTR.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
-| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
+| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
+| PANW | US | Palo Alto Networks, Inc. | 下位 | [詳細](./PANW.md) |
