@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-10 16:39:22 JST / 実行ID: 2026-05-10-163922</div>
+<div class="meta-line">最終更新: 2026-05-11 17:35:32 JST / 実行ID: 2026-05-11-173532</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-05-10/163922/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.45 | 285.00% | 0.93 | 8.46% | 有望 |
-| JP | [9984.T](reports/2026-05-10/163922/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 11.47 | 18.00% | 2.26 | 26.02% | 有望 |
-| US | [QCOM](reports/2026-05-10/163922/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 23.58 | 168.00% | 8.51 | 36.08% | 有望 |
-| JP | [3382.T](reports/2026-05-10/163922/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.97 | 316.00% | 1.21 | 7.61% | 有望 |
-| US | [TXN](reports/2026-05-10/163922/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 49.28 | 197.00% | 15.61 | 32.35% | 有望 |
-| US | [NFLX](reports/2026-05-10/163922/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 28.22 | - | 13.88 | 48.49% | 有望 |
-| US | [SNOW](reports/2026-05-10/163922/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 27.25 | -53.91% | 有望 |
-| US | [INTC](reports/2026-05-10/163922/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.46 | -2.91% | 有望 |
-| JP | [9101.T](reports/2026-05-10/163922/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 7.69 | 359.00% | 0.79 | 7.98% | 監視 |
-| JP | [6273.T](reports/2026-05-10/163922/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 40 | 75 | 61 | 33.56 | 121.00% | 2.56 | 7.90% | 監視 |
+| JP | [7203.T](reports/2026-05-11/173532/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.72 | 343.00% | 0.96 | 10.23% | 有望 |
+| JP | [7267.T](reports/2026-05-11/173532/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 100 | 100 | 10.03 | 552.00% | 0.39 | 4.30% | 有望 |
+| US | [MSFT](reports/2026-05-11/173532/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.45 | 88.00% | 7.35 | 34.01% | 有望 |
+| JP | [2914.T](reports/2026-05-11/173532/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.94 | 419.00% | 2.68 | 13.62% | 有望 |
+| JP | [6098.T](reports/2026-05-11/173532/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 25.90 | 32.00% | 6.94 | 27.32% | 有望 |
+| US | [MU](reports/2026-05-11/173532/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 75 | 91 | 37.89 | 8.00% | 12.51 | 39.82% | 有望 |
+| JP | [8035.T](reports/2026-05-11/173532/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 41.72 | 138.00% | 11.44 | 29.27% | 有望 |
+| US | [TSLA](reports/2026-05-11/173532/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 410.74 | - | 20.07 | 4.90% | 有望 |
+| US | [TWLO](reports/2026-05-11/173532/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 295.24 | - | 3.87 | 1.32% | 有望 |
+| US | [SNAP](reports/2026-05-11/173532/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.25 | -18.65% | 有望 |

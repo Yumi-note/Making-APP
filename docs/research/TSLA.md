@@ -1,12 +1,12 @@
-# 6273.T 企業研究
+# TSLA 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-05-10 16:39:22 JST / 実行ID: 2026-05-10-163922</div>
+<div class="meta-line">最終更新: 2026-05-11 17:35:32 JST / 実行ID: 2026-05-11-173532</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 6273.T**
+- 現在地: **企業研究: TSLA**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: SMC Corporation
-- 市場: JP
-- 国: Japan
-- セクター: Industrials
-- 業種: Specialty Industrial Machinery
-- 時価総額: 5.23T
-- 公式サイト: https://www.smcworld.com
+- 企業名: Tesla, Inc.
+- 市場: US
+- 国: United States
+- セクター: Consumer Cyclical
+- 業種: Auto Manufacturers
+- 時価総額: 1.65T
+- 公式サイト: https://www.tesla.com
 
 ## この企業は何をしているか
 
-SMC Corporation（6273.T）はJapanを主な事業基盤とするIndustrialsセクターの企業で、市場区分はJPです。業種はSpecialty Industrial Machineryに属し、時価総額は5.23T、従業員規模は約24,527名です。
+Tesla, Inc.（TSLA）はUnited Statesを主な事業基盤とするConsumer Cyclicalセクターの企業で、市場区分はUSです。業種はAuto Manufacturersに属し、時価総額は1.65T、従業員規模は約134,785名です。
 
 事業の柱は製造装置、インフラ/建設、輸送/物流で、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ SMC Corporation（6273.T）はJapanを主な事業基盤とするIndustrialsセ�
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 1/2 中位ゾーン [■■■□□]
+同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 33.56 は割高寄り。配当利回り 121.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 410.74 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ SMC Corporation（6273.T）はJapanを主な事業基盤とするIndustrialsセ�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-05-10/163922/6273_T.md)
-- News Score: 40 / Value Score: 75 / 総合: 61
+- [当日の銘柄レポート](../reports/2026-05-11/173532/TSLA.md)
+- News Score: 100 / Value Score: 50 / 総合: 82
