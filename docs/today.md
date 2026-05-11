@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-11 17:46:46 JST / 実行ID: 2026-05-11-174646</div>
+<div class="meta-line">最終更新: 2026-05-11 17:48:08 JST / 実行ID: 2026-05-11-174808</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-05-11/174646/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.48 | 123.00% | 2.05 | 25.12% | 有望 |
-| JP | [7751.T](reports/2026-05-11/174646/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.14 | 394.00% | 1.04 | 9.37% | 有望 |
-| JP | [4543.T](reports/2026-05-11/174646/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 22.10 | 152.00% | 1.90 | 8.74% | 有望 |
-| JP | [4502.T](reports/2026-05-11/174646/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 72.81 | 384.00% | 1.07 | 1.50% | 有望 |
-| JP | [4307.T](reports/2026-05-11/174646/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 162.06 | 193.00% | 5.69 | 3.60% | 有望 |
-| US | [ZM](reports/2026-05-11/174646/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 17.21 | - | 3.21 | 20.28% | 有望 |
-| US | [UBER](reports/2026-05-11/174646/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 18.96 | - | 5.84 | 35.31% | 有望 |
-| US | [ABNB](reports/2026-05-11/174646/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 34.39 | - | 10.85 | 32.32% | 有望 |
-| US | [SHOP](reports/2026-05-11/174646/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 101.67 | - | 10.04 | 11.31% | 有望 |
-| JP | [9020.T](reports/2026-05-11/174646/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.58 | 230.00% | 1.35 | 8.39% | 監視 |
+| JP | [9432.T](reports/2026-05-11/174808/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.76 | 360.00% | 1.28 | 10.04% | 有望 |
+| JP | [6902.T](reports/2026-05-11/174808/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.53 | 386.00% | 0.92 | 8.94% | 有望 |
+| US | [META](reports/2026-05-11/174808/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.93 | 34.00% | 6.28 | 32.93% | 有望 |
+| US | [CRM](reports/2026-05-11/174808/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.72 | 97.00% | 2.78 | 12.40% | 有望 |
+| JP | [6501.T](reports/2026-05-11/174808/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.64 | 113.00% | 3.38 | 13.30% | 有望 |
+| JP | [6367.T](reports/2026-05-11/174808/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 25.97 | 134.00% | 2.26 | 9.29% | 有望 |
+| JP | [6594.T](reports/2026-05-11/174808/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 26.24 | 192.00% | 1.79 | 6.31% | 有望 |
+| US | [ADBE](reports/2026-05-11/174808/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.32 | - | 8.73 | 58.77% | 有望 |
+| US | [AAPL](reports/2026-05-11/174808/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.30 | 37.00% | 40.21 | 141.47% | 有望 |
+| US | [PLTR](reports/2026-05-11/174808/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 150.66 | - | 43.89 | 32.59% | 有望 |
