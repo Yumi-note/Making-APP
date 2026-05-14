@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-13 17:53:19 JST / 実行ID: 2026-05-13-175319</div>
+<div class="meta-line">最終更新: 2026-05-14 17:26:26 JST / 実行ID: 2026-05-14-172626</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9432.T](reports/2026-05-13/175319/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.90 | 361.00% | 1.26 | 10.04% | 有望 |
-| JP | [7751.T](reports/2026-05-13/175319/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.36 | 389.00% | 1.05 | 9.37% | 有望 |
-| US | [META](reports/2026-05-13/175319/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.41 | 35.00% | 6.42 | 32.93% | 有望 |
-| US | [MSFT](reports/2026-05-13/175319/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.05 | 89.00% | 7.25 | 34.01% | 有望 |
-| US | [CRM](reports/2026-05-13/175319/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.19 | 103.00% | 2.59 | 12.40% | 有望 |
-| JP | [4543.T](reports/2026-05-13/175319/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 22.01 | 156.00% | 1.89 | 8.74% | 有望 |
-| JP | [6501.T](reports/2026-05-13/175319/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 26.88 | 115.00% | 3.28 | 13.30% | 有望 |
-| JP | [9433.T](reports/2026-05-13/175319/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 65 | 88 | 13.83 | - | 1.96 | 13.71% | 有望 |
-| US | [NFLX](reports/2026-05-13/175319/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 28.34 | - | 13.94 | 48.49% | 有望 |
-| US | [TSLA](reports/2026-05-13/175319/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 414.66 | - | 20.45 | 4.90% | 有望 |
+| US | [PYPL](reports/2026-05-14/172626/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.50 | 124.00% | 2.06 | 25.12% | 有望 |
+| JP | [9104.T](reports/2026-05-14/172626/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.53 | 349.00% | 0.71 | 7.57% | 有望 |
+| US | [QCOM](reports/2026-05-14/172626/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 21.49 | 173.00% | 7.75 | 36.08% | 有望 |
+| JP | [3382.T](reports/2026-05-14/172626/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.58 | 320.00% | 1.18 | 7.61% | 有望 |
+| JP | [8411.T](reports/2026-05-14/172626/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.57 | 206.00% | 1.54 | 9.65% | 有望 |
+| JP | [7974.T](reports/2026-05-14/172626/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 90 | 96 | 18.85 | 307.00% | 2.68 | 14.93% | 有望 |
+| JP | [6367.T](reports/2026-05-14/172626/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 26.67 | 140.00% | 2.25 | 9.26% | 有望 |
+| US | [ADBE](reports/2026-05-14/172626/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.82 | - | 8.42 | 58.77% | 有望 |
+| US | [AMAT](reports/2026-05-14/172626/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 45.40 | 49.00% | 16.16 | 38.86% | 有望 |
+| US | [ABNB](reports/2026-05-14/172626/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 33.00 | - | 10.44 | 32.32% | 有望 |
