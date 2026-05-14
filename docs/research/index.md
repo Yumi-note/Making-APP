@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-14 17:26:26 JST / 実行ID: 2026-05-14-172626</div>
+<div class="meta-line">最終更新: 2026-05-14 17:28:24 JST / 実行ID: 2026-05-14-172824</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| ADBE | US | Adobe Inc. | 中位 | [詳細](./ADBE.md) |
-| AMAT | US | Applied Materials, Inc. | 上位 | [詳細](./AMAT.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
