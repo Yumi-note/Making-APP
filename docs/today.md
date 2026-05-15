@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-15 17:15:08 JST / 実行ID: 2026-05-15-171508</div>
+<div class="meta-line">最終更新: 2026-05-15 17:16:27 JST / 実行ID: 2026-05-15-171627</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [DIS](reports/2026-05-15/171508/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 16.49 | 142.00% | 1.69 | 11.01% | 有望 |
-| US | [MU](reports/2026-05-15/171508/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 80 | 93 | 34.84 | 8.00% | 11.49 | 39.82% | 有望 |
-| JP | [2914.T](reports/2026-05-15/171508/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 22.44 | 387.00% | 2.74 | 13.62% | 有望 |
-| US | [TXN](reports/2026-05-15/171508/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 52.20 | 184.00% | 16.59 | 32.35% | 有望 |
-| JP | [4307.T](reports/2026-05-15/171508/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 162.19 | 201.00% | 5.73 | 3.60% | 有望 |
-| JP | [7267.T](reports/2026-05-15/171508/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 530.00% | 0.45 | 4.30% | 有望 |
-| JP | [8035.T](reports/2026-05-15/171508/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 40.26 | 141.00% | 11.05 | 29.27% | 有望 |
-| US | [AMZN](reports/2026-05-15/171508/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.39 | - | 6.39 | 24.29% | 有望 |
-| US | [SNOW](reports/2026-05-15/171508/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 28.27 | -53.91% | 有望 |
-| JP | [9020.T](reports/2026-05-15/171508/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.17 | 228.00% | 1.40 | 8.39% | 監視 |
+| JP | [9432.T](reports/2026-05-15/171627/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.04 | 361.00% | 1.27 | 10.04% | 有望 |
+| JP | [8316.T](reports/2026-05-15/171627/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 13.84 | 159.00% | 1.39 | 9.78% | 有望 |
+| US | [MSFT](reports/2026-05-15/171627/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 25.30 | 89.00% | 7.62 | 34.01% | 有望 |
+| JP | [6501.T](reports/2026-05-15/171627/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.25 | 120.00% | 3.33 | 13.30% | 有望 |
+| US | [UBER](reports/2026-05-15/171627/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 18.57 | - | 5.72 | 35.31% | 有望 |
+| US | [NVDA](reports/2026-05-15/171627/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 65 | 88 | 46.60 | 2.00% | 35.28 | 101.48% | 有望 |
+| US | [NFLX](reports/2026-05-15/171627/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 28.11 | - | 11.79 | 48.49% | 有望 |
+| US | [AMD](reports/2026-05-15/171627/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 143.32 | - | 10.91 | 8.06% | 有望 |
+| JP | [4063.T](reports/2026-05-15/171627/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 60 | 80 | 73 | 28.12 | 142.00% | 2.95 | 10.68% | 監視 |
+| JP | [9101.T](reports/2026-05-15/171627/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 10.89 | 367.00% | 0.73 | 7.06% | 監視 |
