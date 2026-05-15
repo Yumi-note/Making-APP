@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-14 17:28:24 JST / 実行ID: 2026-05-14-172824</div>
+<div class="meta-line">最終更新: 2026-05-15 17:15:08 JST / 実行ID: 2026-05-15-171508</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-05-14/172824/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 10.19 | 340.00% | 0.98 | 10.23% | 有望 |
-| JP | [6902.T](reports/2026-05-14/172824/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.56 | 386.00% | 0.92 | 8.94% | 有望 |
-| JP | [1605.T](reports/2026-05-14/172824/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.86 | 275.00% | 0.96 | 8.46% | 有望 |
-| US | [PEP](reports/2026-05-14/172824/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 23.44 | 397.00% | 9.55 | 43.88% | 有望 |
-| JP | [8766.T](reports/2026-05-14/172824/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.39 | 286.00% | 2.63 | 20.66% | 有望 |
-| JP | [8306.T](reports/2026-05-14/172824/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 17.10 | 267.00% | 1.53 | 6.11% | 有望 |
-| US | [ORCL](reports/2026-05-14/172824/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 35.06 | 105.00% | 16.77 | 57.57% | 有望 |
-| US | [TWLO](reports/2026-05-14/172824/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 295.47 | - | 3.75 | 1.32% | 有望 |
-| US | [PLTR](reports/2026-05-14/172824/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 151.33 | - | 43.11 | 32.59% | 有望 |
-| US | [INTC](reports/2026-05-14/172824/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.03 | -2.91% | 有望 |
+| US | [DIS](reports/2026-05-15/171508/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 16.49 | 142.00% | 1.69 | 11.01% | 有望 |
+| US | [MU](reports/2026-05-15/171508/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 80 | 93 | 34.84 | 8.00% | 11.49 | 39.82% | 有望 |
+| JP | [2914.T](reports/2026-05-15/171508/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 22.44 | 387.00% | 2.74 | 13.62% | 有望 |
+| US | [TXN](reports/2026-05-15/171508/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 52.20 | 184.00% | 16.59 | 32.35% | 有望 |
+| JP | [4307.T](reports/2026-05-15/171508/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 162.19 | 201.00% | 5.73 | 3.60% | 有望 |
+| JP | [7267.T](reports/2026-05-15/171508/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 530.00% | 0.45 | 4.30% | 有望 |
+| JP | [8035.T](reports/2026-05-15/171508/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 40.26 | 141.00% | 11.05 | 29.27% | 有望 |
+| US | [AMZN](reports/2026-05-15/171508/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.39 | - | 6.39 | 24.29% | 有望 |
+| US | [SNOW](reports/2026-05-15/171508/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 28.27 | -53.91% | 有望 |
+| JP | [9020.T](reports/2026-05-15/171508/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.17 | 228.00% | 1.40 | 8.39% | 監視 |
