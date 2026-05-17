@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-16 16:41:59 JST / 実行ID: 2026-05-16-164159</div>
+<div class="meta-line">最終更新: 2026-05-17 16:37:56 JST / 実行ID: 2026-05-17-163756</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-05-16/164159/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.93 | 381.00% | 0.95 | 8.94% | 有望 |
-| JP | [9104.T](reports/2026-05-16/164159/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.48 | 350.00% | 0.70 | 7.57% | 有望 |
-| JP | [9433.T](reports/2026-05-16/164159/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.84 | 308.00% | 2.04 | 14.01% | 有望 |
-| US | [ORCL](reports/2026-05-16/164159/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 34.58 | 104.00% | 16.54 | 57.57% | 有望 |
-| JP | [6594.T](reports/2026-05-16/164159/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 24.51 | 192.00% | 1.68 | 6.31% | 有望 |
-| US | [CSCO](reports/2026-05-16/164159/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 39.40 | 142.00% | 9.78 | 25.23% | 有望 |
-| US | [SPOT](reports/2026-05-16/164159/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 28.90 | - | 9.15 | 37.99% | 有望 |
-| US | [AMZN](reports/2026-05-16/164159/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.63 | - | 6.43 | 24.29% | 有望 |
-| US | [SNOW](reports/2026-05-16/164159/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 28.14 | -53.91% | 有望 |
-| JP | [9101.T](reports/2026-05-16/164159/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 10.89 | 364.00% | 0.73 | 7.06% | 監視 |
+| US | [QCOM](reports/2026-05-17/163756/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 21.64 | 183.00% | 7.82 | 36.08% | 有望 |
+| US | [IBM](reports/2026-05-17/163756/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 19.42 | 308.00% | 6.25 | 35.77% | 有望 |
+| JP | [9432.T](reports/2026-05-17/163756/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.04 | 356.00% | 1.27 | 10.04% | 有望 |
+| JP | [8411.T](reports/2026-05-17/163756/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.39 | 217.00% | 1.53 | 11.44% | 有望 |
+| JP | [4568.T](reports/2026-05-17/163756/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.35 | 389.00% | 2.81 | 15.81% | 有望 |
+| JP | [4543.T](reports/2026-05-17/163756/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 21.69 | 187.00% | 1.86 | 9.21% | 有望 |
+| JP | [6098.T](reports/2026-05-17/163756/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 22.52 | 33.00% | 7.05 | 30.83% | 有望 |
+| US | [AMAT](reports/2026-05-17/163756/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 41.15 | 49.00% | 14.50 | 39.69% | 有望 |
+| US | [NVDA](reports/2026-05-17/163756/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 65 | 88 | 46.08 | 2.00% | 34.81 | 101.48% | 有望 |
+| US | [SHOP](reports/2026-05-17/163756/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 98.31 | - | 9.70 | 11.31% | 有望 |
