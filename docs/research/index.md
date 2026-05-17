@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-17 16:37:56 JST / 実行ID: 2026-05-17-163756</div>
+<div class="meta-line">最終更新: 2026-05-17 16:40:41 JST / 実行ID: 2026-05-17-164041</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
-| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
