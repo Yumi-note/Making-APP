@@ -1,12 +1,12 @@
-# 4307.T 企業研究
+# MSFT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-05-17 16:42:06 JST / 実行ID: 2026-05-17-164206</div>
+<div class="meta-line">最終更新: 2026-05-18 17:48:17 JST / 実行ID: 2026-05-18-174817</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 4307.T**
+- 現在地: **企業研究: MSFT**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Nomura Research Institute, Ltd.
-- 市場: JP
-- 国: Japan
+- 企業名: Microsoft Corporation
+- 市場: US
+- 国: United States
 - セクター: Technology
-- 業種: Information Technology Services
-- 時価総額: 2.49T
-- 公式サイト: https://www.nri.com
+- 業種: Software - Infrastructure
+- 時価総額: 3.15T
+- 公式サイト: https://www.microsoft.com
 
 ## この企業は何をしているか
 
-Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とするTechnologyセクターの企業で、市場区分はJPです。業種はInformation Technology Servicesに属し、時価総額は2.49T、従業員規模は非開示です。
+Microsoft Corporation（MSFT）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は3.15T、従業員規模は約228,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とす�
 
 ## 業界での立ち位置
 
-- 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
+- 判定: **上位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とす�
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [下位]
+この銘柄の位置  : [上位]
 同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 163.90 は割高寄り。配当利回り 194.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 25.28 は割高寄り。配当利回り 86.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とす�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-05-17/164206/4307_T.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-05-18/174817/MSFT.md)
+- News Score: 100 / Value Score: 80 / 総合: 93
