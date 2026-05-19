@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-19 17:52:40 JST / 実行ID: 2026-05-19-175240</div>
+<div class="meta-line">最終更新: 2026-05-19 17:54:38 JST / 実行ID: 2026-05-19-175438</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
-| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
