@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-21 17:47:16 JST / 実行ID: 2026-05-21-174716</div>
+<div class="meta-line">最終更新: 2026-05-21 17:48:58 JST / 実行ID: 2026-05-21-174858</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
+| ORCL | US | Oracle Corporation | 上位 | [詳細](./ORCL.md) |
+| ADBE | US | Adobe Inc. | 中位 | [詳細](./ADBE.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 下位 | [詳細](./8766_T.md) |
+| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
