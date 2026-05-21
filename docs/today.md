@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-21 17:45:20 JST / 実行ID: 2026-05-21-174520</div>
+<div class="meta-line">最終更新: 2026-05-21 17:47:16 JST / 実行ID: 2026-05-21-174716</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-05-21/174520/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.25 | 384.00% | 1.04 | 9.37% | 有望 |
-| US | [PEP](reports/2026-05-21/174520/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 23.30 | 397.00% | 9.50 | 43.88% | 有望 |
-| US | [MSFT](reports/2026-05-21/174520/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.91 | 86.00% | 7.50 | 34.01% | 有望 |
-| JP | [9432.T](reports/2026-05-21/174520/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.19 | 345.00% | 1.29 | 10.04% | 有望 |
-| JP | [4543.T](reports/2026-05-21/174520/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 25.33 | 154.00% | 2.17 | 9.21% | 有望 |
-| JP | [6758.T](reports/2026-05-21/174520/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.75 | 97.00% | 2.59 | 12.37% | 有望 |
-| US | [AAPL](reports/2026-05-21/174520/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 36.93 | 36.00% | 41.97 | 141.47% | 有望 |
-| US | [AMD](reports/2026-05-21/174520/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 148.56 | - | 11.27 | 8.06% | 有望 |
-| US | [INTC](reports/2026-05-21/174520/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.36 | -2.91% | 有望 |
-| JP | [6273.T](reports/2026-05-21/174520/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 24.55 | 154.00% | 1.93 | 8.27% | 監視 |
+| JP | [9984.T](reports/2026-05-21/174716/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.92 | 22.00% | 1.97 | 32.72% | 有望 |
+| JP | [6501.T](reports/2026-05-21/174716/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 28.99 | 114.00% | 3.54 | 13.30% | 有望 |
+| JP | [6594.T](reports/2026-05-21/174716/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.10 | 192.00% | 1.71 | 6.31% | 有望 |
+| US | [AMAT](reports/2026-05-21/174716/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 40.36 | 50.00% | 14.25 | 39.69% | 有望 |
+| US | [MU](reports/2026-05-21/174716/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 75 | 91 | 35.66 | 8.00% | 11.74 | 39.82% | 有望 |
+| JP | [8035.T](reports/2026-05-21/174716/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 39.06 | 157.00% | 10.72 | 29.27% | 有望 |
+| JP | [4502.T](reports/2026-05-21/174716/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 43.24 | 388.00% | 1.05 | 2.61% | 有望 |
+| US | [UBER](reports/2026-05-21/174716/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 18.40 | - | 5.67 | 35.31% | 有望 |
+| US | [CRM](reports/2026-05-21/174716/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 65 | 88 | 22.62 | - | 2.77 | 12.40% | 有望 |
+| US | [AMZN](reports/2026-05-21/174716/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 32.15 | - | 6.55 | 24.29% | 有望 |
