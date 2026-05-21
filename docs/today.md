@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-20 18:08:01 JST / 実行ID: 2026-05-20-180801</div>
+<div class="meta-line">最終更新: 2026-05-21 17:45:20 JST / 実行ID: 2026-05-21-174520</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [IBM](reports/2026-05-20/180801/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 19.77 | 304.00% | 6.36 | 35.77% | 有望 |
-| US | [QCOM](reports/2026-05-20/180801/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 21.82 | 188.00% | 7.87 | 36.08% | 有望 |
-| US | [META](reports/2026-05-20/180801/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.01 | 35.00% | 6.30 | 32.93% | 有望 |
-| JP | [9433.T](reports/2026-05-20/180801/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.15 | 304.00% | 2.08 | 14.01% | 有望 |
-| JP | [3382.T](reports/2026-05-20/180801/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.36 | 308.00% | 1.24 | 7.61% | 有望 |
-| JP | [4568.T](reports/2026-05-20/180801/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.54 | 379.00% | 2.85 | 15.81% | 有望 |
-| JP | [6098.T](reports/2026-05-20/180801/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 27.77 | 26.00% | 8.70 | 30.83% | 有望 |
-| US | [NFLX](reports/2026-05-20/180801/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 28.45 | - | 11.94 | 48.49% | 有望 |
-| US | [SNOW](reports/2026-05-20/180801/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 29.43 | -53.91% | 有望 |
-| JP | [9020.T](reports/2026-05-20/180801/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.21 | 222.00% | 1.40 | 8.39% | 監視 |
+| JP | [7751.T](reports/2026-05-21/174520/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.25 | 384.00% | 1.04 | 9.37% | 有望 |
+| US | [PEP](reports/2026-05-21/174520/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 23.30 | 397.00% | 9.50 | 43.88% | 有望 |
+| US | [MSFT](reports/2026-05-21/174520/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.91 | 86.00% | 7.50 | 34.01% | 有望 |
+| JP | [9432.T](reports/2026-05-21/174520/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.19 | 345.00% | 1.29 | 10.04% | 有望 |
+| JP | [4543.T](reports/2026-05-21/174520/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 25.33 | 154.00% | 2.17 | 9.21% | 有望 |
+| JP | [6758.T](reports/2026-05-21/174520/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.75 | 97.00% | 2.59 | 12.37% | 有望 |
+| US | [AAPL](reports/2026-05-21/174520/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 36.93 | 36.00% | 41.97 | 141.47% | 有望 |
+| US | [AMD](reports/2026-05-21/174520/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 148.56 | - | 11.27 | 8.06% | 有望 |
+| US | [INTC](reports/2026-05-21/174520/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.36 | -2.91% | 有望 |
+| JP | [6273.T](reports/2026-05-21/174520/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 24.55 | 154.00% | 1.93 | 8.27% | 監視 |

@@ -1,12 +1,12 @@
-# SNOW 企業研究
+# INTC 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-05-20 18:08:01 JST / 実行ID: 2026-05-20-180801</div>
+<div class="meta-line">最終更新: 2026-05-21 17:45:20 JST / 実行ID: 2026-05-21-174520</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: SNOW**
+- 現在地: **企業研究: INTC**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Snowflake Inc.
+- 企業名: Intel Corporation
 - 市場: US
 - 国: United States
 - セクター: Technology
-- 業種: Software - Application
-- 時価総額: 57.08B
-- 公式サイト: https://www.snowflake.com
+- 業種: Semiconductors
+- 時価総額: 597.42B
+- 公式サイト: https://www.intel.com
 
 ## この企業は何をしているか
 
-Snowflake Inc.（SNOW）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は57.08B、従業員規模は約9,060名です。
+Intel Corporation（INTC）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は597.42B、従業員規模は約85,100名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ Snowflake Inc.（SNOW）はUnited Statesを主な事業基盤とするTechnology
 ## 業界での立ち位置
 
 - 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -50,7 +50,7 @@ Snowflake Inc.（SNOW）はUnited Statesを主な事業基盤とするTechnology
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター内順位: 3/3 下位ゾーン [■□□□□]
+同セクター内順位: 4/4 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
@@ -69,5 +69,5 @@ Snowflake Inc.（SNOW）はUnited Statesを主な事業基盤とするTechnology
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-05-20/180801/SNOW.md)
+- [当日の銘柄レポート](../reports/2026-05-21/174520/INTC.md)
 - News Score: 100 / Value Score: 50 / 総合: 82
