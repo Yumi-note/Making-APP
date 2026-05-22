@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-21 17:48:58 JST / 実行ID: 2026-05-21-174858</div>
+<div class="meta-line">最終更新: 2026-05-22 17:28:13 JST / 実行ID: 2026-05-22-172813</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| ORCL | US | Oracle Corporation | 上位 | [詳細](./ORCL.md) |
-| ADBE | US | Adobe Inc. | 中位 | [詳細](./ADBE.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 下位 | [詳細](./8766_T.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
