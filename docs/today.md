@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-24 16:47:37 JST / 実行ID: 2026-05-24-164737</div>
+<div class="meta-line">最終更新: 2026-05-25 17:23:01 JST / 実行ID: 2026-05-25-172301</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-05-24/164737/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.61 | 281.00% | 0.91 | 8.28% | 有望 |
-| US | [CRM](reports/2026-05-24/164737/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.09 | 98.00% | 2.83 | 12.40% | 有望 |
-| US | [MSFT](reports/2026-05-24/164737/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.94 | 87.00% | 7.50 | 34.01% | 有望 |
-| US | [DIS](reports/2026-05-24/164737/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 16.48 | 146.00% | 1.69 | 11.01% | 有望 |
-| US | [META](reports/2026-05-24/164737/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.18 | 34.00% | 6.36 | 32.93% | 有望 |
-| JP | [8766.T](reports/2026-05-24/164737/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 14.33 | 332.00% | 2.64 | 20.66% | 有望 |
-| JP | [9433.T](reports/2026-05-24/164737/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.77 | 310.00% | 2.03 | 14.01% | 有望 |
-| JP | [6594.T](reports/2026-05-24/164737/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.91 | 192.00% | 1.77 | 6.31% | 有望 |
-| JP | [8035.T](reports/2026-05-24/164737/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 39.84 | 145.00% | 10.95 | 29.27% | 有望 |
-| US | [SNAP](reports/2026-05-24/164737/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.29 | -18.65% | 有望 |
+| US | [PYPL](reports/2026-05-25/172301/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.30 | 127.00% | 1.97 | 25.12% | 有望 |
+| JP | [7203.T](reports/2026-05-25/172301/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 10.25 | 335.00% | 0.99 | 10.23% | 有望 |
+| US | [IBM](reports/2026-05-25/172301/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 22.46 | 266.00% | 7.24 | 35.77% | 有望 |
+| JP | [7974.T](reports/2026-05-25/172301/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 90 | 96 | 19.41 | 302.00% | 2.76 | 14.93% | 有望 |
+| JP | [6098.T](reports/2026-05-25/172301/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 80 | 93 | 27.88 | 27.00% | 8.54 | 30.83% | 有望 |
+| JP | [6367.T](reports/2026-05-25/172301/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 26.07 | 150.00% | 2.20 | 9.26% | 有望 |
+| US | [ADBE](reports/2026-05-25/172301/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.26 | - | 8.69 | 58.77% | 有望 |
+| JP | [7267.T](reports/2026-05-25/172301/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 500.00% | 0.46 | -2.85% | 有望 |
+| US | [ABNB](reports/2026-05-25/172301/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 32.68 | - | 10.31 | 32.32% | 有望 |
+| US | [INTC](reports/2026-05-25/172301/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.40 | -2.91% | 有望 |
