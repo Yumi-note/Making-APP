@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-28 18:27:25 JST / 実行ID: 2026-05-28-182725</div>
+<div class="meta-line">最終更新: 2026-05-28 18:29:00 JST / 実行ID: 2026-05-28-182900</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7974.T](reports/2026-05-28/182725/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 90 | 96 | 19.13 | 307.00% | 2.72 | 14.93% | 有望 |
-| US | [QCOM](reports/2026-05-28/182725/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 80 | 93 | 26.33 | 158.00% | 9.50 | 36.08% | 有望 |
-| JP | [2914.T](reports/2026-05-28/182725/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.68 | 396.00% | 2.65 | 13.62% | 有望 |
-| US | [CSCO](reports/2026-05-28/182725/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 39.74 | 140.00% | 9.64 | 25.23% | 有望 |
-| JP | [4502.T](reports/2026-05-28/182725/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 42.85 | 398.00% | 1.04 | 2.61% | 有望 |
-| JP | [8035.T](reports/2026-05-28/182725/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 41.87 | 138.00% | 11.50 | 29.27% | 有望 |
-| US | [SHOP](reports/2026-05-28/182725/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 110.60 | - | 11.74 | 11.31% | 有望 |
-| US | [PLTR](reports/2026-05-28/182725/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 158.76 | - | 40.09 | 32.59% | 有望 |
-| US | [SNOW](reports/2026-05-28/182725/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 43.69 | -53.91% | 有望 |
-| JP | [9101.T](reports/2026-05-28/182725/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 10.54 | 382.00% | 0.70 | 7.06% | 監視 |
+| JP | [9432.T](reports/2026-05-28/182900/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.90 | 358.00% | 1.26 | 10.04% | 有望 |
+| JP | [7203.T](reports/2026-05-28/182900/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 10.26 | 332.00% | 0.99 | 10.23% | 有望 |
+| US | [MSFT](reports/2026-05-28/182900/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 25.38 | 88.00% | 7.65 | 34.01% | 有望 |
+| US | [NVDA](reports/2026-05-28/182900/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 32.80 | 47.00% | 33.10 | 114.29% | 有望 |
+| JP | [6594.T](reports/2026-05-28/182900/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.62 | 192.00% | 1.75 | 6.31% | 有望 |
+| JP | [6367.T](reports/2026-05-28/182900/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 25.02 | 154.00% | 2.11 | 9.26% | 有望 |
+| JP | [4543.T](reports/2026-05-28/182900/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 26.02 | 150.00% | 2.23 | 9.21% | 有望 |
+| US | [AAPL](reports/2026-05-28/182900/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 37.59 | 35.00% | 42.82 | 141.47% | 有望 |
+| US | [ORCL](reports/2026-05-28/182900/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 36.42 | 105.00% | 17.42 | 57.57% | 有望 |
+| US | [TWLO](reports/2026-05-28/182900/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 287.56 | - | 3.65 | 1.32% | 有望 |

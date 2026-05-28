@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-05-28 18:27:25 JST / 実行ID: 2026-05-28-182725</div>
+<div class="meta-line">最終更新: 2026-05-28 18:29:00 JST / 実行ID: 2026-05-28-182900</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 上位 | [詳細](./CSCO.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
-| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| AAPL | US | Apple Inc. | 中位 | [詳細](./AAPL.md) |
+| ORCL | US | Oracle Corporation | 下位 | [詳細](./ORCL.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
