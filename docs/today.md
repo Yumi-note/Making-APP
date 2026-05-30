@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-30 16:45:49 JST / 実行ID: 2026-05-30-164549</div>
+<div class="meta-line">最終更新: 2026-05-30 16:49:14 JST / 実行ID: 2026-05-30-164914</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-05-30/164549/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.51 | 378.00% | 1.07 | 9.37% | 有望 |
-| US | [PEP](reports/2026-05-30/164549/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.64 | 411.00% | 9.22 | 43.88% | 有望 |
-| JP | [8766.T](reports/2026-05-30/164549/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.79 | 345.00% | 2.46 | 18.70% | 有望 |
-| JP | [3382.T](reports/2026-05-30/164549/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.65 | 323.00% | 1.19 | 7.61% | 有望 |
-| JP | [4543.T](reports/2026-05-30/164549/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 26.04 | 150.00% | 2.24 | 9.21% | 有望 |
-| JP | [6367.T](reports/2026-05-30/164549/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 24.81 | 155.00% | 2.10 | 9.26% | 有望 |
-| US | [ORCL](reports/2026-05-30/164549/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 40.46 | 89.00% | 19.35 | 57.57% | 有望 |
-| US | [TXN](reports/2026-05-30/164549/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 52.34 | 186.00% | 16.58 | 32.35% | 有望 |
-| US | [NFLX](reports/2026-05-30/164549/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 27.75 | - | 11.64 | 48.49% | 有望 |
-| US | [SHOP](reports/2026-05-30/164549/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 116.38 | - | 12.35 | 11.31% | 有望 |
+| US | [PYPL](reports/2026-05-30/164914/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.40 | 125.00% | 1.99 | 25.12% | 有望 |
+| JP | [6902.T](reports/2026-05-30/164914/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.71 | 388.00% | 0.94 | 8.94% | 有望 |
+| JP | [9104.T](reports/2026-05-30/164914/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.85 | 374.00% | 0.65 | 7.57% | 有望 |
+| US | [META](reports/2026-05-30/164914/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.99 | 33.00% | 6.59 | 32.93% | 有望 |
+| JP | [8306.T](reports/2026-05-30/164914/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 14.12 | 320.00% | 1.52 | 11.91% | 有望 |
+| US | [SPOT](reports/2026-05-30/164914/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 33.22 | - | 10.42 | 37.99% | 有望 |
+| US | [ABNB](reports/2026-05-30/164914/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 32.92 | - | 10.39 | 32.32% | 有望 |
+| US | [AMD](reports/2026-05-30/164914/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 172.61 | - | 13.05 | 8.06% | 有望 |
+| JP | [4063.T](reports/2026-05-30/164914/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 75 | 81 | 30.77 | 137.00% | 3.23 | 10.68% | 有望 |
+| JP | [9101.T](reports/2026-05-30/164914/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 10.53 | 376.00% | 0.70 | 7.06% | 監視 |
