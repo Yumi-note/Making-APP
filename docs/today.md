@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-05-31 16:47:49 JST / 実行ID: 2026-05-31-164749</div>
+<div class="meta-line">最終更新: 2026-05-31 16:52:34 JST / 実行ID: 2026-05-31-165234</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9433.T](reports/2026-05-31/164749/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.93 | 307.00% | 2.05 | 14.01% | 有望 |
-| US | [GOOGL](reports/2026-05-31/164749/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 28.99 | 23.00% | 9.63 | 38.88% | 有望 |
-| US | [AVGO](reports/2026-05-31/164749/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 86.92 | 58.00% | 26.49 | 33.37% | 有望 |
-| US | [ZM](reports/2026-05-31/164749/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 14.96 | - | 3.06 | 21.95% | 有望 |
-| US | [MU](reports/2026-05-31/164749/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 75 | 91 | 45.87 | 6.00% | 15.12 | 39.82% | 有望 |
-| US | [AAPL](reports/2026-05-31/164749/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 37.73 | 35.00% | 42.98 | 141.47% | 有望 |
-| JP | [6098.T](reports/2026-05-31/164749/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 30.40 | 25.00% | 9.32 | 30.83% | 有望 |
-| JP | [4502.T](reports/2026-05-31/164749/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 42.74 | 399.00% | 1.04 | 2.61% | 有望 |
-| JP | [6273.T](reports/2026-05-31/164749/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 26.18 | 145.00% | 2.06 | 8.27% | 監視 |
-| JP | [9020.T](reports/2026-05-31/164749/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 15.55 | 246.00% | 1.26 | 8.39% | 監視 |
+| JP | [7751.T](reports/2026-05-31/165234/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.51 | 378.00% | 1.07 | 9.37% | 有望 |
+| JP | [1605.T](reports/2026-05-31/165234/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.91 | 300.00% | 0.86 | 8.28% | 有望 |
+| US | [PEP](reports/2026-05-31/165234/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.64 | 411.00% | 9.22 | 43.88% | 有望 |
+| JP | [8411.T](reports/2026-05-31/165234/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 14.31 | 208.00% | 1.55 | 11.44% | 有望 |
+| JP | [8316.T](reports/2026-05-31/165234/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.12 | 155.00% | 1.41 | 9.78% | 有望 |
+| JP | [2914.T](reports/2026-05-31/165234/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.93 | 392.00% | 2.68 | 13.62% | 有望 |
+| US | [ORCL](reports/2026-05-31/165234/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 40.46 | 89.00% | 19.35 | 57.57% | 有望 |
+| US | [NFLX](reports/2026-05-31/165234/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 27.75 | - | 11.64 | 48.49% | 有望 |
+| US | [SNAP](reports/2026-05-31/165234/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.65 | -18.65% | 有望 |
+| US | [INTC](reports/2026-05-31/165234/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.17 | -2.91% | 有望 |
