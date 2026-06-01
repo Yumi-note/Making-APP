@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-01 20:04:06 JST / 実行ID: 2026-06-01-200406</div>
+<div class="meta-line">最終更新: 2026-06-01 20:06:43 JST / 実行ID: 2026-06-01-200643</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-06-01/200406/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.71 | 388.00% | 0.92 | 8.94% | 有望 |
-| JP | [9984.T](reports/2026-06-01/200406/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 9.79 | 15.00% | 2.79 | 32.72% | 有望 |
-| US | [MSFT](reports/2026-06-01/200406/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.43 | 81.00% | 8.26 | 34.01% | 有望 |
-| JP | [6594.T](reports/2026-06-01/200406/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 27.61 | 192.00% | 1.89 | 6.31% | 有望 |
-| JP | [7267.T](reports/2026-06-01/200406/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 482.00% | 0.46 | -2.85% | 有望 |
-| US | [ABNB](reports/2026-06-01/200406/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 34.04 | - | 10.74 | 32.32% | 有望 |
-| US | [TWLO](reports/2026-06-01/200406/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 339.69 | - | 4.45 | 1.32% | 有望 |
-| US | [AMD](reports/2026-06-01/200406/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 170.61 | - | 12.90 | 8.06% | 有望 |
-| JP | [4063.T](reports/2026-06-01/200406/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 75 | 81 | 30.77 | 137.00% | 3.24 | 10.68% | 有望 |
-| US | [SPOT](reports/2026-06-01/200406/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 33.91 | - | 10.64 | 37.99% | 見送り |
+| US | [DIS](reports/2026-06-01/200643/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 16.45 | 147.00% | 1.65 | 11.01% | 有望 |
+| JP | [3382.T](reports/2026-06-01/200643/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.65 | 323.00% | 1.17 | 7.61% | 有望 |
+| US | [IBM](reports/2026-06-01/200643/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 80 | 93 | 28.36 | 227.00% | 9.13 | 35.77% | 有望 |
+| JP | [6501.T](reports/2026-06-01/200643/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 29.24 | 109.00% | 3.54 | 13.30% | 有望 |
+| JP | [4543.T](reports/2026-06-01/200643/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 26.04 | 150.00% | 2.18 | 9.21% | 有望 |
+| US | [CSCO](reports/2026-06-01/200643/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 40.44 | 140.00% | 9.78 | 25.23% | 有望 |
+| JP | [4307.T](reports/2026-06-01/200643/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 196.24 | 167.00% | 6.92 | 3.60% | 有望 |
+| US | [ADBE](reports/2026-06-01/200643/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 65 | 88 | 15.97 | - | 9.73 | 58.77% | 有望 |
+| US | [PLTR](reports/2026-06-01/200643/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 180.51 | - | 45.57 | 32.59% | 有望 |
+| JP | [9101.T](reports/2026-06-01/200643/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 10.53 | 376.00% | 0.70 | 7.06% | 監視 |
