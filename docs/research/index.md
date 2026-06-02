@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-02 19:02:47 JST / 実行ID: 2026-06-02-190247</div>
+<div class="meta-line">最終更新: 2026-06-02 19:30:24 JST / 実行ID: 2026-06-02-193024</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| 9432.T | JP | NTT, Inc. | 下位 | [詳細](./9432_T.md) |
-| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
-| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| PANW | US | Palo Alto Networks, Inc. | 上位 | [詳細](./PANW.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| ABNB | US | Airbnb, Inc. | 中位 | [詳細](./ABNB.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |

@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-02 19:02:47 JST / 実行ID: 2026-06-02-190247</div>
+<div class="meta-line">最終更新: 2026-06-02 19:30:24 JST / 実行ID: 2026-06-02-193024</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-06-02/190247/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.36 | 124.00% | 1.98 | 25.12% | 有望 |
-| JP | [1605.T](reports/2026-06-02/190247/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.79 | 316.00% | 0.85 | 8.28% | 有望 |
-| JP | [9432.T](reports/2026-06-02/190247/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.73 | 365.00% | 1.24 | 10.04% | 有望 |
-| US | [PEP](reports/2026-06-02/190247/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.33 | 418.00% | 9.10 | 43.88% | 有望 |
-| US | [CRM](reports/2026-06-02/190247/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.04 | 84.00% | 4.76 | 16.91% | 有望 |
-| JP | [8316.T](reports/2026-06-02/190247/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.44 | 154.00% | 1.44 | 9.78% | 有望 |
-| JP | [6758.T](reports/2026-06-02/190247/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 21.40 | 99.00% | 2.67 | 12.37% | 有望 |
-| JP | [6098.T](reports/2026-06-02/190247/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 31.19 | 24.00% | 9.56 | 30.83% | 有望 |
-| US | [PANW](reports/2026-06-02/190247/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 163.06 | - | 21.97 | 16.26% | 有望 |
-| US | [SHOP](reports/2026-06-02/190247/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 113.79 | - | 12.08 | 11.31% | 有望 |
+| JP | [9433.T](reports/2026-06-02/193024/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.50 | 313.00% | 2.00 | 14.01% | 有望 |
+| JP | [8306.T](reports/2026-06-02/193024/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 14.35 | 318.00% | 1.54 | 11.91% | 有望 |
+| JP | [6594.T](reports/2026-06-02/193024/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 26.82 | 192.00% | 1.83 | 6.31% | 有望 |
+| JP | [2914.T](reports/2026-06-02/193024/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.83 | 399.00% | 2.66 | 13.62% | 有望 |
+| US | [ZM](reports/2026-06-02/193024/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 16.47 | - | 3.37 | 21.95% | 有望 |
+| US | [NFLX](reports/2026-06-02/193024/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 26.91 | - | 11.29 | 48.49% | 有望 |
+| US | [ABNB](reports/2026-06-02/193024/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 33.14 | - | 10.46 | 32.32% | 有望 |
+| US | [SNAP](reports/2026-06-02/193024/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.62 | -18.65% | 有望 |
+| US | [INTC](reports/2026-06-02/193024/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 4.84 | -2.91% | 有望 |
+| JP | [6273.T](reports/2026-06-02/193024/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 24.11 | 150.00% | 1.90 | 8.27% | 監視 |
