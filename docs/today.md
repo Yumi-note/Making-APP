@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-03 19:36:27 JST / 実行ID: 2026-06-03-193627</div>
+<div class="meta-line">最終更新: 2026-06-03 19:38:01 JST / 実行ID: 2026-06-03-193801</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-06-03/193627/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.07 | 370.00% | 1.12 | 9.37% | 有望 |
-| JP | [8766.T](reports/2026-06-03/193627/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.76 | 345.00% | 2.46 | 18.70% | 有望 |
-| US | [TXN](reports/2026-06-03/193627/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 53.09 | 184.00% | 16.84 | 32.35% | 有望 |
-| JP | [6902.T](reports/2026-06-03/193627/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 75 | 91 | 11.81 | - | 0.94 | 8.94% | 有望 |
-| JP | [7267.T](reports/2026-06-03/193627/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 468.00% | 0.49 | -2.85% | 有望 |
-| US | [AMZN](reports/2026-06-03/193627/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 30.66 | - | 6.05 | 24.29% | 有望 |
-| US | [QCOM](reports/2026-06-03/193627/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 55 | 84 | 27.03 | - | 9.76 | 36.08% | 有望 |
-| US | [GOOGL](reports/2026-06-03/193627/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 55 | 84 | 27.45 | - | 9.10 | 38.88% | 有望 |
-| JP | [4543.T](reports/2026-06-03/193627/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 55 | 84 | 24.72 | - | 2.12 | 9.21% | 有望 |
-| US | [AAPL](reports/2026-06-03/193627/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 50 | 82 | 37.62 | - | 42.81 | 141.47% | 有望 |
+| US | [PYPL](reports/2026-06-03/193801/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 7.95 | 126.00% | 1.89 | 25.12% | 有望 |
+| US | [CRM](reports/2026-06-03/193801/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.05 | 88.00% | 4.56 | 16.91% | 有望 |
+| JP | [6758.T](reports/2026-06-03/193801/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 21.12 | 95.00% | 2.63 | 12.37% | 有望 |
+| US | [ADBE](reports/2026-06-03/193801/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.88 | - | 9.07 | 58.77% | 有望 |
+| US | [AMAT](reports/2026-06-03/193801/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 47.30 | 43.00% | 16.70 | 39.69% | 有望 |
+| JP | [6098.T](reports/2026-06-03/193801/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 31.37 | 24.00% | 9.63 | 30.83% | 有望 |
+| JP | [9432.T](reports/2026-06-03/193801/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 75 | 91 | 11.71 | - | 1.24 | 10.04% | 有望 |
+| JP | [4502.T](reports/2026-06-03/193801/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 39.63 | 421.00% | 0.96 | 2.61% | 有望 |
+| US | [SPOT](reports/2026-06-03/193801/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 32.45 | - | 10.19 | 37.99% | 有望 |
+| JP | [6367.T](reports/2026-06-03/193801/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 55 | 84 | 25.36 | - | 2.14 | 9.26% | 有望 |
