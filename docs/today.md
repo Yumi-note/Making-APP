@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-05 17:33:10 JST / 実行ID: 2026-06-05-173310</div>
+<div class="meta-line">最終更新: 2026-06-05 17:44:12 JST / 実行ID: 2026-06-05-174412</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-06-05/173310/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 11.15 | 296.00% | 0.88 | 8.28% | 有望 |
-| JP | [9104.T](reports/2026-06-05/173310/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.38 | 370.00% | 0.69 | 7.57% | 有望 |
-| US | [AMAT](reports/2026-06-05/173310/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 43.81 | 42.00% | 15.48 | 39.69% | 有望 |
-| US | [ORCL](reports/2026-06-05/173310/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 38.55 | 85.00% | 18.44 | 57.57% | 有望 |
-| JP | [7267.T](reports/2026-06-05/173310/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 465.00% | 0.48 | -2.85% | 有望 |
-| JP | [4063.T](reports/2026-06-05/173310/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 80 | 83 | 29.15 | 139.00% | 3.06 | 10.68% | 有望 |
-| US | [TWLO](reports/2026-06-05/173310/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 353.53 | - | 4.56 | 1.32% | 有望 |
-| US | [SNOW](reports/2026-06-05/173310/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 42.50 | -54.87% | 有望 |
-| US | [TSLA](reports/2026-06-05/173310/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 362.45 | - | 18.04 | 4.90% | 有望 |
-| JP | [9101.T](reports/2026-06-05/173310/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 11.11 | 368.00% | 0.74 | 7.06% | 監視 |
+| US | [QCOM](reports/2026-06-05/174412/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 23.53 | 152.00% | 8.49 | 36.08% | 有望 |
+| US | [CRM](reports/2026-06-05/174412/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.69 | 93.00% | 4.48 | 16.91% | 有望 |
+| JP | [8411.T](reports/2026-06-05/174412/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.34 | 196.00% | 1.66 | 11.44% | 有望 |
+| JP | [3382.T](reports/2026-06-05/174412/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.67 | 324.00% | 1.19 | 7.61% | 有望 |
+| JP | [8306.T](reports/2026-06-05/174412/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.16 | 303.00% | 1.63 | 11.91% | 有望 |
+| US | [AVGO](reports/2026-06-05/174412/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 66.09 | 62.00% | 21.43 | 37.28% | 有望 |
+| US | [ADBE](reports/2026-06-05/174412/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.70 | - | 8.96 | 58.77% | 有望 |
+| JP | [6098.T](reports/2026-06-05/174412/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 30.52 | 24.00% | 9.34 | 30.83% | 有望 |
+| US | [NFLX](reports/2026-06-05/174412/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 26.18 | - | 10.99 | 48.49% | 有望 |
+| JP | [6273.T](reports/2026-06-05/174412/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 24.70 | 154.00% | 1.95 | 8.27% | 監視 |
