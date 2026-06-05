@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-05 17:31:44 JST / 実行ID: 2026-06-05-173144</div>
+<div class="meta-line">最終更新: 2026-06-05 17:33:10 JST / 実行ID: 2026-06-05-173310</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
-| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
-| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
-| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
-| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
+| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 上位 | [詳細](./4063_T.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
