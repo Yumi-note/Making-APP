@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-05 17:44:12 JST / 実行ID: 2026-06-05-174412</div>
+<div class="meta-line">最終更新: 2026-06-06 16:45:43 JST / 実行ID: 2026-06-06-164543</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-06-05/174412/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 23.53 | 152.00% | 8.49 | 36.08% | 有望 |
-| US | [CRM](reports/2026-06-05/174412/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.69 | 93.00% | 4.48 | 16.91% | 有望 |
-| JP | [8411.T](reports/2026-06-05/174412/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.34 | 196.00% | 1.66 | 11.44% | 有望 |
-| JP | [3382.T](reports/2026-06-05/174412/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 15.67 | 324.00% | 1.19 | 7.61% | 有望 |
-| JP | [8306.T](reports/2026-06-05/174412/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.16 | 303.00% | 1.63 | 11.91% | 有望 |
-| US | [AVGO](reports/2026-06-05/174412/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 66.09 | 62.00% | 21.43 | 37.28% | 有望 |
-| US | [ADBE](reports/2026-06-05/174412/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.70 | - | 8.96 | 58.77% | 有望 |
-| JP | [6098.T](reports/2026-06-05/174412/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 30.52 | 24.00% | 9.34 | 30.83% | 有望 |
-| US | [NFLX](reports/2026-06-05/174412/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 26.18 | - | 10.99 | 48.49% | 有望 |
-| JP | [6273.T](reports/2026-06-05/174412/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 50 | 80 | 68 | 24.70 | 154.00% | 1.95 | 8.27% | 監視 |
+| US | [MSFT](reports/2026-06-06/164543/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 24.82 | 87.00% | 7.47 | 34.01% | 有望 |
+| JP | [8766.T](reports/2026-06-06/164543/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 13.57 | 350.00% | 2.42 | 18.70% | 有望 |
+| JP | [9433.T](reports/2026-06-06/164543/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.45 | 317.00% | 1.99 | 14.01% | 有望 |
+| US | [GOOGL](reports/2026-06-06/164543/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 28.09 | 24.00% | 9.33 | 38.88% | 有望 |
+| JP | [6594.T](reports/2026-06-06/164543/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 26.45 | 192.00% | 1.81 | 6.31% | 有望 |
+| JP | [6367.T](reports/2026-06-06/164543/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 25.25 | 152.00% | 2.13 | 9.26% | 有望 |
+| US | [CSCO](reports/2026-06-06/164543/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 40.55 | 138.00% | 9.81 | 25.23% | 有望 |
+| JP | [6501.T](reports/2026-06-06/164543/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 30.03 | 106.00% | 3.66 | 13.30% | 有望 |
+| US | [UBER](reports/2026-06-06/164543/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 17.55 | - | 5.82 | 35.31% | 有望 |
+| US | [AMD](reports/2026-06-06/164543/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 156.50 | - | 11.79 | 8.06% | 有望 |
