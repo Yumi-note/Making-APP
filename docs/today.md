@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-08 18:16:07 JST / 実行ID: 2026-06-08-181607</div>
+<div class="meta-line">最終更新: 2026-06-09 17:35:59 JST / 実行ID: 2026-06-09-173559</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [DIS](reports/2026-06-08/181607/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.88 | 150.00% | 1.59 | 11.01% | 有望 |
-| JP | [4568.T](reports/2026-06-08/181607/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.00 | 402.00% | 2.76 | 15.81% | 有望 |
-| JP | [8306.T](reports/2026-06-08/181607/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 14.91 | 298.00% | 1.61 | 11.91% | 有望 |
-| US | [ADBE](reports/2026-06-08/181607/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 14.39 | - | 8.76 | 58.77% | 有望 |
-| US | [ORCL](reports/2026-06-08/181607/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 75 | 91 | 38.22 | 94.00% | 18.28 | 57.57% | 有望 |
-| US | [AMAT](reports/2026-06-08/181607/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 46.38 | 47.00% | 16.40 | 39.69% | 有望 |
-| JP | [7267.T](reports/2026-06-08/181607/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 485.00% | 0.47 | -2.85% | 有望 |
-| JP | [4307.T](reports/2026-06-08/181607/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 178.26 | 172.00% | 6.22 | 3.60% | 有望 |
-| US | [ABNB](reports/2026-06-08/181607/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 33.25 | - | 10.49 | 32.32% | 有望 |
-| JP | [9101.T](reports/2026-06-08/181607/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 11.18 | 357.00% | 0.75 | 7.06% | 監視 |
+| JP | [9984.T](reports/2026-06-09/173559/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 8.08 | 16.00% | 2.30 | 32.72% | 有望 |
+| US | [META](reports/2026-06-09/173559/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.36 | 36.00% | 6.12 | 32.93% | 有望 |
+| JP | [8766.T](reports/2026-06-09/173559/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 90 | 96 | 14.37 | 339.00% | 2.57 | 18.70% | 有望 |
+| US | [GOOGL](reports/2026-06-09/173559/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 27.68 | 24.00% | 9.19 | 38.88% | 有望 |
+| JP | [6501.T](reports/2026-06-09/173559/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.65 | 111.00% | 3.37 | 13.30% | 有望 |
+| JP | [4543.T](reports/2026-06-09/173559/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 24.81 | 158.00% | 2.13 | 9.21% | 有望 |
+| JP | [6367.T](reports/2026-06-09/173559/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 24.75 | 154.00% | 2.09 | 9.26% | 有望 |
+| US | [TXN](reports/2026-06-09/173559/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 48.24 | 195.00% | 15.31 | 32.35% | 有望 |
+| US | [ZM](reports/2026-06-09/173559/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 14.02 | - | 2.87 | 21.95% | 有望 |
+| US | [SNOW](reports/2026-06-09/173559/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 42.29 | -54.87% | 有望 |
