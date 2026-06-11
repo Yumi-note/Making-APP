@@ -1,12 +1,12 @@
-# 9432.T 企業研究
+# CSCO 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-06-11 18:37:03 JST / 実行ID: 2026-06-11-183703</div>
+<div class="meta-line">最終更新: 2026-06-11 18:38:47 JST / 実行ID: 2026-06-11-183847</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 9432.T**
+- 現在地: **企業研究: CSCO**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: NTT, Inc.
-- 市場: JP
-- 国: Japan
-- セクター: Communication Services
-- 業種: Telecom Services
-- 時価総額: 12.27T
-- 公式サイト: https://group.ntt
+- 企業名: Cisco Systems, Inc.
+- 市場: US
+- 国: United States
+- セクター: Technology
+- 業種: Communication Equipment
+- 時価総額: 479.18B
+- 公式サイト: https://www.cisco.com
 
 ## この企業は何をしているか
 
-NTT, Inc.（9432.T）はJapanを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はJPです。業種はTelecom Servicesに属し、時価総額は12.27T、従業員規模は非開示です。
+Cisco Systems, Inc.（CSCO）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はCommunication Equipmentに属し、時価総額は479.18B、従業員規模は約86,200名です。
 
 事業の柱は通信インフラ、モバイルサービス、法人向けソリューションで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ NTT, Inc.（9432.T）はJapanを主な事業基盤とするCommunication Service
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 2/3 中位ゾーン [■■■□□]
+同セクター内順位: 1/2 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 11.95 は割安寄り。配当利回り 362.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 40.39 は割高寄り。配当利回り 141.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ NTT, Inc.（9432.T）はJapanを主な事業基盤とするCommunication Service
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-06-11/183703/9432_T.md)
-- News Score: 100 / Value Score: 100 / 総合: 100
+- [当日の銘柄レポート](../reports/2026-06-11/183847/CSCO.md)
+- News Score: 100 / Value Score: 75 / 総合: 91
