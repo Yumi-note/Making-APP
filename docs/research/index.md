@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-12 17:56:13 JST / 実行ID: 2026-06-12-175613</div>
+<div class="meta-line">最終更新: 2026-06-13 17:02:50 JST / 実行ID: 2026-06-13-170250</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
-| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
-| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 上位 | [詳細](./8766_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
