@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-18 18:19:36 JST / 実行ID: 2026-06-18-181936</div>
+<div class="meta-line">最終更新: 2026-06-19 17:32:01 JST / 実行ID: 2026-06-19-173201</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| AAPL | US | Apple Inc. | 中位 | [詳細](./AAPL.md) |
-| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
