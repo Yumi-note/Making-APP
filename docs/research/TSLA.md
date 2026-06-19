@@ -1,12 +1,12 @@
-# 4568.T 企業研究
+# TSLA 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-06-19 17:32:01 JST / 実行ID: 2026-06-19-173201</div>
+<div class="meta-line">最終更新: 2026-06-19 17:45:47 JST / 実行ID: 2026-06-19-174547</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 4568.T**
+- 現在地: **企業研究: TSLA**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Daiichi Sankyo Company, Limited
-- 市場: JP
-- 国: Japan
-- セクター: Healthcare
-- 業種: Drug Manufacturers - General
-- 時価総額: 4.62T
-- 公式サイト: https://www.daiichisankyo.com
+- 企業名: Tesla, Inc.
+- 市場: US
+- 国: United States
+- セクター: Consumer Cyclical
+- 業種: Auto Manufacturers
+- 時価総額: 1.50T
+- 公式サイト: https://www.tesla.com
 
 ## この企業は何をしているか
 
-Daiichi Sankyo Company, Limited（4568.T）はJapanを主な事業基盤とするHealthcareセクターの企業で、市場区分はJPです。業種はDrug Manufacturers - Generalに属し、時価総額は4.62T、従業員規模は非開示です。
+Tesla, Inc.（TSLA）はUnited Statesを主な事業基盤とするConsumer Cyclicalセクターの企業で、市場区分はUSです。業種はAuto Manufacturersに属し、時価総額は1.50T、従業員規模は約134,785名です。
 
 事業の柱は製造装置、インフラ/建設、輸送/物流で、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Daiichi Sankyo Company, Limited（4568.T）はJapanを主な事業基盤とす�
 
 ## 業界での立ち位置
 
-- 判定: **中位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
+- 判定: **上位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Daiichi Sankyo Company, Limited（4568.T）はJapanを主な事業基盤とす�
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [中位]
+この銘柄の位置  : [上位]
 同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 18.11 は中立。配当利回り 397.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 367.42 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Daiichi Sankyo Company, Limited（4568.T）はJapanを主な事業基盤とす�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-06-19/173201/4568_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-06-19/174547/TSLA.md)
+- News Score: 100 / Value Score: 50 / 総合: 82
