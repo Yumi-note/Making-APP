@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-19 17:45:47 JST / 実行ID: 2026-06-19-174547</div>
+<div class="meta-line">最終更新: 2026-06-20 17:07:43 JST / 実行ID: 2026-06-20-170743</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 下位 | [詳細](./4063_T.md) |
-| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
-| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 中位 | [詳細](./7203_T.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
+| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
+| NFLX | US | Netflix, Inc. | 上位 | [詳細](./NFLX.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
