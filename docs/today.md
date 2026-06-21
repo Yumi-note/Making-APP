@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-20 17:12:24 JST / 実行ID: 2026-06-20-171224</div>
+<div class="meta-line">最終更新: 2026-06-21 17:10:51 JST / 実行ID: 2026-06-21-171051</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-06-20/171224/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.59 | 309.00% | 0.83 | 8.28% | 有望 |
-| JP | [9104.T](reports/2026-06-20/171224/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.51 | 389.00% | 0.63 | 7.57% | 有望 |
-| JP | [7974.T](reports/2026-06-20/171224/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 90 | 96 | 19.42 | 309.00% | 2.76 | 14.93% | 有望 |
-| US | [NVDA](reports/2026-06-20/171224/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 32.26 | 47.00% | 26.11 | 114.29% | 有望 |
-| JP | [6594.T](reports/2026-06-20/171224/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.71 | 192.00% | 1.76 | 6.31% | 有望 |
-| JP | [4543.T](reports/2026-06-20/171224/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 24.16 | 162.00% | 2.07 | 9.21% | 有望 |
-| US | [MU](reports/2026-06-20/171224/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 75 | 91 | 53.46 | 5.00% | 17.65 | 39.82% | 有望 |
-| US | [TWLO](reports/2026-06-20/171224/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 286.42 | - | 3.64 | 1.32% | 有望 |
-| US | [ABNB](reports/2026-06-20/171224/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 35.25 | - | 11.10 | 32.32% | 有望 |
-| US | [SHOP](reports/2026-06-20/171224/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 106.72 | - | 11.33 | 11.31% | 有望 |
+| JP | [6902.T](reports/2026-06-21/171051/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.37 | 389.00% | 0.93 | 8.94% | 有望 |
+| US | [META](reports/2026-06-21/171051/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.01 | 36.00% | 6.01 | 32.93% | 有望 |
+| US | [CRM](reports/2026-06-21/171051/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 17.57 | 116.00% | 3.63 | 16.91% | 有望 |
+| JP | [8411.T](reports/2026-06-21/171051/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.67 | 190.00% | 1.70 | 11.44% | 有望 |
+| JP | [4568.T](reports/2026-06-21/171051/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.12 | 393.00% | 2.78 | 15.81% | 有望 |
+| JP | [3382.T](reports/2026-06-21/171051/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.29 | 310.00% | 1.23 | 7.61% | 有望 |
+| JP | [6367.T](reports/2026-06-21/171051/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 25.45 | 151.00% | 2.15 | 9.26% | 有望 |
+| US | [AVGO](reports/2026-06-21/171051/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 68.44 | 63.00% | 22.32 | 37.28% | 有望 |
+| US | [CSCO](reports/2026-06-21/171051/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 39.85 | 141.00% | 9.64 | 25.23% | 有望 |
+| US | [AMD](reports/2026-06-21/171051/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 178.53 | - | 13.59 | 8.06% | 有望 |
