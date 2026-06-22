@@ -1,12 +1,12 @@
-# AMAT 企業研究
+# IBM 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-06-22 18:59:26 JST / 実行ID: 2026-06-22-185926</div>
+<div class="meta-line">最終更新: 2026-06-22 19:01:21 JST / 実行ID: 2026-06-22-190121</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: AMAT**
+- 現在地: **企業研究: IBM**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Applied Materials, Inc.
+- 企業名: International Business Machines Corporation
 - 市場: US
 - 国: United States
 - セクター: Technology
-- 業種: Semiconductor Equipment & Materials
-- 時価総額: 495.20B
-- 公式サイト: https://www.appliedmaterials.com
+- 業種: Information Technology Services
+- 時価総額: 231.42B
+- 公式サイト: https://www.ibm.com
 
 ## この企業は何をしているか
 
-Applied Materials, Inc.（AMAT）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductor Equipment & Materialsに属し、時価総額は495.20B、従業員規模は約36,400名です。
+International Business Machines Corporation（IBM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はInformation Technology Servicesに属し、時価総額は231.42B、従業員規模は約264,300名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ Applied Materials, Inc.（AMAT）はUnited Statesを主な事業基盤とするT
 ## 業界での立ち位置
 
 - 判定: **中位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が中位（2/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -55,7 +55,7 @@ Applied Materials, Inc.（AMAT）はUnited Statesを主な事業基盤とするT
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 58.79 は割高寄り。配当利回り 34.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 21.77 は中立。配当利回り 271.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Applied Materials, Inc.（AMAT）はUnited Statesを主な事業基盤とするT
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-06-22/185926/AMAT.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-06-22/190121/IBM.md)
+- News Score: 100 / Value Score: 90 / 総合: 96
