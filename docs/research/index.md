@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-22 19:01:21 JST / 実行ID: 2026-06-22-190121</div>
+<div class="meta-line">最終更新: 2026-06-23 17:29:39 JST / 実行ID: 2026-06-23-172939</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
-| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
+| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
+| CSCO | US | Cisco Systems, Inc. | 下位 | [詳細](./CSCO.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
