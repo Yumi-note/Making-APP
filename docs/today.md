@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-24 17:46:02 JST / 実行ID: 2026-06-24-174602</div>
+<div class="meta-line">最終更新: 2026-06-25 17:51:44 JST / 実行ID: 2026-06-25-175144</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9432.T](reports/2026-06-24/174602/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.52 | 374.00% | 1.21 | 10.04% | 有望 |
-| US | [PEP](reports/2026-06-24/174602/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.34 | 417.00% | 9.09 | 43.88% | 有望 |
-| JP | [6758.T](reports/2026-06-24/174602/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 18.95 | 111.00% | 2.36 | 12.34% | 有望 |
-| JP | [6501.T](reports/2026-06-24/174602/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 26.55 | 118.00% | 3.24 | 13.30% | 有望 |
-| JP | [6098.T](reports/2026-06-24/174602/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 32.27 | 23.00% | 9.90 | 30.83% | 有望 |
-| JP | [4307.T](reports/2026-06-24/174602/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 163.72 | 195.00% | 5.78 | 3.60% | 有望 |
-| US | [SHOP](reports/2026-06-24/174602/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 109.74 | - | 11.65 | 11.31% | 有望 |
-| US | [PANW](reports/2026-06-24/174602/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 246.98 | - | 8.42 | 4.83% | 有望 |
-| US | [INTC](reports/2026-06-24/174602/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.88 | -2.91% | 有望 |
-| US | [TWLO](reports/2026-06-24/174602/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 284.62 | - | 3.67 | 1.32% | 有望 |
+| JP | [7203.T](reports/2026-06-25/175144/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.15 | 372.00% | 0.88 | 10.23% | 有望 |
+| JP | [6902.T](reports/2026-06-25/175144/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.21 | 396.00% | 0.91 | 8.94% | 有望 |
+| JP | [9984.T](reports/2026-06-25/175144/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 8.16 | 17.00% | 2.33 | 32.72% | 有望 |
+| US | [META](reports/2026-06-25/175144/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 19.76 | 38.00% | 5.66 | 32.93% | 有望 |
+| JP | [2914.T](reports/2026-06-25/175144/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.18 | 407.00% | 2.58 | 13.62% | 有望 |
+| US | [ZM](reports/2026-06-25/175144/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 12.14 | - | 2.48 | 21.95% | 有望 |
+| US | [AVGO](reports/2026-06-25/175144/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 63.24 | 68.00% | 20.59 | 37.28% | 有望 |
+| JP | [4063.T](reports/2026-06-25/175144/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 80 | 83 | 28.29 | 149.00% | 2.97 | 10.68% | 有望 |
+| US | [ABNB](reports/2026-06-25/175144/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 35.19 | - | 11.08 | 32.32% | 有望 |
+| US | [TSLA](reports/2026-06-25/175144/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 342.50 | - | 17.05 | 4.90% | 有望 |
