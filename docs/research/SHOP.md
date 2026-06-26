@@ -1,12 +1,12 @@
-# 4307.T 企業研究
+# SHOP 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-06-26 17:23:05 JST / 実行ID: 2026-06-26-172305</div>
+<div class="meta-line">最終更新: 2026-06-26 17:25:30 JST / 実行ID: 2026-06-26-172530</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 4307.T**
+- 現在地: **企業研究: SHOP**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Nomura Research Institute, Ltd.
-- 市場: JP
-- 国: Japan
+- 企業名: Shopify Inc.
+- 市場: US
+- 国: Canada
 - セクター: Technology
-- 業種: Information Technology Services
-- 時価総額: 2.41T
-- 公式サイト: https://www.nri.com
+- 業種: Software - Application
+- 時価総額: 151.57B
+- 公式サイト: https://www.shopify.com
 
 ## この企業は何をしているか
 
-Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とするTechnologyセクターの企業で、市場区分はJPです。業種はInformation Technology Servicesに属し、時価総額は2.41T、従業員規模は約16,894名です。
+Shopify Inc.（SHOP）はCanadaを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は151.57B、従業員規模は約7,600名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とす�
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター内順位: 2/2 下位ゾーン [■□□□□]
+同セクター内順位: 4/4 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 162.55 は割高寄り。配当利回り 197.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 114.51 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Nomura Research Institute, Ltd.（4307.T）はJapanを主な事業基盤とす�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-06-26/172305/4307_T.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-06-26/172530/SHOP.md)
+- News Score: 100 / Value Score: 50 / 総合: 82
