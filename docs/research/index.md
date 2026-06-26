@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-25 17:59:39 JST / 実行ID: 2026-06-25-175939</div>
+<div class="meta-line">最終更新: 2026-06-26 17:23:05 JST / 実行ID: 2026-06-26-172305</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
+| AAPL | US | Apple Inc. | 中位 | [詳細](./AAPL.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 上位 | [詳細](./6367_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| NFLX | US | Netflix, Inc. | 下位 | [詳細](./NFLX.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |

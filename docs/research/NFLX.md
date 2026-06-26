@@ -1,12 +1,12 @@
-# 7974.T 企業研究
+# NFLX 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-06-25 17:59:39 JST / 実行ID: 2026-06-25-175939</div>
+<div class="meta-line">最終更新: 2026-06-26 17:23:05 JST / 実行ID: 2026-06-26-172305</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 7974.T**
+- 現在地: **企業研究: NFLX**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Nintendo Co., Ltd.
-- 市場: JP
-- 国: Japan
+- 企業名: Netflix, Inc.
+- 市場: US
+- 国: United States
 - セクター: Communication Services
-- 業種: Electronic Gaming & Multimedia
-- 時価総額: 7.91T
-- 公式サイト: https://www.nintendo.co.jp
+- 業種: Entertainment
+- 時価総額: 311.35B
+- 公式サイト: https://www.netflix.com
 
 ## この企業は何をしているか
 
-Nintendo Co., Ltd.（7974.T）はJapanを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はJPです。業種はElectronic Gaming & Multimediaに属し、時価総額は7.91T、従業員規模は非開示です。
+Netflix, Inc.（NFLX）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はEntertainmentに属し、時価総額は311.35B、従業員規模は約16,000名です。
 
 事業の柱は通信インフラ、モバイルサービス、法人向けソリューションで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Nintendo Co., Ltd.（7974.T）はJapanを主な事業基盤とするCommunicatio
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター比較データが不足しているため、ポジション図は暫定。
+同セクター内順位: 2/2 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 18.80 は中立。配当利回り 319.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 23.85 は中立。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Nintendo Co., Ltd.（7974.T）はJapanを主な事業基盤とするCommunicatio
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-06-25/175939/7974_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-06-26/172305/NFLX.md)
+- News Score: 100 / Value Score: 65 / 総合: 88
