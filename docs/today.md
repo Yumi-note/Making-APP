@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-27 16:45:44 JST / 実行ID: 2026-06-27-164544</div>
+<div class="meta-line">最終更新: 2026-06-27 16:48:35 JST / 実行ID: 2026-06-27-164835</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [META](reports/2026-06-27/164544/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.00 | 38.00% | 5.73 | 32.93% | 有望 |
-| JP | [9433.T](reports/2026-06-27/164544/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.60 | 313.00% | 2.01 | 14.01% | 有望 |
-| US | [ORCL](reports/2026-06-27/164544/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 25.43 | 135.00% | 12.73 | 53.38% | 有望 |
-| US | [CSCO](reports/2026-06-27/164544/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 37.92 | 148.00% | 9.17 | 25.23% | 有望 |
-| US | [TXN](reports/2026-06-27/164544/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 48.79 | 199.00% | 15.48 | 32.35% | 有望 |
-| JP | [4502.T](reports/2026-06-27/164544/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 401.00% | 1.08 | -2.12% | 有望 |
-| JP | [4063.T](reports/2026-06-27/164544/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 90 | 80 | 88 | 27.10 | 155.00% | 2.84 | 10.68% | 有望 |
-| JP | [6273.T](reports/2026-06-27/164544/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 27.10 | 140.00% | 2.14 | 8.27% | 有望 |
-| JP | [9101.T](reports/2026-06-27/164544/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 10.43 | 380.00% | 0.69 | 7.06% | 監視 |
-| US | [SNOW](reports/2026-06-27/164544/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | - | 44.49 | -54.87% | 見送り |
+| US | [PYPL](reports/2026-06-27/164835/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 8.31 | 126.00% | 1.97 | 25.12% | 有望 |
+| JP | [7751.T](reports/2026-06-27/164835/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.60 | 376.00% | 1.08 | 9.37% | 有望 |
+| JP | [9984.T](reports/2026-06-27/164835/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 7.14 | 18.00% | 2.04 | 32.72% | 有望 |
+| US | [IBM](reports/2026-06-27/164835/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 24.04 | 249.00% | 7.74 | 35.77% | 有望 |
+| US | [MSFT](reports/2026-06-27/164835/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 22.23 | 98.00% | 6.69 | 34.01% | 有望 |
+| JP | [8306.T](reports/2026-06-27/164835/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.29 | 296.00% | 1.64 | 11.91% | 有望 |
+| JP | [3382.T](reports/2026-06-27/164835/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.03 | 315.00% | 1.22 | 7.61% | 有望 |
+| US | [ADBE](reports/2026-06-27/164835/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 11.60 | - | 7.02 | 62.95% | 有望 |
+| JP | [6098.T](reports/2026-06-27/164835/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 31.75 | 24.00% | 9.74 | 30.83% | 有望 |
+| US | [UBER](reports/2026-06-27/164835/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 18.91 | - | 6.27 | 35.31% | 有望 |
