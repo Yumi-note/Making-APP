@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-28 16:54:34 JST / 実行ID: 2026-06-28-165434</div>
+<div class="meta-line">最終更新: 2026-06-29 18:00:05 JST / 実行ID: 2026-06-29-180005</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 上位 | [詳細](./4063_T.md) |
-| 6273.T | JP | SMC Corporation | 中位 | [詳細](./6273_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
