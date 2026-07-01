@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-06-30 17:45:10 JST / 実行ID: 2026-06-30-174510</div>
+<div class="meta-line">最終更新: 2026-07-01 17:32:52 JST / 実行ID: 2026-07-01-173252</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
-| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 9433.T | JP | KDDI Corporation | 下位 | [詳細](./9433_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 下位 | [詳細](./CSCO.md) |
-| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
+| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 9020.T | JP | East Japan Railway Company | 中位 | [詳細](./9020_T.md) |

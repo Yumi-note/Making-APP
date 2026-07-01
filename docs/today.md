@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-06-30 17:45:10 JST / 実行ID: 2026-06-30-174510</div>
+<div class="meta-line">最終更新: 2026-07-01 17:32:52 JST / 実行ID: 2026-07-01-173252</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [META](reports/2026-06-30/174510/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.36 | 37.00% | 5.83 | 32.93% | 有望 |
-| US | [IBM](reports/2026-06-30/174510/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 24.84 | 243.00% | 7.99 | 35.77% | 有望 |
-| JP | [6758.T](reports/2026-06-30/174510/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.12 | 106.00% | 2.39 | 12.34% | 有望 |
-| JP | [3382.T](reports/2026-06-30/174510/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.48 | 307.00% | 1.25 | 7.61% | 有望 |
-| JP | [9433.T](reports/2026-06-30/174510/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.95 | 309.00% | 2.06 | 14.01% | 有望 |
-| JP | [8306.T](reports/2026-06-30/174510/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.11 | 299.00% | 1.63 | 11.91% | 有望 |
-| US | [AAPL](reports/2026-06-30/174510/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 80 | 93 | 34.96 | 38.00% | 39.72 | 141.47% | 有望 |
-| JP | [6501.T](reports/2026-06-30/174510/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 25.30 | 125.00% | 3.09 | 13.30% | 有望 |
-| US | [CSCO](reports/2026-06-30/174510/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 39.11 | 143.00% | 9.46 | 25.23% | 有望 |
-| US | [AMD](reports/2026-06-30/174510/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 192.02 | - | 14.66 | 8.06% | 有望 |
+| JP | [8411.T](reports/2026-07-01/173252/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.53 | 194.00% | 1.68 | 11.44% | 有望 |
+| US | [TXN](reports/2026-07-01/173252/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 51.24 | 191.00% | 16.23 | 32.35% | 有望 |
+| JP | [6098.T](reports/2026-07-01/173252/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 33.15 | 23.00% | 10.17 | 30.83% | 有望 |
+| JP | [4307.T](reports/2026-07-01/173252/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 170.90 | 183.00% | 6.02 | 3.60% | 有望 |
+| US | [TWLO](reports/2026-07-01/173252/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 317.77 | - | 4.10 | 1.32% | 有望 |
+| US | [INTC](reports/2026-07-01/173252/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.79 | -2.91% | 有望 |
+| US | [PANW](reports/2026-07-01/173252/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 305.80 | - | 10.42 | 4.83% | 有望 |
+| US | [SHOP](reports/2026-07-01/173252/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 120.38 | - | 12.78 | 11.31% | 有望 |
+| JP | [9101.T](reports/2026-07-01/173252/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 10.06 | 383.00% | 0.67 | 7.06% | 監視 |
+| JP | [9020.T](reports/2026-07-01/173252/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 15.01 | 246.00% | 1.22 | 8.39% | 監視 |
