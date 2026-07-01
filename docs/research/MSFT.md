@@ -1,12 +1,12 @@
-# PANW 企業研究
+# MSFT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-07-01 17:32:52 JST / 実行ID: 2026-07-01-173252</div>
+<div class="meta-line">最終更新: 2026-07-01 17:44:54 JST / 実行ID: 2026-07-01-174454</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: PANW**
+- 現在地: **企業研究: MSFT**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Palo Alto Networks, Inc.
+- 企業名: Microsoft Corporation
 - 市場: US
 - 国: United States
 - セクター: Technology
 - 業種: Software - Infrastructure
-- 時価総額: 289.10B
-- 公式サイト: https://www.paloaltonetworks.com
+- 時価総額: 2.87T
+- 公式サイト: https://www.microsoft.com
 
 ## この企業は何をしているか
 
-Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は289.10B、従業員規模は約21,491名です。
+Microsoft Corporation（MSFT）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は2.87T、従業員規模は約228,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とする
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [中位]
-同セクター内順位: 2/5 中位ゾーン [■■■□□]
+同セクター内順位: 1/4 上位ゾーン [■■■■■]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 305.80 は割高寄り。配当データなし。
+- PER基準(US): 15以下が割安目安。PER 23.03 は中立。配当利回り 98.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とする
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-07-01/173252/PANW.md)
-- News Score: 100 / Value Score: 50 / 総合: 82
+- [当日の銘柄レポート](../reports/2026-07-01/174454/MSFT.md)
+- News Score: 100 / Value Score: 90 / 総合: 96
