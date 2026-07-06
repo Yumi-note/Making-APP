@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-06 17:59:07 JST / 実行ID: 2026-07-06-175907</div>
+<div class="meta-line">最終更新: 2026-07-06 18:01:58 JST / 実行ID: 2026-07-06-180158</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-07-06/175907/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.92 | 209.00% | 7.20 | 36.08% | 有望 |
-| US | [MSFT](reports/2026-07-06/175907/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 22.89 | 93.00% | 6.89 | 34.01% | 有望 |
-| JP | [8306.T](reports/2026-07-06/175907/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.88 | 289.00% | 1.71 | 11.91% | 有望 |
-| JP | [4568.T](reports/2026-07-06/175907/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.64 | 377.00% | 3.02 | 15.81% | 有望 |
-| JP | [3382.T](reports/2026-07-06/175907/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.53 | 296.00% | 1.33 | 7.61% | 有望 |
-| US | [ZM](reports/2026-07-06/175907/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 12.57 | - | 2.57 | 21.95% | 有望 |
-| US | [AMZN](reports/2026-07-06/175907/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.92 | - | 5.96 | 24.29% | 有望 |
-| US | [SNOW](reports/2026-07-06/175907/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 46.64 | -54.87% | 有望 |
-| JP | [6273.T](reports/2026-07-06/175907/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.73 | 132.00% | 2.26 | 8.27% | 監視 |
-| JP | [9101.T](reports/2026-07-06/175907/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 10.63 | 384.00% | 0.71 | 7.06% | 監視 |
+| JP | [6902.T](reports/2026-07-06/180158/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.72 | 378.00% | 0.98 | 8.94% | 有望 |
+| US | [DIS](reports/2026-07-06/180158/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.59 | 151.00% | 1.56 | 11.01% | 有望 |
+| US | [MU](reports/2026-07-06/180158/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 22.35 | 5.00% | 15.38 | 66.64% | 有望 |
+| JP | [8766.T](reports/2026-07-06/180158/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 27.98 | 323.00% | 1.84 | 8.70% | 有望 |
+| US | [AMAT](reports/2026-07-06/180158/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 56.24 | 35.00% | 19.81 | 39.69% | 有望 |
+| JP | [4502.T](reports/2026-07-06/180158/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 381.00% | 1.17 | -2.12% | 有望 |
+| JP | [6098.T](reports/2026-07-06/180158/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 34.18 | 22.00% | 10.49 | 30.83% | 有望 |
+| JP | [4063.T](reports/2026-07-06/180158/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 90 | 80 | 88 | 29.36 | 152.00% | 3.08 | 10.68% | 有望 |
+| US | [PANW](reports/2026-07-06/180158/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 309.10 | - | 10.45 | 4.83% | 有望 |
+| US | [TWLO](reports/2026-07-06/180158/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 311.76 | - | 4.08 | 1.32% | 有望 |
