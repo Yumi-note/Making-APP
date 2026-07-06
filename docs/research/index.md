@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-05 16:51:25 JST / 実行ID: 2026-07-05-165125</div>
+<div class="meta-line">最終更新: 2026-07-06 17:59:07 JST / 実行ID: 2026-07-06-175907</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |

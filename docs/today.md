@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-05 16:51:25 JST / 実行ID: 2026-07-05-165125</div>
+<div class="meta-line">最終更新: 2026-07-06 17:59:07 JST / 実行ID: 2026-07-06-175907</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9432.T](reports/2026-07-05/165125/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.59 | 370.00% | 1.22 | 10.04% | 有望 |
-| JP | [1605.T](reports/2026-07-05/165125/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.80 | 333.00% | 0.77 | 8.28% | 有望 |
-| JP | [9104.T](reports/2026-07-05/165125/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.38 | 395.00% | 0.62 | 7.57% | 有望 |
-| US | [META](reports/2026-07-05/165125/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.19 | 36.00% | 6.07 | 32.93% | 有望 |
-| US | [PEP](reports/2026-07-05/165125/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.64 | 410.00% | 9.23 | 43.88% | 有望 |
-| JP | [8316.T](reports/2026-07-05/165125/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.21 | 135.00% | 1.61 | 6.87% | 有望 |
-| JP | [9433.T](reports/2026-07-05/165125/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.73 | 311.00% | 2.03 | 14.01% | 有望 |
-| US | [IBM](reports/2026-07-05/165125/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 80 | 93 | 25.64 | 233.00% | 8.25 | 35.77% | 有望 |
-| US | [CSCO](reports/2026-07-05/165125/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 37.56 | 149.00% | 9.09 | 25.23% | 有望 |
-| US | [NFLX](reports/2026-07-05/165125/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 25.05 | - | 10.51 | 48.49% | 有望 |
+| US | [QCOM](reports/2026-07-06/175907/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.92 | 209.00% | 7.20 | 36.08% | 有望 |
+| US | [MSFT](reports/2026-07-06/175907/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 22.89 | 93.00% | 6.89 | 34.01% | 有望 |
+| JP | [8306.T](reports/2026-07-06/175907/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.88 | 289.00% | 1.71 | 11.91% | 有望 |
+| JP | [4568.T](reports/2026-07-06/175907/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.64 | 377.00% | 3.02 | 15.81% | 有望 |
+| JP | [3382.T](reports/2026-07-06/175907/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.53 | 296.00% | 1.33 | 7.61% | 有望 |
+| US | [ZM](reports/2026-07-06/175907/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 12.57 | - | 2.57 | 21.95% | 有望 |
+| US | [AMZN](reports/2026-07-06/175907/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.92 | - | 5.96 | 24.29% | 有望 |
+| US | [SNOW](reports/2026-07-06/175907/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 46.64 | -54.87% | 有望 |
+| JP | [6273.T](reports/2026-07-06/175907/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.73 | 132.00% | 2.26 | 8.27% | 監視 |
+| JP | [9101.T](reports/2026-07-06/175907/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 100 | 70 | 10.63 | 384.00% | 0.71 | 7.06% | 監視 |
