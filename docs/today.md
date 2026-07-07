@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-07 17:45:58 JST / 実行ID: 2026-07-07-174558</div>
+<div class="meta-line">最終更新: 2026-07-07 17:48:37 JST / 実行ID: 2026-07-07-174837</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9432.T](reports/2026-07-07/174558/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.74 | 367.00% | 1.24 | 10.04% | 有望 |
-| JP | [9984.T](reports/2026-07-07/174558/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.62 | 18.00% | 1.87 | 32.72% | 有望 |
-| JP | [6367.T](reports/2026-07-07/174558/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 27.67 | 138.00% | 2.34 | 9.26% | 有望 |
-| JP | [6501.T](reports/2026-07-07/174558/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.95 | 114.00% | 3.42 | 13.30% | 有望 |
-| US | [AVGO](reports/2026-07-07/174558/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 61.86 | 70.00% | 20.21 | 37.28% | 有望 |
-| JP | [4307.T](reports/2026-07-07/174558/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 193.53 | 165.00% | 6.78 | 3.60% | 有望 |
-| US | [INTC](reports/2026-07-07/174558/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.00 | -2.91% | 有望 |
-| US | [TSLA](reports/2026-07-07/174558/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 373.22 | - | 18.58 | 4.90% | 有望 |
-| US | [AMD](reports/2026-07-07/174558/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 175.06 | - | 13.19 | 8.06% | 有望 |
-| US | [SNAP](reports/2026-07-07/174558/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.81 | -18.65% | 有望 |
+| JP | [1605.T](reports/2026-07-07/174837/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.93 | 326.00% | 0.78 | 8.28% | 有望 |
+| US | [PEP](reports/2026-07-07/174837/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 22.78 | 413.00% | 9.30 | 43.88% | 有望 |
+| US | [QCOM](reports/2026-07-07/174837/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.71 | 197.00% | 7.13 | 36.08% | 有望 |
+| JP | [4568.T](reports/2026-07-07/174837/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.37 | 363.00% | 2.97 | 15.81% | 有望 |
+| JP | [9433.T](reports/2026-07-07/174837/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.13 | 307.00% | 2.08 | 14.01% | 有望 |
+| US | [IBM](reports/2026-07-07/174837/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 80 | 93 | 27.50 | 226.00% | 8.85 | 35.77% | 有望 |
+| JP | [6594.T](reports/2026-07-07/174837/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.34 | 192.00% | 1.73 | 6.31% | 有望 |
+| JP | [7267.T](reports/2026-07-07/174837/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 438.00% | 0.52 | -2.85% | 有望 |
+| US | [SPOT](reports/2026-07-07/174837/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 33.52 | - | 11.09 | 37.99% | 有望 |
+| US | [AMZN](reports/2026-07-07/174837/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 31.80 | - | 5.97 | 24.29% | 有望 |
