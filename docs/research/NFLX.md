@@ -1,12 +1,12 @@
-# DIS 企業研究
+# NFLX 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-07-08 17:15:19 JST / 実行ID: 2026-07-08-171519</div>
+<div class="meta-line">最終更新: 2026-07-09 17:32:11 JST / 実行ID: 2026-07-09-173211</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: DIS**
+- 現在地: **企業研究: NFLX**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: The Walt Disney Company
+- 企業名: Netflix, Inc.
 - 市場: US
 - 国: United States
 - セクター: Communication Services
 - 業種: Entertainment
-- 時価総額: 169.27B
-- 公式サイト: https://thewaltdisneycompany.com
+- 時価総額: 314.25B
+- 公式サイト: https://www.netflix.com
 
 ## この企業は何をしているか
 
-The Walt Disney Company（DIS）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はEntertainmentに属し、時価総額は169.27B、従業員規模は約175,560名です。
+Netflix, Inc.（NFLX）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はEntertainmentに属し、時価総額は314.25B、従業員規模は約16,000名です。
 
 事業の柱は通信インフラ、モバイルサービス、法人向けソリューションで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ The Walt Disney Company（DIS）はUnited Statesを主な事業基盤とするCo
 ## 業界での立ち位置
 
 - 判定: **中位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が中位（2/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -55,7 +55,7 @@ The Walt Disney Company（DIS）はUnited Statesを主な事業基盤とするCo
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 15.60 は中立。配当利回り 154.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 24.07 は中立。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ The Walt Disney Company（DIS）はUnited Statesを主な事業基盤とするCo
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-07-08/171519/DIS.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-07-09/173211/NFLX.md)
+- News Score: 100 / Value Score: 65 / 総合: 88
