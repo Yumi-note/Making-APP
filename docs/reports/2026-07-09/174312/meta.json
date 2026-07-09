@@ -1,9 +1,23 @@
 {
+  "date": "2026-07-09",
+  "time": "174312",
   "runId": "2026-07-09-174312",
-  "updatedAt": "2026-07-09 17:43:12 JST",
-  "channel": "#stock-alerts",
-  "text": "更新: 2026-07-09 17:43:12 JST\n実行ID: 2026-07-09-174312\n今日の候補10銘柄\n1. QCOM (US) Score:96 News:100 Value:90 判定:有望\n2. MU (US) Score:96 News:100 Value:90 判定:有望\n3. PEP (US) Score:96 News:100 Value:90 判定:有望\n4. 8316.T (JP) Score:96 News:100 Value:90 判定:有望\n5. 8306.T (JP) Score:96 News:100 Value:90 判定:有望\n6. AAPL (US) Score:91 News:100 Value:75 判定:有望\n7. 8035.T (JP) Score:91 News:100 Value:75 判定:有望\n8. 4307.T (JP) Score:91 News:100 Value:75 判定:有望\n9. 4063.T (JP) Score:88 News:90 Value:80 判定:有望\n10. AMZN (US) Score:84 News:100 Value:55 判定:有望",
-  "top10": [
+  "lastUpdated": "2026-07-09 17:43:12 JST",
+  "us": [
+    "QCOM",
+    "MU",
+    "PEP",
+    "AAPL",
+    "AMZN"
+  ],
+  "jp": [
+    "8316.T",
+    "8306.T",
+    "8035.T",
+    "4307.T",
+    "4063.T"
+  ],
+  "items": [
     {
       "symbol": "QCOM",
       "name": "QUALCOMM Incorporated",
@@ -83,6 +97,58 @@
       "dividendYieldPct": 415.00000000000006
     },
     {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "lastClose": 314.78009033203125,
+      "marketCap": 4623139078144.0,
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "country": "United States",
+      "website": "https://www.apple.com",
+      "fullTimeEmployees": 166000,
+      "businessSummary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers exclusive original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+      "priceToBook": 43.356747,
+      "returnOnEquityPct": 141.47099,
+      "debtToEquity": 79.548,
+      "revenueGrowthPct": 16.6,
+      "beta": 1.097,
+      "market": "US",
+      "newsScore": 100,
+      "valueScore": 75,
+      "overallScore": 91,
+      "decision": "有望",
+      "tone": "positive",
+      "newsCount": 10,
+      "trailingPE": 38.061665,
+      "dividendYieldPct": 34.0
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "lastClose": 244.44000244140625,
+      "marketCap": 2629575376896.0,
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "country": "United States",
+      "website": "https://www.amazon.com",
+      "fullTimeEmployees": 1575000,
+      "businessSummary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, it provides compute, storage, Artificial intelligence, database, analytics, machine learning, and other services, as well as advertising services through programs, such as sponsored ads, display, and video advertising. Additionally, the company offers Amazon Prime, a membership program. The company's products offered through its stores include merchandise and content purchased for resale and products offered by third-party sellers. It serves consumers, sellers, developers, enterprises, content creators, advertisers, and employees. The company was incorporated in 1994 and is headquartered in Seattle, Washington.",
+      "priceToBook": 5.948702,
+      "returnOnEquityPct": 24.285,
+      "debtToEquity": 53.3,
+      "revenueGrowthPct": 16.6,
+      "beta": 1.461,
+      "market": "US",
+      "newsScore": 100,
+      "valueScore": 55,
+      "overallScore": 84,
+      "decision": "有望",
+      "tone": "positive",
+      "newsCount": 10,
+      "trailingPE": 31.746754,
+      "dividendYieldPct": null
+    },
+    {
       "symbol": "8316.T",
       "name": "Sumitomo Mitsui Financial Group, Inc.",
       "lastClose": 6811.0,
@@ -133,32 +199,6 @@
       "newsCount": 10,
       "trailingPE": 16.065882,
       "dividendYieldPct": 280.0
-    },
-    {
-      "symbol": "AAPL",
-      "name": "Apple Inc.",
-      "lastClose": 314.78009033203125,
-      "marketCap": 4623139078144.0,
-      "sector": "Technology",
-      "industry": "Consumer Electronics",
-      "country": "United States",
-      "website": "https://www.apple.com",
-      "fullTimeEmployees": 166000,
-      "businessSummary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers exclusive original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
-      "priceToBook": 43.356747,
-      "returnOnEquityPct": 141.47099,
-      "debtToEquity": 79.548,
-      "revenueGrowthPct": 16.6,
-      "beta": 1.097,
-      "market": "US",
-      "newsScore": 100,
-      "valueScore": 75,
-      "overallScore": 91,
-      "decision": "有望",
-      "tone": "positive",
-      "newsCount": 10,
-      "trailingPE": 38.061665,
-      "dividendYieldPct": 34.0
     },
     {
       "symbol": "8035.T",
@@ -237,32 +277,11 @@
       "newsCount": 9,
       "trailingPE": 27.753582,
       "dividendYieldPct": 153.0
-    },
-    {
-      "symbol": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "lastClose": 244.44000244140625,
-      "marketCap": 2629575376896.0,
-      "sector": "Consumer Cyclical",
-      "industry": "Internet Retail",
-      "country": "United States",
-      "website": "https://www.amazon.com",
-      "fullTimeEmployees": 1575000,
-      "businessSummary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, it provides compute, storage, Artificial intelligence, database, analytics, machine learning, and other services, as well as advertising services through programs, such as sponsored ads, display, and video advertising. Additionally, the company offers Amazon Prime, a membership program. The company's products offered through its stores include merchandise and content purchased for resale and products offered by third-party sellers. It serves consumers, sellers, developers, enterprises, content creators, advertisers, and employees. The company was incorporated in 1994 and is headquartered in Seattle, Washington.",
-      "priceToBook": 5.948702,
-      "returnOnEquityPct": 24.285,
-      "debtToEquity": 53.3,
-      "revenueGrowthPct": 16.6,
-      "beta": 1.461,
-      "market": "US",
-      "newsScore": 100,
-      "valueScore": 55,
-      "overallScore": 84,
-      "decision": "有望",
-      "tone": "positive",
-      "newsCount": 10,
-      "trailingPE": 31.746754,
-      "dividendYieldPct": null
     }
-  ]
+  ],
+  "selection": {
+    "usPoolSize": 33,
+    "jpPoolSize": 30,
+    "recentExclusionWindow": 3
+  }
 }
