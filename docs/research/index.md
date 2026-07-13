@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-13 17:36:17 JST / 実行ID: 2026-07-13-173617</div>
+<div class="meta-line">最終更新: 2026-07-13 17:44:36 JST / 実行ID: 2026-07-13-174436</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
-| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
-| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
+| 9433.T | JP | KDDI Corporation | 上位 | [詳細](./9433_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
+| SNOW | US | Snowflake Inc. | 中位 | [詳細](./SNOW.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
