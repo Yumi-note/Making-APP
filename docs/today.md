@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-14 16:54:18 JST / 実行ID: 2026-07-14-165418</div>
+<div class="meta-line">最終更新: 2026-07-14 16:58:39 JST / 実行ID: 2026-07-14-165839</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-07-14/165418/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.62 | 356.00% | 0.93 | 10.23% | 有望 |
-| US | [CRM](reports/2026-07-14/165418/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 19.82 | 108.00% | 4.09 | 16.91% | 有望 |
-| JP | [8411.T](reports/2026-07-14/165418/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.85 | 178.00% | 1.83 | 11.44% | 有望 |
-| JP | [4543.T](reports/2026-07-14/165418/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 24.25 | 163.00% | 2.08 | 9.21% | 有望 |
-| JP | [2914.T](reports/2026-07-14/165418/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.75 | 397.00% | 2.66 | 13.62% | 有望 |
-| US | [SPOT](reports/2026-07-14/165418/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 33.07 | - | 10.94 | 37.99% | 有望 |
-| US | [ABNB](reports/2026-07-14/165418/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 36.74 | - | 11.42 | 32.32% | 有望 |
-| US | [TSLA](reports/2026-07-14/165418/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 370.55 | - | 18.11 | 4.90% | 有望 |
-| US | [TWLO](reports/2026-07-14/165418/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 341.59 | - | 4.34 | 1.32% | 有望 |
-| JP | [6273.T](reports/2026-07-14/165418/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 27.49 | 135.00% | 2.17 | 8.27% | 監視 |
+| US | [DIS](reports/2026-07-14/165839/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.36 | 157.00% | 1.55 | 11.01% | 有望 |
+| JP | [9433.T](reports/2026-07-14/165839/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.45 | 299.00% | 2.13 | 14.01% | 有望 |
+| JP | [8316.T](reports/2026-07-14/165839/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.91 | 195.00% | 1.68 | 6.87% | 有望 |
+| US | [GOOGL](reports/2026-07-14/165839/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 80 | 93 | 27.18 | 25.00% | 9.02 | 38.88% | 有望 |
+| US | [TXN](reports/2026-07-14/165839/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 52.38 | 182.00% | 16.62 | 32.35% | 有望 |
+| JP | [4502.T](reports/2026-07-14/165839/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 384.00% | 1.13 | -2.12% | 有望 |
+| JP | [4307.T](reports/2026-07-14/165839/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 189.63 | 167.00% | 6.70 | 3.60% | 有望 |
+| JP | [7267.T](reports/2026-07-14/165839/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 468.00% | 0.50 | -2.85% | 有望 |
+| US | [AMZN](reports/2026-07-14/165839/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 55 | 84 | 29.17 | - | 5.98 | 24.29% | 有望 |
+| US | [SNOW](reports/2026-07-14/165839/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 49.61 | -54.87% | 有望 |
