@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-15 16:55:05 JST / 実行ID: 2026-07-15-165505</div>
+<div class="meta-line">最終更新: 2026-07-15 16:57:27 JST / 実行ID: 2026-07-15-165727</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
-| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| ORCL | US | Oracle Corporation | 下位 | [詳細](./ORCL.md) |
-| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| AMAT | US | Applied Materials, Inc. | 上位 | [詳細](./AMAT.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
+| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |

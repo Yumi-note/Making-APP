@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-15 16:55:05 JST / 実行ID: 2026-07-15-165505</div>
+<div class="meta-line">最終更新: 2026-07-15 16:57:27 JST / 実行ID: 2026-07-15-165727</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-07-15/165505/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.44 | 306.00% | 0.82 | 8.28% | 有望 |
-| JP | [9432.T](reports/2026-07-15/165505/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.89 | 360.00% | 1.26 | 10.04% | 有望 |
-| JP | [9104.T](reports/2026-07-15/165505/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.04 | 373.00% | 0.67 | 7.57% | 有望 |
-| US | [ORCL](reports/2026-07-15/165505/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 22.71 | 156.00% | 10.15 | 53.38% | 有望 |
-| US | [META](reports/2026-07-15/165505/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 24.57 | 32.00% | 7.04 | 32.93% | 有望 |
-| JP | [7751.T](reports/2026-07-15/165505/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.03 | 371.00% | 1.12 | 9.37% | 有望 |
-| JP | [6367.T](reports/2026-07-15/165505/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 26.62 | 145.00% | 2.25 | 9.26% | 有望 |
-| US | [AAPL](reports/2026-07-15/165505/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 39.76 | 34.00% | 45.18 | 141.47% | 有望 |
-| US | [UBER](reports/2026-07-15/165505/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 18.18 | - | 6.03 | 35.31% | 有望 |
-| US | [INTC](reports/2026-07-15/165505/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 4.54 | -2.91% | 有望 |
+| JP | [6902.T](reports/2026-07-15/165727/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.58 | 381.00% | 0.96 | 8.94% | 有望 |
+| JP | [9984.T](reports/2026-07-15/165727/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 7.29 | 17.00% | 2.06 | 32.72% | 有望 |
+| US | [ZM](reports/2026-07-15/165727/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 13.66 | - | 2.77 | 21.95% | 有望 |
+| US | [AMAT](reports/2026-07-15/165727/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 53.11 | 36.00% | 18.69 | 39.69% | 有望 |
+| JP | [6098.T](reports/2026-07-15/165727/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 36.13 | 21.00% | 11.09 | 30.83% | 有望 |
+| JP | [8035.T](reports/2026-07-15/165727/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 59.30 | 102.00% | 16.31 | 29.27% | 有望 |
+| US | [SHOP](reports/2026-07-15/165727/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 122.41 | - | 12.99 | 11.31% | 有望 |
+| US | [SNAP](reports/2026-07-15/165727/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.89 | -18.65% | 有望 |
+| US | [PANW](reports/2026-07-15/165727/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 306.58 | - | 10.45 | 4.83% | 有望 |
+| JP | [9020.T](reports/2026-07-15/165727/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.31 | 236.00% | 1.33 | 8.39% | 監視 |
