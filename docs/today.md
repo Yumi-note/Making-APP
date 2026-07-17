@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-17 16:45:53 JST / 実行ID: 2026-07-17-164553</div>
+<div class="meta-line">最終更新: 2026-07-17 16:50:58 JST / 実行ID: 2026-07-17-165058</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-07-17/164553/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.64 | 99.00% | 2.53 | 25.12% | 有望 |
-| US | [MU](reports/2026-07-17/164553/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 20.16 | 6.00% | 13.90 | 66.64% | 有望 |
-| US | [QCOM](reports/2026-07-17/164553/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.19 | 216.00% | 6.57 | 36.08% | 有望 |
-| JP | [7751.T](reports/2026-07-17/164553/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.16 | 364.00% | 1.13 | 9.37% | 有望 |
-| JP | [3382.T](reports/2026-07-17/164553/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.51 | 299.00% | 1.30 | 8.05% | 有望 |
-| JP | [8316.T](reports/2026-07-17/164553/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.31 | 192.00% | 1.62 | 6.87% | 有望 |
-| JP | [6758.T](reports/2026-07-17/164553/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.23 | 102.00% | 2.52 | 12.34% | 有望 |
-| JP | [8035.T](reports/2026-07-17/164553/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 52.18 | 102.00% | 14.30 | 29.27% | 有望 |
-| US | [TWLO](reports/2026-07-17/164553/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 311.11 | - | 4.01 | 1.32% | 有望 |
-| US | [PANW](reports/2026-07-17/164553/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 318.84 | - | 10.59 | 4.83% | 有望 |
+| JP | [9104.T](reports/2026-07-17/165058/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.05 | 371.00% | 0.67 | 7.57% | 有望 |
+| US | [META](reports/2026-07-17/165058/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 23.60 | 32.00% | 6.76 | 32.93% | 有望 |
+| US | [PEP](reports/2026-07-17/165058/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 17.96 | 425.00% | 8.77 | 51.51% | 有望 |
+| US | [DIS](reports/2026-07-17/165058/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 15.63 | 150.00% | 1.57 | 11.01% | 有望 |
+| JP | [9433.T](reports/2026-07-17/165058/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.63 | 295.00% | 2.15 | 14.01% | 有望 |
+| JP | [4543.T](reports/2026-07-17/165058/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 24.64 | 163.00% | 2.11 | 9.21% | 有望 |
+| US | [AMAT](reports/2026-07-17/165058/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 51.03 | 38.00% | 18.06 | 39.69% | 有望 |
+| JP | [7267.T](reports/2026-07-17/165058/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 449.00% | 0.51 | -2.85% | 有望 |
+| US | [PLTR](reports/2026-07-17/165058/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 149.92 | - | 37.85 | 32.59% | 有望 |
+| JP | [9020.T](reports/2026-07-17/165058/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.53 | 233.00% | 1.34 | 8.39% | 監視 |
