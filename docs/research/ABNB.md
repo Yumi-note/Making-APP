@@ -1,12 +1,12 @@
-# PEP 企業研究
+# ABNB 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-07-17 16:50:58 JST / 実行ID: 2026-07-17-165058</div>
+<div class="meta-line">最終更新: 2026-07-17 16:56:13 JST / 実行ID: 2026-07-17-165613</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: PEP**
+- 現在地: **企業研究: ABNB**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: PepsiCo, Inc.
+- 企業名: Airbnb, Inc.
 - 市場: US
 - 国: United States
-- セクター: Consumer Defensive
-- 業種: Beverages - Non-Alcoholic
-- 時価総額: 187.21B
-- 公式サイト: https://www.pepsico.com
+- セクター: Consumer Cyclical
+- 業種: Travel Services
+- 時価総額: 86.74B
+- 公式サイト: https://www.airbnb.com
 
 ## この企業は何をしているか
 
-PepsiCo, Inc.（PEP）はUnited Statesを主な事業基盤とするConsumer Defensiveセクターの企業で、市場区分はUSです。業種はBeverages - Non-Alcoholicに属し、時価総額は187.21B、従業員規模は約306,000名です。
+Airbnb, Inc.（ABNB）はUnited Statesを主な事業基盤とするConsumer Cyclicalセクターの企業で、市場区分はUSです。業種はTravel Servicesに属し、時価総額は86.74B、従業員規模は約8,200名です。
 
 事業の柱はブランド製品、小売/EC、サプライチェーンで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ PepsiCo, Inc.（PEP）はUnited Statesを主な事業基盤とするConsumer Def
 ## 業界での立ち位置
 
 - 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -50,12 +50,12 @@ PepsiCo, Inc.（PEP）はUnited Statesを主な事業基盤とするConsumer Def
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター比較データが不足しているため、ポジション図は暫定。
+同セクター内順位: 3/3 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 17.96 は中立。配当利回り 425.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 36.09 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ PepsiCo, Inc.（PEP）はUnited Statesを主な事業基盤とするConsumer Def
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-07-17/165058/PEP.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-07-17/165613/ABNB.md)
+- News Score: 100 / Value Score: 50 / 総合: 82

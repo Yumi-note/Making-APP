@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-17 16:50:58 JST / 実行ID: 2026-07-17-165058</div>
+<div class="meta-line">最終更新: 2026-07-17 16:56:13 JST / 実行ID: 2026-07-17-165613</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
-| 9433.T | JP | KDDI Corporation | 上位 | [詳細](./9433_T.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
-| 9020.T | JP | East Japan Railway Company | 中位 | [詳細](./9020_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 上位 | [詳細](./8766_T.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
+| 6273.T | JP | SMC Corporation | 中位 | [詳細](./6273_T.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
