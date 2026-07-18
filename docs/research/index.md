@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-18 16:35:31 JST / 実行ID: 2026-07-18-163531</div>
+<div class="meta-line">最終更新: 2026-07-18 16:39:07 JST / 実行ID: 2026-07-18-163907</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 下位 | [詳細](./4063_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 上位 | [詳細](./CSCO.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| ORCL | US | Oracle Corporation | 上位 | [詳細](./ORCL.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
