@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-18 16:39:07 JST / 実行ID: 2026-07-18-163907</div>
+<div class="meta-line">最終更新: 2026-07-18 16:41:05 JST / 実行ID: 2026-07-18-164105</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9984.T](reports/2026-07-18/163907/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.22 | 20.00% | 1.75 | 32.72% | 有望 |
-| JP | [6902.T](reports/2026-07-18/163907/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.62 | 377.00% | 0.96 | 8.94% | 有望 |
-| US | [ORCL](reports/2026-07-18/163907/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 21.68 | 158.00% | 9.69 | 53.38% | 有望 |
-| US | [QCOM](reports/2026-07-18/163907/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.49 | 214.00% | 6.67 | 36.08% | 有望 |
-| JP | [4568.T](reports/2026-07-18/163907/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.88 | 358.00% | 3.05 | 15.81% | 有望 |
-| JP | [3382.T](reports/2026-07-18/163907/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.51 | 288.00% | 1.30 | 8.05% | 有望 |
-| US | [ZM](reports/2026-07-18/163907/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 13.42 | - | 2.75 | 21.95% | 有望 |
-| JP | [4502.T](reports/2026-07-18/163907/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 372.00% | 1.17 | -2.12% | 有望 |
-| US | [PANW](reports/2026-07-18/163907/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 311.90 | - | 10.54 | 4.83% | 有望 |
-| US | [SNAP](reports/2026-07-18/163907/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.69 | -18.65% | 有望 |
+| JP | [9104.T](reports/2026-07-18/164105/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 9.05 | 365.00% | 0.67 | 7.57% | 有望 |
+| US | [META](reports/2026-07-18/164105/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 23.47 | 33.00% | 6.73 | 32.93% | 有望 |
+| US | [DIS](reports/2026-07-18/164105/DIS.md) / [企業研究](research/DIS.md) | DIS | 100 | 90 | 96 | 15.63 | 154.00% | 1.57 | 11.01% | 有望 |
+| JP | [9433.T](reports/2026-07-18/164105/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.63 | 293.00% | 2.15 | 14.01% | 有望 |
+| JP | [7751.T](reports/2026-07-18/164105/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.17 | 358.00% | 1.13 | 9.37% | 有望 |
+| JP | [8316.T](reports/2026-07-18/164105/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.31 | 201.00% | 1.62 | 6.87% | 有望 |
+| US | [NVDA](reports/2026-07-18/164105/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 31.06 | 49.00% | 25.13 | 114.29% | 有望 |
+| JP | [4307.T](reports/2026-07-18/164105/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 192.27 | 165.00% | 6.72 | 3.60% | 有望 |
+| US | [TWLO](reports/2026-07-18/164105/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 313.30 | - | 4.04 | 1.32% | 有望 |
+| US | [PLTR](reports/2026-07-18/164105/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 148.74 | - | 37.55 | 32.59% | 有望 |
