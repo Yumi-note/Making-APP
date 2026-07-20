@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-19 16:41:01 JST / 実行ID: 2026-07-19-164101</div>
+<div class="meta-line">最終更新: 2026-07-20 17:07:13 JST / 実行ID: 2026-07-20-170713</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 上位 | [詳細](./4063_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
-| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| NFLX | US | Netflix, Inc. | 上位 | [詳細](./NFLX.md) |
+| AMD | US | AMD | 情報不足 | [詳細](./AMD.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |

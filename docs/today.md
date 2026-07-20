@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-19 16:41:01 JST / 実行ID: 2026-07-19-164101</div>
+<div class="meta-line">最終更新: 2026-07-20 17:07:13 JST / 実行ID: 2026-07-20-170713</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-07-19/164101/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.62 | 377.00% | 0.96 | 8.94% | 有望 |
-| US | [MSFT](reports/2026-07-19/164101/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 23.47 | 92.00% | 7.06 | 34.01% | 有望 |
-| JP | [4063.T](reports/2026-07-19/164101/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 100 | 80 | 93 | 28.33 | 148.00% | 2.98 | 10.68% | 有望 |
-| JP | [6367.T](reports/2026-07-19/164101/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 26.11 | 147.00% | 2.20 | 9.26% | 有望 |
-| US | [AVGO](reports/2026-07-19/164101/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 61.70 | 70.00% | 20.12 | 37.28% | 有望 |
-| US | [TXN](reports/2026-07-19/164101/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 48.55 | 200.00% | 15.40 | 32.35% | 有望 |
-| JP | [7267.T](reports/2026-07-19/164101/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 456.00% | 0.51 | -2.85% | 有望 |
-| JP | [4502.T](reports/2026-07-19/164101/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 372.00% | 1.17 | -2.12% | 有望 |
-| US | [PANW](reports/2026-07-19/164101/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 311.90 | - | 10.54 | 4.83% | 有望 |
-| US | [SNAP](reports/2026-07-19/164101/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.69 | -18.65% | 有望 |
+| US | [PYPL](reports/2026-07-20/170713/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.67 | 99.00% | 2.53 | 25.12% | 有望 |
+| JP | [9984.T](reports/2026-07-20/170713/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.22 | 20.00% | 1.75 | 32.72% | 有望 |
+| JP | [7203.T](reports/2026-07-20/170713/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.82 | 345.00% | 0.95 | 10.23% | 有望 |
+| US | [QCOM](reports/2026-07-20/170713/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.52 | 214.00% | 6.68 | 36.08% | 有望 |
+| JP | [3382.T](reports/2026-07-20/170713/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.51 | 288.00% | 1.30 | 8.05% | 有望 |
+| JP | [8766.T](reports/2026-07-20/170713/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 26.95 | 326.00% | 1.78 | 8.70% | 有望 |
+| US | [NFLX](reports/2026-07-20/170713/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 21.29 | - | 9.16 | 49.54% | 有望 |
+| US | [AMD](reports/2026-07-20/170713/AMD.md) / [企業研究](research/AMD.md) | AMD | 100 | 50 | 82 | 168.55 | - | - | 8.06% | 有望 |
+| US | [SHOP](reports/2026-07-20/170713/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 123.00 | - | 13.18 | 11.31% | 有望 |
+| JP | [6273.T](reports/2026-07-20/170713/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 26.25 | 144.00% | 2.07 | 8.27% | 監視 |
