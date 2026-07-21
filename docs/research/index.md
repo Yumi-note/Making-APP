@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-21 17:01:07 JST / 実行ID: 2026-07-21-170107</div>
+<div class="meta-line">最終更新: 2026-07-21 17:04:28 JST / 実行ID: 2026-07-21-170428</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
-| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| NFLX | US | Netflix, Inc. | 下位 | [詳細](./NFLX.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
