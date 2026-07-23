@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-23 17:05:37 JST / 実行ID: 2026-07-23-170537</div>
+<div class="meta-line">最終更新: 2026-07-23 17:07:16 JST / 実行ID: 2026-07-23-170716</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-07-23/170537/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.46 | 101.00% | 2.48 | 25.12% | 有望 |
-| JP | [9984.T](reports/2026-07-23/170537/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.78 | 19.00% | 1.91 | 32.72% | 有望 |
-| JP | [7203.T](reports/2026-07-23/170537/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.99 | 340.00% | 0.96 | 10.23% | 有望 |
-| US | [ORCL](reports/2026-07-23/170537/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 20.78 | 159.00% | 9.29 | 53.38% | 有望 |
-| JP | [4568.T](reports/2026-07-23/170537/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.64 | 362.00% | 3.01 | 15.81% | 有望 |
-| JP | [2914.T](reports/2026-07-23/170537/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 22.67 | 375.00% | 2.77 | 13.62% | 有望 |
-| JP | [6501.T](reports/2026-07-23/170537/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.51 | 114.00% | 3.33 | 13.30% | 有望 |
-| US | [AVGO](reports/2026-07-23/170537/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 65.08 | 66.00% | 21.15 | 37.28% | 有望 |
-| US | [SPOT](reports/2026-07-23/170537/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 32.31 | - | 10.71 | 37.99% | 有望 |
-| US | [ABNB](reports/2026-07-23/170537/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 33.92 | - | 10.70 | 32.32% | 有望 |
+| US | [DIS](reports/2026-07-23/170716/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 100 | 100 | 14.88 | 156.00% | 1.49 | 11.01% | 有望 |
+| JP | [9432.T](reports/2026-07-23/170716/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 100 | 100 | 11.86 | 355.00% | 1.25 | 10.04% | 有望 |
+| JP | [8316.T](reports/2026-07-23/170716/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 17.41 | 191.00% | 1.73 | 6.87% | 有望 |
+| JP | [3382.T](reports/2026-07-23/170716/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.50 | 287.00% | 1.30 | 8.05% | 有望 |
+| US | [CSCO](reports/2026-07-23/170716/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 37.59 | 150.00% | 9.09 | 25.23% | 有望 |
+| US | [UBER](reports/2026-07-23/170716/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 17.10 | - | 5.67 | 35.31% | 有望 |
+| US | [PLTR](reports/2026-07-23/170716/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 138.79 | - | 34.65 | 32.59% | 有望 |
+| US | [AMD](reports/2026-07-23/170716/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 177.56 | - | 13.38 | 8.06% | 有望 |
+| JP | [6273.T](reports/2026-07-23/170716/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 27.67 | 139.00% | 2.18 | 8.27% | 監視 |
+| JP | [9020.T](reports/2026-07-23/170716/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.24 | 232.00% | 1.32 | 8.39% | 監視 |
