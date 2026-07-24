@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-07-24 17:13:54 JST / 実行ID: 2026-07-24-171354</div>
+<div class="meta-line">最終更新: 2026-07-24 17:18:10 JST / 実行ID: 2026-07-24-171810</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
