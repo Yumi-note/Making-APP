@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-25 16:41:41 JST / 実行ID: 2026-07-25-164141</div>
+<div class="meta-line">最終更新: 2026-07-26 16:34:54 JST / 実行ID: 2026-07-26-163454</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6758.T](reports/2026-07-25/164141/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.88 | 103.00% | 2.48 | 12.34% | 有望 |
-| JP | [7974.T](reports/2026-07-25/164141/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 90 | 96 | 19.12 | 314.00% | 2.72 | 14.93% | 有望 |
-| US | [TXN](reports/2026-07-25/164141/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 42.55 | 203.00% | 15.16 | 35.18% | 有望 |
-| US | [AAPL](reports/2026-07-25/164141/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 40.32 | 32.00% | 45.87 | 141.47% | 有望 |
-| US | [CSCO](reports/2026-07-25/164141/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 38.06 | 147.00% | 9.21 | 25.23% | 有望 |
-| JP | [7267.T](reports/2026-07-25/164141/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 456.00% | 0.51 | -2.85% | 有望 |
-| JP | [4307.T](reports/2026-07-25/164141/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 185.18 | 170.00% | 6.53 | 3.60% | 有望 |
-| US | [SNAP](reports/2026-07-25/164141/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 3.54 | -18.65% | 有望 |
-| US | [PLTR](reports/2026-07-25/164141/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 138.11 | - | 34.87 | 32.59% | 有望 |
-| JP | [9101.T](reports/2026-07-25/164141/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 11.78 | 336.00% | 0.78 | 7.06% | 監視 |
+| JP | [7203.T](reports/2026-07-26/163454/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.81 | 345.00% | 0.95 | 10.23% | 有望 |
+| US | [MSFT](reports/2026-07-26/163454/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 90 | 96 | 22.73 | 95.00% | 6.84 | 34.01% | 有望 |
+| JP | [8411.T](reports/2026-07-26/163454/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 17.21 | 173.00% | 1.86 | 11.44% | 有望 |
+| JP | [4543.T](reports/2026-07-26/163454/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 23.47 | 166.00% | 2.02 | 9.21% | 有望 |
+| JP | [4063.T](reports/2026-07-26/163454/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 100 | 80 | 93 | 26.52 | 173.00% | 2.79 | 11.23% | 有望 |
+| US | [ADBE](reports/2026-07-26/163454/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 12.87 | - | 7.80 | 62.95% | 有望 |
+| US | [ZM](reports/2026-07-26/163454/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 12.96 | - | 2.65 | 21.95% | 有望 |
+| US | [AMAT](reports/2026-07-26/163454/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 50.49 | 40.00% | 17.81 | 39.69% | 有望 |
+| US | [SHOP](reports/2026-07-26/163454/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 111.52 | - | 11.84 | 11.31% | 有望 |
+| JP | [9020.T](reports/2026-07-26/163454/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.56 | 231.00% | 1.35 | 8.39% | 監視 |
