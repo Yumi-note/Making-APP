@@ -1,9 +1,23 @@
 {
+  "date": "2026-07-28",
+  "time": "171418",
   "runId": "2026-07-28-171418",
-  "updatedAt": "2026-07-28 17:14:18 JST",
-  "channel": "#stock-alerts",
-  "text": "更新: 2026-07-28 17:14:18 JST\n実行ID: 2026-07-28-171418\n今日の候補10銘柄\n1. QCOM (US) Score:96 News:100 Value:90 判定:有望\n2. META (US) Score:96 News:100 Value:90 判定:有望\n3. GOOGL (US) Score:96 News:100 Value:90 判定:有望\n4. CRM (US) Score:96 News:100 Value:90 判定:有望\n5. ORCL (US) Score:96 News:100 Value:90 判定:有望\n6. 9432.T (JP) Score:96 News:100 Value:90 判定:有望\n7. 9433.T (JP) Score:96 News:100 Value:90 判定:有望\n8. 8411.T (JP) Score:96 News:100 Value:90 判定:有望\n9. 7267.T (JP) Score:91 News:100 Value:75 判定:有望\n10. 4307.T (JP) Score:91 News:100 Value:75 判定:有望",
-  "top10": [
+  "lastUpdated": "2026-07-28 17:14:18 JST",
+  "us": [
+    "QCOM",
+    "META",
+    "GOOGL",
+    "CRM",
+    "ORCL"
+  ],
+  "jp": [
+    "7267.T",
+    "9432.T",
+    "9433.T",
+    "8411.T",
+    "4307.T"
+  ],
+  "items": [
     {
       "symbol": "QCOM",
       "name": "QUALCOMM Incorporated",
@@ -135,6 +149,32 @@
       "dividendYieldPct": 167.0
     },
     {
+      "symbol": "7267.T",
+      "name": "Honda Motor Co., Ltd.",
+      "lastClose": 1583.0,
+      "marketCap": 6274839740416.0,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "country": "Japan",
+      "website": "https://www.honda.co.jp",
+      "fullTimeEmployees": 195109,
+      "businessSummary": "Honda Motor Co., Ltd. engages in the development, manufacturing, and distribution of motorcycles, automobiles, and power products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses. The Motorcycle Business segment produces motorcycles, including sports, business, and commuter models; and various off-road vehicles, such as all-terrain vehicles and side-by-sides. The Automobile Business segment offers passenger cars, light trucks, and mini vehicles. The Financial Services Business segment provides various financial services, including retail lending and leasing services to customers, as well as wholesale financing services to dealers. The Power Product and Other Businesses manufactures and sells power products, such as general-purpose engines, lawn mowers, generators, water pumps, brush cutters, and tillers. This segment also offers HondaJet aircraft. The company also sells spare parts; and provides after-sales services through retail dealers directly, as well as through independent distributors and licensees. Honda Motor Co., Ltd. was founded in 1946 and is headquartered in Tokyo, Japan.",
+      "priceToBook": 0.5309781,
+      "returnOnEquityPct": -2.8499998,
+      "debtToEquity": 113.654,
+      "revenueGrowthPct": 8.6,
+      "beta": 0.295,
+      "market": "JP",
+      "newsScore": 100,
+      "valueScore": 75,
+      "overallScore": 91,
+      "decision": "有望",
+      "tone": "positive",
+      "newsCount": 10,
+      "trailingPE": null,
+      "dividendYieldPct": 442.0
+    },
+    {
       "symbol": "9432.T",
       "name": "NTT, Inc.",
       "lastClose": 154.3000030517578,
@@ -213,32 +253,6 @@
       "dividendYieldPct": 174.0
     },
     {
-      "symbol": "7267.T",
-      "name": "Honda Motor Co., Ltd.",
-      "lastClose": 1583.0,
-      "marketCap": 6274839740416.0,
-      "sector": "Consumer Cyclical",
-      "industry": "Auto Manufacturers",
-      "country": "Japan",
-      "website": "https://www.honda.co.jp",
-      "fullTimeEmployees": 195109,
-      "businessSummary": "Honda Motor Co., Ltd. engages in the development, manufacturing, and distribution of motorcycles, automobiles, and power products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses. The Motorcycle Business segment produces motorcycles, including sports, business, and commuter models; and various off-road vehicles, such as all-terrain vehicles and side-by-sides. The Automobile Business segment offers passenger cars, light trucks, and mini vehicles. The Financial Services Business segment provides various financial services, including retail lending and leasing services to customers, as well as wholesale financing services to dealers. The Power Product and Other Businesses manufactures and sells power products, such as general-purpose engines, lawn mowers, generators, water pumps, brush cutters, and tillers. This segment also offers HondaJet aircraft. The company also sells spare parts; and provides after-sales services through retail dealers directly, as well as through independent distributors and licensees. Honda Motor Co., Ltd. was founded in 1946 and is headquartered in Tokyo, Japan.",
-      "priceToBook": 0.5309781,
-      "returnOnEquityPct": -2.8499998,
-      "debtToEquity": 113.654,
-      "revenueGrowthPct": 8.6,
-      "beta": 0.295,
-      "market": "JP",
-      "newsScore": 100,
-      "valueScore": 75,
-      "overallScore": 91,
-      "decision": "有望",
-      "tone": "positive",
-      "newsCount": 10,
-      "trailingPE": null,
-      "dividendYieldPct": 442.0
-    },
-    {
       "symbol": "4307.T",
       "name": "Nomura Research Institute, Ltd.",
       "lastClose": 5196.0,
@@ -264,5 +278,10 @@
       "trailingPE": 202.94339,
       "dividendYieldPct": 162.0
     }
-  ]
+  ],
+  "selection": {
+    "usPoolSize": 33,
+    "jpPoolSize": 30,
+    "recentExclusionWindow": 3
+  }
 }
