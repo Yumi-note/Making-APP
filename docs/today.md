@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-07-28 17:14:18 JST / 実行ID: 2026-07-28-171418</div>
+<div class="meta-line">最終更新: 2026-07-29 16:57:37 JST / 実行ID: 2026-07-29-165737</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-07-28/171418/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 17.73 | 216.00% | 6.40 | 36.08% | 有望 |
-| US | [META](reports/2026-07-28/171418/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.54 | 35.00% | 6.17 | 32.93% | 有望 |
-| US | [GOOGL](reports/2026-07-28/171418/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 16.78 | 27.00% | 6.57 | 48.68% | 有望 |
-| US | [CRM](reports/2026-07-28/171418/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.29 | 101.00% | 4.40 | 16.91% | 有望 |
-| US | [ORCL](reports/2026-07-28/171418/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 20.71 | 167.00% | 9.26 | 53.38% | 有望 |
-| JP | [9432.T](reports/2026-07-28/171418/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.40 | 350.00% | 1.31 | 10.04% | 有望 |
-| JP | [9433.T](reports/2026-07-28/171418/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 16.29 | 284.00% | 2.24 | 14.01% | 有望 |
-| JP | [8411.T](reports/2026-07-28/171418/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.32 | 174.00% | 1.77 | 11.44% | 有望 |
-| JP | [7267.T](reports/2026-07-28/171418/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 442.00% | 0.53 | -2.85% | 有望 |
-| JP | [4307.T](reports/2026-07-28/171418/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 202.94 | 162.00% | 7.12 | 3.60% | 有望 |
+| JP | [1605.T](reports/2026-07-29/165737/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.94 | 303.00% | 0.86 | 8.28% | 有望 |
+| US | [IBM](reports/2026-07-29/165737/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 20.13 | 297.00% | 6.46 | 34.46% | 有望 |
+| JP | [8316.T](reports/2026-07-29/165737/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.69 | 195.00% | 1.66 | 6.87% | 有望 |
+| JP | [4543.T](reports/2026-07-29/165737/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 25.89 | 157.00% | 2.22 | 9.21% | 有望 |
+| JP | [6758.T](reports/2026-07-29/165737/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 22.23 | 96.00% | 2.77 | 12.34% | 有望 |
+| US | [AMAT](reports/2026-07-29/165737/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 41.92 | 44.00% | 14.80 | 39.69% | 有望 |
+| US | [ZM](reports/2026-07-29/165737/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 13.61 | - | 2.78 | 21.95% | 有望 |
+| US | [PLTR](reports/2026-07-29/165737/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 140.22 | - | 35.40 | 32.59% | 有望 |
+| US | [TSLA](reports/2026-07-29/165737/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 279.69 | - | 13.79 | 4.67% | 有望 |
+| JP | [6273.T](reports/2026-07-29/165737/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 24.59 | 153.00% | 1.94 | 8.27% | 監視 |
