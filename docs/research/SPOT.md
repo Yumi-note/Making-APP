@@ -1,12 +1,12 @@
-# 6098.T 企業研究
+# SPOT 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-07-31 17:15:41 JST / 実行ID: 2026-07-31-171541</div>
+<div class="meta-line">最終更新: 2026-08-01 16:36:58 JST / 実行ID: 2026-08-01-163658</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 6098.T**
+- 現在地: **企業研究: SPOT**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Recruit Holdings Co., Ltd.
-- 市場: JP
-- 国: Japan
+- 企業名: Spotify Technology S.A.
+- 市場: US
+- 国: Sweden
 - セクター: Communication Services
 - 業種: Internet Content & Information
-- 時価総額: 17.47T
-- 公式サイト: https://recruit-holdings.com
+- 時価総額: 102.80B
+- 公式サイト: https://www.spotify.com
 
 ## この企業は何をしているか
 
-Recruit Holdings Co., Ltd.（6098.T）はJapanを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はJPです。業種はInternet Content & Informationに属し、時価総額は17.47T、従業員規模は約45,586名です。
+Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は102.80B、従業員規模は約7,258名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ Recruit Holdings Co., Ltd.（6098.T）はJapanを主な事業基盤とするComm
 ## 業界での立ち位置
 
 - 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -55,7 +55,7 @@ Recruit Holdings Co., Ltd.（6098.T）はJapanを主な事業基盤とするComm
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 36.12 は割高寄り。配当利回り 20.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 33.78 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Recruit Holdings Co., Ltd.（6098.T）はJapanを主な事業基盤とするComm
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-07-31/171541/6098_T.md)
-- News Score: 100 / Value Score: 75 / 総合: 91
+- [当日の銘柄レポート](../reports/2026-08-01/163658/SPOT.md)
+- News Score: 100 / Value Score: 55 / 総合: 84

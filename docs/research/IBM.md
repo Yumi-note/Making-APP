@@ -1,12 +1,12 @@
-# GOOGL 企業研究
+# IBM 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-07-31 17:15:41 JST / 実行ID: 2026-07-31-171541</div>
+<div class="meta-line">最終更新: 2026-08-01 16:36:58 JST / 実行ID: 2026-08-01-163658</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: GOOGL**
+- 現在地: **企業研究: IBM**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Alphabet Inc.
+- 企業名: International Business Machines Corporation
 - 市場: US
 - 国: United States
-- セクター: Communication Services
-- 業種: Internet Content & Information
-- 時価総額: 4.33T
-- 公式サイト: https://abc.xyz
+- セクター: Technology
+- 業種: Information Technology Services
+- 時価総額: 210.71B
+- 公式サイト: https://www.ibm.com
 
 ## この企業は何をしているか
 
-Alphabet Inc.（GOOGL）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は4.33T、従業員規模は約198,933名です。
+International Business Machines Corporation（IBM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はInformation Technology Servicesに属し、時価総額は210.71B、従業員規模は約264,300名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Alphabet Inc.（GOOGL）はUnited Statesを主な事業基盤とするCommunicat
 
 ## 業界での立ち位置
 
-- 判定: **上位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
+- 判定: **下位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Alphabet Inc.（GOOGL）はUnited Statesを主な事業基盤とするCommunicat
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [上位]
-同セクター内順位: 1/3 中位ゾーン [■■■□□]
+この銘柄の位置  : [下位]
+同セクター内順位: 4/4 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 17.76 は中立。配当利回り 26.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 19.88 は中立。配当利回り 302.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Alphabet Inc.（GOOGL）はUnited Statesを主な事業基盤とするCommunicat
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-07-31/171541/GOOGL.md)
+- [当日の銘柄レポート](../reports/2026-08-01/163658/IBM.md)
 - News Score: 100 / Value Score: 90 / 総合: 96
