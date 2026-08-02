@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-02 16:36:28 JST / 実行ID: 2026-08-02-163628</div>
+<div class="meta-line">最終更新: 2026-08-02 16:39:46 JST / 実行ID: 2026-08-02-163946</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-08-02/163628/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.86 | 25.00% | 7.00 | 48.68% | 有望 |
-| US | [DIS](reports/2026-08-02/163628/DIS.md) / [企業研究](research/DIS.md) | DIS | 100 | 90 | 96 | 15.39 | 156.00% | 1.54 | 11.01% | 有望 |
-| US | [META](reports/2026-08-02/163628/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.96 | 38.00% | 5.80 | 29.85% | 有望 |
-| JP | [8306.T](reports/2026-08-02/163628/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 16.81 | 269.00% | 2.06 | 9.40% | 有望 |
-| JP | [4063.T](reports/2026-08-02/163628/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 100 | 80 | 93 | 22.99 | 200.00% | 2.37 | 11.23% | 有望 |
-| JP | [6367.T](reports/2026-08-02/163628/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 24.81 | 155.00% | 2.10 | 9.26% | 有望 |
-| JP | [6098.T](reports/2026-08-02/163628/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 36.10 | 21.00% | 11.07 | 30.83% | 有望 |
-| JP | [4502.T](reports/2026-08-02/163628/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 370.00% | 1.15 | -2.26% | 有望 |
-| US | [PLTR](reports/2026-08-02/163628/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 138.27 | - | 34.91 | 32.59% | 有望 |
-| US | [TSLA](reports/2026-08-02/163628/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 285.51 | - | 13.89 | 4.67% | 有望 |
+| JP | [6902.T](reports/2026-08-02/163946/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.63 | 376.00% | 0.96 | 9.20% | 有望 |
+| US | [IBM](reports/2026-08-02/163946/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 19.88 | 302.00% | 6.12 | 34.46% | 有望 |
+| US | [MU](reports/2026-08-02/163946/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 18.59 | 6.00% | 9.23 | 66.64% | 有望 |
+| JP | [9433.T](reports/2026-08-02/163946/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.92 | 288.00% | 2.19 | 14.01% | 有望 |
+| JP | [8411.T](reports/2026-08-02/163946/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.23 | 184.00% | 1.76 | 12.49% | 有望 |
+| JP | [8316.T](reports/2026-08-02/163946/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.56 | 198.00% | 1.64 | 8.57% | 有望 |
+| US | [AVGO](reports/2026-08-02/163946/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 64.99 | 67.00% | 21.12 | 37.28% | 有望 |
+| US | [AAPL](reports/2026-08-02/163946/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.47 | 35.00% | 42.55 | 148.75% | 有望 |
+| US | [AMZN](reports/2026-08-02/163946/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 21.83 | - | 6.61 | 30.56% | 有望 |
+| JP | [9020.T](reports/2026-08-02/163946/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.75 | 229.00% | 1.36 | 7.95% | 監視 |
