@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-02 16:39:46 JST / 実行ID: 2026-08-02-163946</div>
+<div class="meta-line">最終更新: 2026-08-02 16:42:36 JST / 実行ID: 2026-08-02-164236</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-08-02/163946/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 7.63 | 376.00% | 0.96 | 9.20% | 有望 |
-| US | [IBM](reports/2026-08-02/163946/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 19.88 | 302.00% | 6.12 | 34.46% | 有望 |
-| US | [MU](reports/2026-08-02/163946/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 18.59 | 6.00% | 9.23 | 66.64% | 有望 |
-| JP | [9433.T](reports/2026-08-02/163946/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.92 | 288.00% | 2.19 | 14.01% | 有望 |
-| JP | [8411.T](reports/2026-08-02/163946/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.23 | 184.00% | 1.76 | 12.49% | 有望 |
-| JP | [8316.T](reports/2026-08-02/163946/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.56 | 198.00% | 1.64 | 8.57% | 有望 |
-| US | [AVGO](reports/2026-08-02/163946/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 64.99 | 67.00% | 21.12 | 37.28% | 有望 |
-| US | [AAPL](reports/2026-08-02/163946/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.47 | 35.00% | 42.55 | 148.75% | 有望 |
-| US | [AMZN](reports/2026-08-02/163946/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 21.83 | - | 6.61 | 30.56% | 有望 |
-| JP | [9020.T](reports/2026-08-02/163946/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.75 | 229.00% | 1.36 | 7.95% | 監視 |
+| JP | [7203.T](reports/2026-08-02/164236/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 10.38 | 326.00% | 1.00 | 10.23% | 有望 |
+| US | [QCOM](reports/2026-08-02/164236/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 16.87 | 249.00% | 5.73 | 33.75% | 有望 |
+| US | [ORCL](reports/2026-08-02/164236/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 22.28 | 154.00% | 9.96 | 53.38% | 有望 |
+| JP | [7751.T](reports/2026-08-02/164236/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.06 | 361.00% | 1.08 | 10.37% | 有望 |
+| JP | [4543.T](reports/2026-08-02/164236/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 25.25 | 155.00% | 2.16 | 9.21% | 有望 |
+| US | [AMAT](reports/2026-08-02/164236/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 47.85 | 42.00% | 16.86 | 39.69% | 有望 |
+| US | [TXN](reports/2026-08-02/164236/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 41.84 | 206.00% | 13.98 | 35.18% | 有望 |
+| JP | [7267.T](reports/2026-08-02/164236/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 431.00% | 0.54 | -2.85% | 有望 |
+| US | [ABNB](reports/2026-08-02/164236/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 37.41 | - | 11.81 | 32.32% | 有望 |
+| JP | [9101.T](reports/2026-08-02/164236/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 90 | 62 | 12.11 | 327.00% | 0.81 | 7.06% | 監視 |
