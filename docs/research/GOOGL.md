@@ -1,12 +1,12 @@
-# QCOM 企業研究
+# GOOGL 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-08-04 17:24:41 JST / 実行ID: 2026-08-04-172441</div>
+<div class="meta-line">最終更新: 2026-08-04 17:27:06 JST / 実行ID: 2026-08-04-172706</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: QCOM**
+- 現在地: **企業研究: GOOGL**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: QUALCOMM Incorporated
+- 企業名: Alphabet Inc.
 - 市場: US
 - 国: United States
-- セクター: Technology
-- 業種: Semiconductors
-- 時価総額: 170.57B
-- 公式サイト: https://www.qualcomm.com
+- セクター: Communication Services
+- 業種: Internet Content & Information
+- 時価総額: 4.62T
+- 公式サイト: https://abc.xyz
 
 ## この企業は何をしているか
 
-QUALCOMM Incorporated（QCOM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は170.57B、従業員規模は約52,000名です。
+Alphabet Inc.（GOOGL）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は4.62T、従業員規模は約198,933名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ QUALCOMM Incorporated（QCOM）はUnited Statesを主な事業基盤とするTec
 
 ## 業界での立ち位置
 
-- 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
+- 判定: **上位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ QUALCOMM Incorporated（QCOM）はUnited Statesを主な事業基盤とするTec
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [下位]
-同セクター内順位: 3/4 下位ゾーン [■□□□□]
+この銘柄の位置  : [上位]
+同セクター内順位: 1/2 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 18.07 は中立。配当利回り 249.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 18.05 は中立。配当利回り 25.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ QUALCOMM Incorporated（QCOM）はUnited Statesを主な事業基盤とするTec
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-08-04/172441/QCOM.md)
+- [当日の銘柄レポート](../reports/2026-08-04/172706/GOOGL.md)
 - News Score: 100 / Value Score: 90 / 総合: 96
