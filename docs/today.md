@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-05 17:13:03 JST / 実行ID: 2026-08-05-171303</div>
+<div class="meta-line">最終更新: 2026-08-05 17:15:30 JST / 実行ID: 2026-08-05-171530</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [DIS](reports/2026-08-05/171303/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 16.05 | 156.00% | 1.61 | 11.01% | 有望 |
-| JP | [8411.T](reports/2026-08-05/171303/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.83 | 185.00% | 1.79 | 12.49% | 有望 |
-| JP | [2914.T](reports/2026-08-05/171303/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.34 | 389.00% | 2.76 | 13.97% | 有望 |
-| US | [AVGO](reports/2026-08-05/171303/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 69.84 | 62.00% | 22.81 | 37.28% | 有望 |
-| US | [AAPL](reports/2026-08-05/171303/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.51 | 35.00% | 42.07 | 148.75% | 有望 |
-| US | [AMAT](reports/2026-08-05/171303/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 51.09 | 39.00% | 17.98 | 39.69% | 有望 |
-| JP | [4502.T](reports/2026-08-05/171303/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 386.00% | 1.10 | -2.26% | 有望 |
-| JP | [7267.T](reports/2026-08-05/171303/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 444.00% | 0.54 | -2.85% | 有望 |
-| US | [ABNB](reports/2026-08-05/171303/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 37.53 | - | 11.84 | 32.32% | 有望 |
-| JP | [6273.T](reports/2026-08-05/171303/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.74 | 136.00% | 2.26 | 8.27% | 監視 |
+| US | [META](reports/2026-08-05/171530/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.76 | 38.00% | 6.09 | 29.85% | 有望 |
+| US | [MU](reports/2026-08-05/171530/MU.md) / [企業研究](research/MU.md) | MU | 100 | 90 | 96 | 20.58 | 6.00% | 10.30 | 66.64% | 有望 |
+| US | [QCOM](reports/2026-08-05/171530/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 17.58 | 249.00% | 6.04 | 33.75% | 有望 |
+| JP | [3382.T](reports/2026-08-05/171530/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.74 | 290.00% | 1.25 | 8.05% | 有望 |
+| JP | [6758.T](reports/2026-08-05/171530/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.11 | 99.00% | 2.50 | 13.16% | 有望 |
+| JP | [9433.T](reports/2026-08-05/171530/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.56 | 289.00% | 2.14 | 14.01% | 有望 |
+| JP | [7974.T](reports/2026-08-05/171530/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 20.39 | 289.00% | 2.90 | 14.93% | 有望 |
+| US | [AMZN](reports/2026-08-05/171530/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 21.88 | - | 5.32 | 30.56% | 有望 |
+| US | [SNOW](reports/2026-08-05/171530/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 56.78 | -54.87% | 有望 |
+| JP | [9101.T](reports/2026-08-05/171530/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 100 | 65 | 11.48 | 331.00% | 0.77 | 7.06% | 監視 |
