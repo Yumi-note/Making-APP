@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-09 16:03:31 JST / 実行ID: 2026-08-09-160331</div>
+<div class="meta-line">最終更新: 2026-08-09 16:14:36 JST / 実行ID: 2026-08-09-161436</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9984.T](reports/2026-08-09/160331/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.37 | 20.00% | 1.80 | 31.96% | 有望 |
-| JP | [7203.T](reports/2026-08-09/160331/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 8.48 | 336.00% | 0.95 | 12.40% | 有望 |
-| US | [QCOM](reports/2026-08-09/160331/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.18 | 219.00% | 6.41 | 33.75% | 有望 |
-| JP | [8411.T](reports/2026-08-09/160331/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 16.81 | 178.00% | 1.79 | 12.49% | 有望 |
-| US | [AVGO](reports/2026-08-09/160331/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 71.41 | 61.00% | 23.21 | 37.28% | 有望 |
-| JP | [8035.T](reports/2026-08-09/160331/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 43.48 | 137.00% | 11.56 | 30.93% | 有望 |
-| JP | [4307.T](reports/2026-08-09/160331/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 181.85 | 173.00% | 7.28 | 4.60% | 有望 |
-| US | [TSLA](reports/2026-08-09/160331/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 304.24 | - | 14.94 | 4.67% | 有望 |
-| US | [SHOP](reports/2026-08-09/160331/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 101.72 | - | 15.77 | 15.54% | 有望 |
-| US | [ABNB](reports/2026-08-09/160331/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 40.66 | - | 13.47 | 34.54% | 有望 |
+| JP | [7751.T](reports/2026-08-09/161436/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.72 | 345.00% | 1.13 | 10.37% | 有望 |
+| JP | [1605.T](reports/2026-08-09/161436/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.58 | 320.00% | 0.80 | 9.27% | 有望 |
+| US | [GOOGL](reports/2026-08-09/161436/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.76 | 25.00% | 6.96 | 48.68% | 有望 |
+| JP | [6367.T](reports/2026-08-09/161436/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.64 | 162.00% | 2.07 | 9.60% | 有望 |
+| JP | [4502.T](reports/2026-08-09/161436/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 368.00% | 1.16 | -2.26% | 有望 |
+| US | [UBER](reports/2026-08-09/161436/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 16.45 | - | 6.17 | 37.16% | 有望 |
+| US | [ZM](reports/2026-08-09/161436/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 15.39 | - | 3.15 | 21.95% | 有望 |
+| US | [SNOW](reports/2026-08-09/161436/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 59.06 | -54.87% | 有望 |
+| US | [INTC](reports/2026-08-09/161436/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.86 | -10.71% | 有望 |
+| JP | [9020.T](reports/2026-08-09/161436/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 15.77 | 243.00% | 1.28 | 7.95% | 監視 |
