@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-11 16:40:13 JST / 実行ID: 2026-08-11-164013</div>
+<div class="meta-line">最終更新: 2026-08-11 16:43:04 JST / 実行ID: 2026-08-11-164304</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-08-11/164013/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.89 | 382.00% | 0.95 | 9.20% | 有望 |
-| US | [META](reports/2026-08-11/164013/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.76 | 35.00% | 5.89 | 29.85% | 有望 |
-| JP | [8316.T](reports/2026-08-11/164013/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.10 | 204.00% | 1.56 | 8.57% | 有望 |
-| JP | [4568.T](reports/2026-08-11/164013/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 20.00 | 357.00% | 3.00 | 14.81% | 有望 |
-| JP | [6758.T](reports/2026-08-11/164013/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.20 | 93.00% | 2.64 | 13.16% | 有望 |
-| US | [CSCO](reports/2026-08-11/164013/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 75 | 91 | 40.16 | 137.00% | 9.71 | 25.23% | 有望 |
-| US | [TWLO](reports/2026-08-11/164013/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 34.33 | - | 5.00 | 13.50% | 有望 |
-| US | [SNOW](reports/2026-08-11/164013/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 59.87 | -54.87% | 有望 |
-| US | [SNAP](reports/2026-08-11/164013/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.80 | -15.58% | 有望 |
-| JP | [9101.T](reports/2026-08-11/164013/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 90 | 62 | 12.20 | 390.00% | 0.80 | 7.70% | 監視 |
+| JP | [9104.T](reports/2026-08-11/164304/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 10.13 | 326.00% | 0.75 | 7.89% | 有望 |
+| JP | [1605.T](reports/2026-08-11/164304/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.76 | 310.00% | 0.82 | 9.27% | 有望 |
+| US | [PEP](reports/2026-08-11/164304/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.05 | 430.00% | 8.51 | 51.51% | 有望 |
+| US | [ORCL](reports/2026-08-11/164304/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 24.84 | 132.00% | 11.11 | 53.38% | 有望 |
+| US | [MU](reports/2026-08-11/164304/MU.md) / [企業研究](research/MU.md) | MU | 100 | 90 | 96 | 19.32 | 6.00% | 9.59 | 66.64% | 有望 |
+| JP | [8306.T](reports/2026-08-11/164304/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 16.53 | 274.00% | 1.74 | 9.46% | 有望 |
+| JP | [9433.T](reports/2026-08-11/164304/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.41 | 297.00% | 2.12 | 14.59% | 有望 |
+| US | [AAPL](reports/2026-08-11/164304/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.10 | 35.00% | 41.59 | 148.75% | 有望 |
+| US | [AMD](reports/2026-08-11/164304/AMD.md) / [企業研究](research/AMD.md) | AMD | 100 | 50 | 82 | 119.77 | - | 11.34 | 10.20% | 有望 |
+| JP | [6273.T](reports/2026-08-11/164304/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 29.67 | 128.00% | 2.29 | 9.85% | 監視 |
