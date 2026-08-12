@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-11 16:43:04 JST / 実行ID: 2026-08-11-164304</div>
+<div class="meta-line">最終更新: 2026-08-12 16:35:17 JST / 実行ID: 2026-08-12-163517</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| ORCL | US | Oracle Corporation | 下位 | [詳細](./ORCL.md) |
-| MU | US | MU | 情報不足 | [詳細](./MU.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| AMD | US | AMD | 中位 | [詳細](./AMD.md) |
-| 6273.T | JP | SMC Corporation | 中位 | [詳細](./6273_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
