@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-13 16:34:23 JST / 実行ID: 2026-08-13-163423</div>
+<div class="meta-line">最終更新: 2026-08-13 16:38:59 JST / 実行ID: 2026-08-13-163859</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [IBM](reports/2026-08-13/163423/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 20.83 | 284.00% | 6.41 | 34.46% | 有望 |
-| US | [GOOGL](reports/2026-08-13/163423/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.37 | 26.00% | 6.80 | 48.68% | 有望 |
-| JP | [9432.T](reports/2026-08-13/163423/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.73 | 341.00% | 1.33 | 10.71% | 有望 |
-| JP | [6594.T](reports/2026-08-13/163423/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 26.46 | 192.00% | 1.81 | 6.31% | 有望 |
-| JP | [4063.T](reports/2026-08-13/163423/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 100 | 80 | 93 | 25.25 | 181.00% | 2.60 | 11.23% | 有望 |
-| JP | [8035.T](reports/2026-08-13/163423/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 47.50 | 128.00% | 12.62 | 30.93% | 有望 |
-| US | [SPOT](reports/2026-08-13/163423/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 27.06 | - | 11.05 | 44.48% | 有望 |
-| US | [ABNB](reports/2026-08-13/163423/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 41.80 | - | 13.85 | 34.54% | 有望 |
-| US | [INTC](reports/2026-08-13/163423/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 6.06 | -10.71% | 有望 |
-| JP | [9101.T](reports/2026-08-13/163423/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 30 | 90 | 62 | 12.30 | 392.00% | 0.80 | 7.70% | 監視 |
+| JP | [1605.T](reports/2026-08-13/163859/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.99 | 301.00% | 0.84 | 9.27% | 有望 |
+| JP | [7203.T](reports/2026-08-13/163859/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 8.50 | 333.00% | 0.95 | 12.40% | 有望 |
+| US | [CRM](reports/2026-08-13/163859/CRM.md) / [企業研究](research/CRM.md) | CRM | 100 | 90 | 96 | 22.23 | 89.00% | 4.58 | 16.91% | 有望 |
+| US | [MU](reports/2026-08-13/163859/MU.md) / [企業研究](research/MU.md) | MU | 100 | 90 | 96 | 20.89 | 6.00% | 10.86 | 66.64% | 有望 |
+| JP | [9433.T](reports/2026-08-13/163859/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.42 | 297.00% | 2.12 | 14.59% | 有望 |
+| JP | [2914.T](reports/2026-08-13/163859/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 21.05 | 387.00% | 2.86 | 13.97% | 有望 |
+| JP | [8766.T](reports/2026-08-13/163859/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 27.32 | 316.00% | 1.80 | 8.70% | 有望 |
+| US | [AMAT](reports/2026-08-13/163859/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 50.30 | 40.00% | 18.49 | 39.69% | 有望 |
+| US | [AAPL](reports/2026-08-13/163859/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.10 | 35.00% | 41.21 | 148.75% | 有望 |
+| US | [TWLO](reports/2026-08-13/163859/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 36.07 | - | 4.92 | 13.50% | 有望 |
