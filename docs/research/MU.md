@@ -1,12 +1,12 @@
-# CRM 企業研究
+# MU 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-08-15 16:00:03 JST / 実行ID: 2026-08-15-160003</div>
+<div class="meta-line">最終更新: 2026-08-15 16:09:20 JST / 実行ID: 2026-08-15-160920</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: CRM**
+- 現在地: **企業研究: MU**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: CRM
+- 企業名: MU
 - 市場: US
 - 国: United States
 - セクター: Technology
-- 業種: Software - Application
+- 業種: Semiconductors
 - 時価総額: N/A
-- 公式サイト: https://www.salesforce.com
+- 公式サイト: https://www.micron.com
 
 ## この企業は何をしているか
 
-CRM（CRM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額はN/A、従業員規模は約83,334名です。
+MU（MU）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額はN/A、従業員規模は約53,000名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -55,7 +55,7 @@ CRM（CRM）はUnited Statesを主な事業基盤とするTechnologyセクター
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 22.74 は中立。配当利回り 90.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 21.98 は中立。配当利回り 5.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ CRM（CRM）はUnited Statesを主な事業基盤とするTechnologyセクター
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-08-15/160003/CRM.md)
+- [当日の銘柄レポート](../reports/2026-08-15/160920/MU.md)
 - News Score: 100 / Value Score: 90 / 総合: 96
