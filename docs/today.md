@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-15 16:09:20 JST / 実行ID: 2026-08-15-160920</div>
+<div class="meta-line">最終更新: 2026-08-16 15:56:54 JST / 実行ID: 2026-08-16-155654</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-08-15/160920/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 8.59 | 331.00% | 0.96 | 12.40% | 有望 |
-| JP | [9984.T](reports/2026-08-15/160920/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 6.58 | 19.00% | 1.79 | 31.96% | 有望 |
-| US | [MU](reports/2026-08-15/160920/MU.md) / [企業研究](research/MU.md) | MU | 100 | 90 | 96 | 21.98 | 5.00% | 10.89 | 66.64% | 有望 |
-| US | [MSFT](reports/2026-08-15/160920/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.63 | 73.00% | 8.32 | 34.04% | 有望 |
-| JP | [4543.T](reports/2026-08-15/160920/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 28.99 | 135.00% | 2.37 | 10.85% | 有望 |
-| JP | [6758.T](reports/2026-08-15/160920/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.96 | 89.00% | 2.74 | 13.16% | 有望 |
-| JP | [7267.T](reports/2026-08-15/160920/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 422.00% | 0.52 | -0.76% | 有望 |
-| US | [AMZN](reports/2026-08-15/160920/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 21.15 | - | 5.13 | 30.56% | 有望 |
-| US | [AMD](reports/2026-08-15/160920/AMD.md) / [企業研究](research/AMD.md) | AMD | 100 | 50 | 82 | 131.56 | - | 12.49 | 10.20% | 有望 |
-| US | [SHOP](reports/2026-08-15/160920/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 107.17 | - | 16.06 | 15.54% | 有望 |
+| US | [QCOM](reports/2026-08-16/155654/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.95 | 222.00% | 6.34 | 33.75% | 有望 |
+| JP | [8316.T](reports/2026-08-16/155654/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.92 | 194.00% | 1.64 | 8.57% | 有望 |
+| JP | [9432.T](reports/2026-08-16/155654/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.90 | 332.00% | 1.34 | 10.71% | 有望 |
+| US | [NVDA](reports/2026-08-16/155654/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 34.48 | 44.00% | 27.90 | 114.29% | 有望 |
+| JP | [6098.T](reports/2026-08-16/155654/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 47.39 | 16.00% | 12.91 | 36.22% | 有望 |
+| JP | [6501.T](reports/2026-08-16/155654/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 32.68 | 95.00% | 3.93 | - | 有望 |
+| US | [ZM](reports/2026-08-16/155654/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 15.61 | - | 3.12 | 21.95% | 有望 |
+| US | [SNOW](reports/2026-08-16/155654/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 58.78 | -54.87% | 有望 |
+| US | [SNAP](reports/2026-08-16/155654/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.72 | -15.58% | 有望 |
+| JP | [6273.T](reports/2026-08-16/155654/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.99 | 131.00% | 2.23 | 9.85% | 監視 |
