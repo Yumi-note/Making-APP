@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-18 16:12:39 JST / 実行ID: 2026-08-18-161239</div>
+<div class="meta-line">最終更新: 2026-08-18 16:16:04 JST / 実行ID: 2026-08-18-161604</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 上位 | [詳細](./4502_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
+| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 6273.T | JP | SMC Corporation | 中位 | [詳細](./6273_T.md) |

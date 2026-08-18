@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-18 16:12:39 JST / 実行ID: 2026-08-18-161239</div>
+<div class="meta-line">最終更新: 2026-08-18 16:16:04 JST / 実行ID: 2026-08-18-161604</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [6902.T](reports/2026-08-18/161239/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.86 | 385.00% | 0.95 | 9.20% | 有望 |
-| JP | [7751.T](reports/2026-08-18/161239/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.38 | 351.00% | 1.10 | 10.37% | 有望 |
-| US | [DIS](reports/2026-08-18/161239/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 21.61 | 145.00% | 1.65 | 8.01% | 有望 |
-| JP | [6367.T](reports/2026-08-18/161239/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 22.47 | 168.00% | 1.96 | 9.60% | 有望 |
-| US | [AAPL](reports/2026-08-18/161239/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 35.63 | 35.00% | 42.17 | 148.75% | 有望 |
-| JP | [4307.T](reports/2026-08-18/161239/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 180.62 | 173.00% | 7.25 | 4.60% | 有望 |
-| JP | [4502.T](reports/2026-08-18/161239/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 370.00% | 1.19 | -2.26% | 有望 |
-| US | [UBER](reports/2026-08-18/161239/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 17.06 | - | 5.73 | 37.16% | 有望 |
-| US | [ZM](reports/2026-08-18/161239/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 65 | 88 | 15.72 | - | 3.14 | 21.95% | 有望 |
-| US | [NFLX](reports/2026-08-18/161239/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 24.77 | - | 10.88 | 49.54% | 有望 |
+| JP | [1605.T](reports/2026-08-18/161604/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.53 | 297.00% | 0.89 | 9.27% | 有望 |
+| US | [IBM](reports/2026-08-18/161604/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 20.60 | 295.00% | 6.34 | 34.46% | 有望 |
+| US | [PEP](reports/2026-08-18/161604/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.39 | 428.00% | 8.67 | 51.51% | 有望 |
+| US | [CRM](reports/2026-08-18/161604/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.97 | 92.00% | 4.74 | 16.91% | 有望 |
+| JP | [3382.T](reports/2026-08-18/161604/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.09 | 293.00% | 1.27 | 8.05% | 有望 |
+| JP | [8316.T](reports/2026-08-18/161604/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.76 | 195.00% | 1.63 | 8.57% | 有望 |
+| JP | [8766.T](reports/2026-08-18/161604/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 26.42 | 327.00% | 1.71 | - | 有望 |
+| US | [AMZN](reports/2026-08-18/161604/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 20.97 | - | 5.10 | 30.56% | 有望 |
+| US | [PLTR](reports/2026-08-18/161604/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 147.54 | - | 42.43 | 38.10% | 有望 |
+| JP | [6273.T](reports/2026-08-18/161604/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.50 | 129.00% | 2.19 | 9.85% | 監視 |
