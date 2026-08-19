@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-19 16:09:26 JST / 実行ID: 2026-08-19-160926</div>
+<div class="meta-line">最終更新: 2026-08-19 16:20:22 JST / 実行ID: 2026-08-19-162022</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
-| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 下位 | [詳細](./4063_T.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
+| MU | US | MU | 情報不足 | [詳細](./MU.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
