@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-18 16:16:04 JST / 実行ID: 2026-08-18-161604</div>
+<div class="meta-line">最終更新: 2026-08-19 16:09:26 JST / 実行ID: 2026-08-19-160926</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-08-18/161604/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.53 | 297.00% | 0.89 | 9.27% | 有望 |
-| US | [IBM](reports/2026-08-18/161604/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 20.60 | 295.00% | 6.34 | 34.46% | 有望 |
-| US | [PEP](reports/2026-08-18/161604/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.39 | 428.00% | 8.67 | 51.51% | 有望 |
-| US | [CRM](reports/2026-08-18/161604/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.97 | 92.00% | 4.74 | 16.91% | 有望 |
-| JP | [3382.T](reports/2026-08-18/161604/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.09 | 293.00% | 1.27 | 8.05% | 有望 |
-| JP | [8316.T](reports/2026-08-18/161604/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.76 | 195.00% | 1.63 | 8.57% | 有望 |
-| JP | [8766.T](reports/2026-08-18/161604/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 26.42 | 327.00% | 1.71 | - | 有望 |
-| US | [AMZN](reports/2026-08-18/161604/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 20.97 | - | 5.10 | 30.56% | 有望 |
-| US | [PLTR](reports/2026-08-18/161604/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 147.54 | - | 42.43 | 38.10% | 有望 |
-| JP | [6273.T](reports/2026-08-18/161604/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 28.50 | 129.00% | 2.19 | 9.85% | 監視 |
+| JP | [9104.T](reports/2026-08-19/160926/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 11.24 | 298.00% | 0.80 | 7.89% | 有望 |
+| US | [ORCL](reports/2026-08-19/160926/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 24.92 | 140.00% | 11.14 | 53.38% | 有望 |
+| JP | [6758.T](reports/2026-08-19/160926/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.80 | 94.00% | 2.59 | 13.16% | 有望 |
+| JP | [8306.T](reports/2026-08-19/160926/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 16.46 | 263.00% | 1.73 | 9.46% | 有望 |
+| JP | [6501.T](reports/2026-08-19/160926/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 29.61 | 100.00% | 3.56 | - | 有望 |
+| US | [TXN](reports/2026-08-19/160926/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 41.39 | 209.00% | 13.83 | 35.18% | 有望 |
+| JP | [4063.T](reports/2026-08-19/160926/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 90 | 80 | 88 | 24.09 | 186.00% | 2.48 | 11.23% | 有望 |
+| US | [SNAP](reports/2026-08-19/160926/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.55 | -15.58% | 有望 |
+| US | [TSLA](reports/2026-08-19/160926/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 322.42 | - | 15.83 | 4.67% | 有望 |
+| US | [SHOP](reports/2026-08-19/160926/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 99.70 | - | 15.35 | 15.54% | 有望 |
