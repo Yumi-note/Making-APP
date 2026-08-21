@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-20 16:18:44 JST / 実行ID: 2026-08-20-161844</div>
+<div class="meta-line">最終更新: 2026-08-21 16:04:02 JST / 実行ID: 2026-08-21-160402</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| DIS | US | DIS | 下位 | [詳細](./DIS.md) |
-| CRM | US | CRM | 情報不足 | [詳細](./CRM.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
+| PEP | US | PepsiCo, Inc. Common Stock | 下位 | [詳細](./PEP.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |

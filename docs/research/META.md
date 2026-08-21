@@ -1,12 +1,12 @@
-# NVDA 企業研究
+# META 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-08-20 16:18:44 JST / 実行ID: 2026-08-20-161844</div>
+<div class="meta-line">最終更新: 2026-08-21 16:04:02 JST / 実行ID: 2026-08-21-160402</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: NVDA**
+- 現在地: **企業研究: META**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: NVIDIA Corporation
+- 企業名: Meta Platforms, Inc.
 - 市場: US
 - 国: United States
-- セクター: Technology
-- 業種: Semiconductors
-- 時価総額: 5.24T
-- 公式サイト: https://www.nvidia.com
+- セクター: Communication Services
+- 業種: Internet Content & Information
+- 時価総額: 1.40T
+- 公式サイト: https://www.meta.com
 
 ## この企業は何をしているか
 
-NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSemiconductorsに属し、時価総額は5.24T、従業員規模は約42,000名です。
+Meta Platforms, Inc.（META）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は1.40T、従業員規模は約75,472名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 
 ## 業界での立ち位置
 
-- 判定: **上位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が上位（1/4）に位置。
+- 判定: **中位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（2/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [上位]
-同セクター内順位: 1/3 中位ゾーン [■■■□□]
+この銘柄の位置  : [中位]
+同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 33.14 は割高寄り。配当利回り 46.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 20.72 は中立。配当利回り 38.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ NVIDIA Corporation（NVDA）はUnited Statesを主な事業基盤とするTechno
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-08-20/161844/NVDA.md)
-- News Score: 100 / Value Score: 80 / 総合: 93
+- [当日の銘柄レポート](../reports/2026-08-21/160402/META.md)
+- News Score: 100 / Value Score: 90 / 総合: 96
