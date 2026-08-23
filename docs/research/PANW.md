@@ -1,12 +1,12 @@
-# SNAP 企業研究
+# PANW 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-08-23 16:00:58 JST / 実行ID: 2026-08-23-160058</div>
+<div class="meta-line">最終更新: 2026-08-23 16:09:59 JST / 実行ID: 2026-08-23-160959</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: SNAP**
+- 現在地: **企業研究: PANW**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Snap Inc.
+- 企業名: Palo Alto Networks, Inc.
 - 市場: US
 - 国: United States
-- セクター: Communication Services
-- 業種: Internet Content & Information
-- 時価総額: 8.86B
-- 公式サイト: https://www.snap.com
+- セクター: Technology
+- 業種: Software - Infrastructure
+- 時価総額: 291.66B
+- 公式サイト: https://www.paloaltonetworks.com
 
 ## この企業は何をしているか
 
-Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は8.86B、従業員規模は約5,261名です。
+Palo Alto Networks, Inc.（PANW）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は291.66B、従業員規模は約21,491名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication S
 
 ## 業界での立ち位置
 
-- 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
+- 判定: **中位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（3/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication S
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [下位]
-同セクター内順位: 2/2 下位ゾーン [■□□□□]
+この銘柄の位置  : [中位]
+同セクター内順位: 1/3 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- 評価に十分なPER/配当データが不足。
+- PER基準(US): 15以下が割安目安。PER 311.19 は割高寄り。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication S
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-08-23/160058/SNAP.md)
+- [当日の銘柄レポート](../reports/2026-08-23/160959/PANW.md)
 - News Score: 100 / Value Score: 50 / 総合: 82
