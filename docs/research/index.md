@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-23 15:57:47 JST / 実行ID: 2026-08-23-155747</div>
+<div class="meta-line">最終更新: 2026-08-23 16:00:58 JST / 実行ID: 2026-08-23-160058</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| DIS | US | DIS | 中位 | [詳細](./DIS.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
-| SNOW | US | Snowflake Inc. | 中位 | [詳細](./SNOW.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
+| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 4543.T | JP | Terumo Corporation | 中位 | [詳細](./4543_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
