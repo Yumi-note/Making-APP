@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-24 16:16:09 JST / 実行ID: 2026-08-24-161609</div>
+<div class="meta-line">最終更新: 2026-08-24 16:20:55 JST / 実行ID: 2026-08-24-162055</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-08-24/161609/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.13 | 229.00% | 6.06 | 33.75% | 有望 |
-| US | [MSFT](reports/2026-08-24/161609/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.27 | 75.00% | 8.21 | 34.04% | 有望 |
-| US | [CSCO](reports/2026-08-24/161609/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 33.28 | 151.00% | 8.70 | 27.32% | 有望 |
-| JP | [6758.T](reports/2026-08-24/161609/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.63 | 92.00% | 2.70 | 13.16% | 有望 |
-| JP | [6594.T](reports/2026-08-24/161609/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 24.61 | 192.00% | 1.68 | 6.31% | 有望 |
-| JP | [7267.T](reports/2026-08-24/161609/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 399.00% | 0.55 | -0.76% | 有望 |
-| JP | [4502.T](reports/2026-08-24/161609/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 354.00% | 1.21 | -2.26% | 有望 |
-| JP | [6098.T](reports/2026-08-24/161609/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 47.43 | 16.00% | 12.96 | 36.22% | 有望 |
-| US | [TWLO](reports/2026-08-24/161609/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 30.72 | - | 4.34 | 13.50% | 有望 |
-| US | [TSLA](reports/2026-08-24/161609/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 326.90 | - | 16.20 | 4.67% | 有望 |
+| US | [PYPL](reports/2026-08-24/162055/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 11.71 | 91.00% | 2.69 | 24.50% | 有望 |
+| US | [DIS](reports/2026-08-24/162055/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 22.66 | 139.00% | 1.73 | 8.01% | 有望 |
+| JP | [8316.T](reports/2026-08-24/162055/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 16.02 | 204.00% | 1.56 | 8.57% | 有望 |
+| JP | [4568.T](reports/2026-08-24/162055/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 80 | 93 | 20.38 | 353.00% | 3.06 | 14.81% | 有望 |
+| US | [AMAT](reports/2026-08-24/162055/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 41.77 | 43.00% | 14.97 | 41.07% | 有望 |
+| US | [UBER](reports/2026-08-24/162055/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 17.27 | - | 5.88 | 37.16% | 有望 |
+| JP | [4063.T](reports/2026-08-24/162055/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 90 | 80 | 88 | 23.98 | 192.00% | 2.47 | 11.23% | 有望 |
+| US | [SPOT](reports/2026-08-24/162055/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 28.78 | - | 11.88 | 44.48% | 有望 |
+| JP | [9101.T](reports/2026-08-24/162055/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 40 | 90 | 66 | 14.26 | 338.00% | 0.93 | 7.70% | 監視 |
+| JP | [9020.T](reports/2026-08-24/162055/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 16.12 | 237.00% | 1.30 | 7.95% | 監視 |
