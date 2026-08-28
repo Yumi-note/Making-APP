@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-08-26 16:38:09 JST / 実行ID: 2026-08-26-163809</div>
+<div class="meta-line">最終更新: 2026-08-28 00:36:29 JST / 実行ID: 2026-08-28-003629</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-08-26/163809/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 18.53 | 229.00% | 6.20 | 33.75% | 有望 |
-| JP | [9432.T](reports/2026-08-26/163809/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 13.45 | 319.00% | 1.40 | 10.71% | 有望 |
-| JP | [8411.T](reports/2026-08-26/163809/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 14.83 | 183.00% | 1.76 | 12.49% | 有望 |
-| US | [ORCL](reports/2026-08-26/163809/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 80 | 93 | 25.28 | 138.00% | 11.30 | 53.38% | 有望 |
-| US | [NVDA](reports/2026-08-26/163809/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 32.07 | 47.00% | 25.99 | 114.29% | 有望 |
-| JP | [4543.T](reports/2026-08-26/163809/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 27.90 | 139.00% | 2.28 | 10.85% | 有望 |
-| JP | [8035.T](reports/2026-08-26/163809/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 44.32 | 135.00% | 11.78 | 30.93% | 有望 |
-| US | [NFLX](reports/2026-08-26/163809/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 55 | 84 | 25.66 | - | 11.27 | 49.54% | 有望 |
-| US | [PANW](reports/2026-08-26/163809/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 293.01 | - | 9.99 | 4.83% | 有望 |
-| JP | [6273.T](reports/2026-08-26/163809/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 27.11 | 139.00% | 2.09 | 9.85% | 監視 |
+| US | [PYPL](reports/2026-08-28/003629/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 11.62 | 91.00% | 2.67 | 24.50% | 有望 |
+| JP | [6902.T](reports/2026-08-28/003629/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.75 | 389.00% | 0.94 | 9.20% | 有望 |
+| US | [MU](reports/2026-08-28/003629/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 21.16 | 6.00% | 10.48 | 66.64% | 有望 |
+| US | [CSCO](reports/2026-08-28/003629/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 33.68 | 150.00% | 8.81 | 27.32% | 有望 |
+| JP | [4568.T](reports/2026-08-28/003629/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 80 | 93 | 20.98 | 346.00% | 3.15 | 14.81% | 有望 |
+| JP | [6758.T](reports/2026-08-28/003629/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 21.22 | 90.00% | 2.78 | 13.16% | 有望 |
+| JP | [4063.T](reports/2026-08-28/003629/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 90 | 80 | 88 | 24.01 | 194.00% | 2.47 | 11.23% | 有望 |
+| US | [SPOT](reports/2026-08-28/003629/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 28.36 | - | 11.07 | 44.48% | 有望 |
+| US | [INTC](reports/2026-08-28/003629/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.31 | -10.71% | 有望 |
+| JP | [9020.T](reports/2026-08-28/003629/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 20 | 90 | 56 | 16.36 | 233.00% | 1.32 | 7.95% | 見送り |
