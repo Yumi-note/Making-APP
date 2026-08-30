@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-08-29 18:55:36 JST / 実行ID: 2026-08-29-185536</div>
+<div class="meta-line">最終更新: 2026-08-30 18:48:58 JST / 実行ID: 2026-08-30-184858</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
-| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
-| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 下位 | [詳細](./CSCO.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
+| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
+| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
