@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-01 18:55:23 JST / 実行ID: 2026-09-01-185523</div>
+<div class="meta-line">最終更新: 2026-09-02 18:57:33 JST / 実行ID: 2026-09-02-185733</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-09-01/185523/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 11.37 | 293.00% | 0.81 | 7.89% | 有望 |
-| US | [MU](reports/2026-09-01/185523/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 20.99 | 6.00% | 10.41 | 66.64% | 有望 |
-| US | [DIS](reports/2026-09-01/185523/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 21.93 | 139.00% | 1.67 | 8.01% | 有望 |
-| JP | [9432.T](reports/2026-09-01/185523/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 13.93 | 313.00% | 1.45 | 10.71% | 有望 |
-| US | [CSCO](reports/2026-09-01/185523/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 32.85 | 152.00% | 8.59 | 27.32% | 有望 |
-| JP | [4543.T](reports/2026-09-01/185523/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 100 | 80 | 93 | 27.63 | 143.00% | 2.26 | 10.85% | 有望 |
-| US | [ZM](reports/2026-09-01/185523/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 8.87 | - | 2.81 | 32.14% | 有望 |
-| JP | [4502.T](reports/2026-09-01/185523/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 354.00% | 1.22 | -2.26% | 有望 |
-| US | [ABNB](reports/2026-09-01/185523/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 41.90 | - | 13.88 | 34.54% | 有望 |
-| JP | [9101.T](reports/2026-09-01/185523/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 60 | 90 | 76 | 14.05 | 341.00% | 0.92 | 7.70% | 有望 |
+| JP | [7751.T](reports/2026-09-02/185733/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.83 | 337.00% | 1.14 | 10.37% | 有望 |
+| US | [META](reports/2026-09-02/185733/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 22.28 | 36.00% | 5.77 | 29.85% | 有望 |
+| JP | [8316.T](reports/2026-09-02/185733/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 15.64 | 193.00% | 1.64 | 8.57% | 有望 |
+| JP | [7974.T](reports/2026-09-02/185733/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 24.23 | 241.00% | 3.49 | - | 有望 |
+| JP | [6501.T](reports/2026-09-02/185733/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 30.18 | 101.00% | 3.64 | - | 有望 |
+| JP | [7267.T](reports/2026-09-02/185733/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 404.00% | 0.53 | -0.76% | 有望 |
+| US | [TWLO](reports/2026-09-02/185733/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 30.93 | - | 3.84 | 13.50% | 有望 |
+| US | [INTC](reports/2026-09-02/185733/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.17 | -10.71% | 有望 |
+| US | [PLTR](reports/2026-09-02/185733/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 144.08 | - | 41.44 | 38.10% | 有望 |
+| US | [SNOW](reports/2026-09-02/185733/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 54.89 | -54.87% | 有望 |
