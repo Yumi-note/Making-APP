@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-04 18:37:18 JST / 実行ID: 2026-09-04-183718</div>
+<div class="meta-line">最終更新: 2026-09-05 17:39:31 JST / 実行ID: 2026-09-05-173931</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PEP](reports/2026-09-04/183718/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.09 | 423.00% | 8.53 | 51.51% | 有望 |
-| US | [CRM](reports/2026-09-04/183718/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.85 | 69.00% | 5.59 | 19.38% | 有望 |
-| US | [MU](reports/2026-09-04/183718/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 22.63 | 6.00% | 11.23 | 66.64% | 有望 |
-| JP | [4568.T](reports/2026-09-04/183718/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.89 | 350.00% | 2.99 | 14.81% | 有望 |
-| JP | [9433.T](reports/2026-09-04/183718/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 16.23 | 282.00% | 2.21 | 14.59% | 有望 |
-| US | [CSCO](reports/2026-09-04/183718/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 32.76 | 155.00% | 8.57 | 27.32% | 有望 |
-| JP | [2914.T](reports/2026-09-04/183718/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.27 | 391.00% | 2.75 | 14.30% | 有望 |
-| JP | [6367.T](reports/2026-09-04/183718/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 21.83 | 173.00% | 1.91 | 9.60% | 有望 |
-| JP | [4307.T](reports/2026-09-04/183718/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 198.94 | 163.00% | 7.86 | 4.60% | 有望 |
-| US | [AMD](reports/2026-09-04/183718/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 120.46 | - | 11.46 | 10.20% | 有望 |
+| US | [QCOM](reports/2026-09-05/173931/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 19.26 | 218.00% | 6.45 | 33.75% | 有望 |
+| JP | [8766.T](reports/2026-09-05/173931/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 28.57 | 164.00% | 1.85 | - | 有望 |
+| JP | [7974.T](reports/2026-09-05/173931/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 24.27 | 248.00% | 3.49 | - | 有望 |
+| JP | [6758.T](reports/2026-09-05/173931/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.83 | 90.00% | 2.73 | 13.16% | 有望 |
+| US | [AMAT](reports/2026-09-05/173931/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 39.20 | 49.00% | 14.08 | 41.07% | 有望 |
+| US | [ZM](reports/2026-09-05/173931/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 9.41 | - | 2.98 | 32.14% | 有望 |
+| JP | [6098.T](reports/2026-09-05/173931/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 46.73 | 16.00% | 12.74 | 36.22% | 有望 |
+| US | [TWLO](reports/2026-09-05/173931/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 32.14 | - | 3.99 | 13.50% | 有望 |
+| US | [SNAP](reports/2026-09-05/173931/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.77 | -15.58% | 有望 |
+| JP | [9020.T](reports/2026-09-05/173931/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 20 | 90 | 56 | 16.05 | 239.00% | 1.30 | 7.95% | 見送り |

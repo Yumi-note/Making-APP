@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-04 18:37:18 JST / 実行ID: 2026-09-04-183718</div>
+<div class="meta-line">最終更新: 2026-09-05 17:39:31 JST / 実行ID: 2026-09-05-173931</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 上位 | [詳細](./2914_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
+| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
+| AMAT | US | Applied Materials, Inc. | 上位 | [詳細](./AMAT.md) |
+| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| TWLO | US | Twilio Inc. | 中位 | [詳細](./TWLO.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
