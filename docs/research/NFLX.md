@@ -1,12 +1,12 @@
-# CSCO 企業研究
+# NFLX 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-09-06 17:42:06 JST / 実行ID: 2026-09-06-174206</div>
+<div class="meta-line">最終更新: 2026-09-06 17:45:08 JST / 実行ID: 2026-09-06-174508</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: CSCO**
+- 現在地: **企業研究: NFLX**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Cisco Systems, Inc.
+- 企業名: Netflix, Inc.
 - 市場: US
 - 国: United States
-- セクター: Technology
-- 業種: Communication Equipment
-- 時価総額: 430.53B
-- 公式サイト: https://www.cisco.com
+- セクター: Communication Services
+- 業種: Entertainment
+- 時価総額: 325.83B
+- 公式サイト: https://www.netflix.com
 
 ## この企業は何をしているか
 
-Cisco Systems, Inc.（CSCO）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はCommunication Equipmentに属し、時価総額は430.53B、従業員規模は約82,400名です。
+Netflix, Inc.（NFLX）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はEntertainmentに属し、時価総額は325.83B、従業員規模は約16,000名です。
 
 事業の柱は通信インフラ、モバイルサービス、法人向けソリューションで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -40,8 +40,8 @@ Cisco Systems, Inc.（CSCO）はUnited Statesを主な事業基盤とするTechn
 
 ## 業界での立ち位置
 
-- 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
+- 判定: **中位**
+- 根拠: 同市場の対象銘柄群で時価総額順位が中位（2/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -49,13 +49,13 @@ Cisco Systems, Inc.（CSCO）はUnited Statesを主な事業基盤とするTechn
 上位プレイヤー  : [■■■■■]
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
-この銘柄の位置  : [下位]
-同セクター内順位: 3/4 下位ゾーン [■□□□□]
+この銘柄の位置  : [中位]
+同セクター内順位: 1/2 中位ゾーン [■■■□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 32.79 は割高寄り。配当利回り 154.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 24.61 は中立。配当データなし。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Cisco Systems, Inc.（CSCO）はUnited Statesを主な事業基盤とするTechn
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-09-06/174206/CSCO.md)
-- News Score: 100 / Value Score: 80 / 総合: 93
+- [当日の銘柄レポート](../reports/2026-09-06/174508/NFLX.md)
+- News Score: 100 / Value Score: 65 / 総合: 88

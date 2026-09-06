@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-06 17:42:06 JST / 実行ID: 2026-09-06-174206</div>
+<div class="meta-line">最終更新: 2026-09-06 17:45:08 JST / 実行ID: 2026-09-06-174508</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-09-06/174206/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 11.25 | 294.00% | 0.80 | 7.89% | 有望 |
-| US | [CRM](reports/2026-09-06/174206/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 23.76 | 68.00% | 5.56 | 19.38% | 有望 |
-| US | [GOOGL](reports/2026-09-06/174206/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 16.97 | 26.00% | 6.65 | 48.68% | 有望 |
-| US | [MU](reports/2026-09-06/174206/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 90 | 96 | 22.99 | 5.00% | 11.39 | 66.64% | 有望 |
-| JP | [8411.T](reports/2026-09-06/174206/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.65 | 171.00% | 1.85 | 12.49% | 有望 |
-| US | [CSCO](reports/2026-09-06/174206/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 32.79 | 154.00% | 8.57 | 27.32% | 有望 |
-| US | [MSFT](reports/2026-09-06/174206/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.85 | 73.00% | 8.39 | 34.04% | 有望 |
-| JP | [6367.T](reports/2026-09-06/174206/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 21.83 | 176.00% | 1.91 | 9.60% | 有望 |
-| JP | [6594.T](reports/2026-09-06/174206/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 24.88 | 192.00% | 1.70 | 6.31% | 有望 |
-| JP | [6273.T](reports/2026-09-06/174206/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 25.45 | 149.00% | 1.96 | 9.85% | 有望 |
+| US | [IBM](reports/2026-09-06/174508/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 20.88 | 288.00% | 6.42 | 34.46% | 有望 |
+| US | [PEP](reports/2026-09-06/174508/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.06 | 430.00% | 8.51 | 51.51% | 有望 |
+| JP | [4568.T](reports/2026-09-06/174508/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.92 | 358.00% | 2.99 | 14.81% | 有望 |
+| JP | [2914.T](reports/2026-09-06/174508/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.28 | 400.00% | 2.75 | 14.30% | 有望 |
+| JP | [8766.T](reports/2026-09-06/174508/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 28.57 | 164.00% | 1.85 | - | 有望 |
+| US | [AVGO](reports/2026-09-06/174508/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 45.65 | 73.00% | 17.11 | 44.25% | 有望 |
+| JP | [4307.T](reports/2026-09-06/174508/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 196.11 | 160.00% | 7.86 | 4.60% | 有望 |
+| US | [NFLX](reports/2026-09-06/174508/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 24.61 | - | 10.81 | 49.54% | 有望 |
+| US | [SNAP](reports/2026-09-06/174508/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.77 | -15.58% | 有望 |
+| JP | [9020.T](reports/2026-09-06/174508/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 20 | 90 | 56 | 16.05 | 239.00% | 1.30 | 7.95% | 見送り |
