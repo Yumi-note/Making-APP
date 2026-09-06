@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-06 17:45:08 JST / 実行ID: 2026-09-06-174508</div>
+<div class="meta-line">最終更新: 2026-09-06 17:49:15 JST / 実行ID: 2026-09-06-174915</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 上位 | [詳細](./8766_T.md) |
-| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
-| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
+| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| SNOW | US | Snowflake Inc. | 中位 | [詳細](./SNOW.md) |
+| INTC | US | Intel Corporation | 上位 | [詳細](./INTC.md) |
