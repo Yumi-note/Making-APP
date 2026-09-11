@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-11 18:44:57 JST / 実行ID: 2026-09-11-184457</div>
+<div class="meta-line">最終更新: 2026-09-11 18:48:21 JST / 実行ID: 2026-09-11-184821</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-09-11/184457/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.07 | 369.00% | 1.07 | 10.37% | 有望 |
-| US | [META](reports/2026-09-11/184457/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 24.45 | 33.00% | 6.33 | 29.85% | 有望 |
-| JP | [3382.T](reports/2026-09-11/184457/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 16.91 | 298.00% | 1.26 | 8.05% | 有望 |
-| US | [MSFT](reports/2026-09-11/184457/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.61 | 74.00% | 8.33 | 34.04% | 有望 |
-| JP | [6367.T](reports/2026-09-11/184457/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 22.15 | 173.00% | 1.93 | 9.60% | 有望 |
-| JP | [7267.T](reports/2026-09-11/184457/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 428.00% | 0.52 | -0.76% | 有望 |
-| US | [INTC](reports/2026-09-11/184457/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 5.96 | -10.71% | 有望 |
-| US | [PANW](reports/2026-09-11/184457/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 285.87 | - | 9.77 | 1.74% | 有望 |
-| US | [SNOW](reports/2026-09-11/184457/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 53.30 | -48.06% | 有望 |
-| JP | [6273.T](reports/2026-09-11/184457/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 25.82 | 148.00% | 1.99 | 9.85% | 有望 |
+| JP | [7203.T](reports/2026-09-11/184821/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 8.62 | 334.00% | 0.96 | 12.40% | 有望 |
+| US | [PEP](reports/2026-09-11/184821/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 17.86 | 433.00% | 8.42 | 51.51% | 有望 |
+| JP | [8306.T](reports/2026-09-11/184821/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.48 | 262.00% | 1.82 | 9.46% | 有望 |
+| JP | [6594.T](reports/2026-09-11/184821/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 25.67 | 192.00% | 1.75 | 6.31% | 有望 |
+| JP | [8766.T](reports/2026-09-11/184821/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 28.56 | 168.00% | 1.85 | - | 有望 |
+| JP | [4307.T](reports/2026-09-11/184821/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 184.80 | 171.00% | 7.35 | 4.60% | 有望 |
+| US | [NFLX](reports/2026-09-11/184821/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 24.28 | - | 10.66 | 49.54% | 有望 |
+| US | [AMZN](reports/2026-09-11/184821/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 20.69 | - | 5.02 | 30.56% | 有望 |
+| US | [TWLO](reports/2026-09-11/184821/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 31.46 | - | 3.89 | 13.50% | 有望 |
+| US | [SHOP](reports/2026-09-11/184821/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 87.76 | - | 13.20 | 15.54% | 有望 |
