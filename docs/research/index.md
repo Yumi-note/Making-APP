@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-10 18:45:05 JST / 実行ID: 2026-09-10-184505</div>
+<div class="meta-line">最終更新: 2026-09-11 18:44:57 JST / 実行ID: 2026-09-11-184457</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
-| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 上位 | [詳細](./7267_T.md) |
+| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
+| PANW | US | Palo Alto Networks, Inc. | 下位 | [詳細](./PANW.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
