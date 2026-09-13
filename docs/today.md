@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-12 17:55:16 JST / 実行ID: 2026-09-12-175516</div>
+<div class="meta-line">最終更新: 2026-09-13 18:20:39 JST / 実行ID: 2026-09-13-182039</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-09-12/175516/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.16 | 104.00% | 2.34 | 24.50% | 有望 |
-| JP | [6902.T](reports/2026-09-12/175516/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.79 | 385.00% | 0.94 | 9.20% | 有望 |
-| JP | [4568.T](reports/2026-09-12/175516/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 19.76 | 361.00% | 2.96 | 14.81% | 有望 |
-| JP | [2914.T](reports/2026-09-12/175516/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 90 | 96 | 19.92 | 406.00% | 2.70 | 14.30% | 有望 |
-| JP | [8316.T](reports/2026-09-12/175516/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 15.50 | 130.00% | 1.63 | 8.57% | 有望 |
-| US | [CSCO](reports/2026-09-12/175516/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 33.67 | 156.00% | 8.80 | 27.32% | 有望 |
-| US | [AVGO](reports/2026-09-12/175516/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 46.23 | 72.00% | 17.34 | 44.25% | 有望 |
-| US | [AMD](reports/2026-09-12/175516/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 131.67 | - | 12.53 | 10.20% | 有望 |
-| US | [TSLA](reports/2026-09-12/175516/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 332.22 | - | 16.61 | 4.67% | 有望 |
-| JP | [9020.T](reports/2026-09-12/175516/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 10 | 90 | 52 | 15.92 | 240.00% | 1.29 | 7.95% | 見送り |
+| JP | [7751.T](reports/2026-09-13/182039/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.07 | 365.00% | 1.07 | 10.37% | 有望 |
+| JP | [1605.T](reports/2026-09-13/182039/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.62 | 285.00% | 0.90 | 9.27% | 有望 |
+| US | [CRM](reports/2026-09-13/182039/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.68 | 71.00% | 5.31 | 19.38% | 有望 |
+| US | [MSFT](reports/2026-09-13/182039/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.63 | 73.00% | 8.32 | 34.04% | 有望 |
+| JP | [7974.T](reports/2026-09-13/182039/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 22.22 | 271.00% | 3.20 | - | 有望 |
+| US | [ZM](reports/2026-09-13/182039/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 8.87 | - | 2.81 | 32.14% | 有望 |
+| JP | [6098.T](reports/2026-09-13/182039/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 44.64 | 17.00% | 12.16 | 36.22% | 有望 |
+| US | [SPOT](reports/2026-09-13/182039/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 28.40 | - | 11.04 | 44.48% | 有望 |
+| US | [PANW](reports/2026-09-13/182039/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 826.62 | - | 9.83 | 1.74% | 有望 |
+| JP | [6273.T](reports/2026-09-13/182039/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 25.84 | 147.00% | 1.99 | 9.85% | 有望 |
