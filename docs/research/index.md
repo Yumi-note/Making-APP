@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-13 18:23:22 JST / 実行ID: 2026-09-13-182322</div>
+<div class="meta-line">最終更新: 2026-09-14 19:56:39 JST / 実行ID: 2026-09-14-195639</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
-| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 下位 | [詳細](./8411_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
+| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
