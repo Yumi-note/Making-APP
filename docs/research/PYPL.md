@@ -1,12 +1,12 @@
-# 8411.T 企業研究
+# PYPL 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-09-14 19:56:39 JST / 実行ID: 2026-09-14-195639</div>
+<div class="meta-line">最終更新: 2026-09-14 19:58:46 JST / 実行ID: 2026-09-14-195846</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 8411.T**
+- 現在地: **企業研究: PYPL**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Mizuho Financial Group, Inc.
-- 市場: JP
-- 国: Japan
+- 企業名: PayPal Holdings, Inc.
+- 市場: US
+- 国: United States
 - セクター: Financial Services
-- 業種: Banks - Regional
-- 時価総額: 21.28T
-- 公式サイト: https://www.mizuho-fg.co.jp
+- 業種: Credit Services
+- 時価総額: 46.57B
+- 公式サイト: https://www.paypal.com
 
 ## この企業は何をしているか
 
-Mizuho Financial Group, Inc.（8411.T）はJapanを主な事業基盤とするFinancial Servicesセクターの企業で、市場区分はJPです。業種はBanks - Regionalに属し、時価総額は21.28T、従業員規模は約52,427名です。
+PayPal Holdings, Inc.（PYPL）はUnited Statesを主な事業基盤とするFinancial Servicesセクターの企業で、市場区分はUSです。業種はCredit Servicesに属し、時価総額は46.57B、従業員規模は約23,800名です。
 
 事業の柱は法人金融、個人金融、資産運用/決済で、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -55,7 +55,7 @@ Mizuho Financial Group, Inc.（8411.T）はJapanを主な事業基盤とするFi
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 15.67 は中立。配当利回り 173.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 10.21 は割安寄り。配当利回り 104.00% は高水準。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Mizuho Financial Group, Inc.（8411.T）はJapanを主な事業基盤とするFi
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-09-14/195639/8411_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-09-14/195846/PYPL.md)
+- News Score: 100 / Value Score: 100 / 総合: 100
