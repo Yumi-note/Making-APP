@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-15 19:19:27 JST / 実行ID: 2026-09-15-191927</div>
+<div class="meta-line">最終更新: 2026-09-16 19:05:30 JST / 実行ID: 2026-09-16-190530</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7203.T | JP | Toyota Motor Corporation | 中位 | [詳細](./7203_T.md) |
-| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
-| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
