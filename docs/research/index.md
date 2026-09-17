@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-16 19:08:34 JST / 実行ID: 2026-09-16-190834</div>
+<div class="meta-line">最終更新: 2026-09-17 19:16:35 JST / 実行ID: 2026-09-17-191635</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
-| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
-| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
-| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
+| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| PANW | US | Palo Alto Networks, Inc. | 上位 | [詳細](./PANW.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
