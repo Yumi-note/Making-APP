@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-17 19:16:35 JST / 実行ID: 2026-09-17-191635</div>
+<div class="meta-line">最終更新: 2026-09-17 19:20:02 JST / 実行ID: 2026-09-17-192002</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [CRM](reports/2026-09-17/191635/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 22.45 | 70.00% | 5.26 | 19.38% | 有望 |
-| JP | [9104.T](reports/2026-09-17/191635/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 90 | 96 | 12.00 | 287.00% | 0.86 | 7.89% | 有望 |
-| US | [TXN](reports/2026-09-17/191635/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 39.42 | 218.00% | 13.13 | 35.18% | 有望 |
-| JP | [4502.T](reports/2026-09-17/191635/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 349.00% | 1.24 | -2.26% | 有望 |
-| JP | [6501.T](reports/2026-09-17/191635/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 30.98 | 104.00% | 3.74 | - | 有望 |
-| JP | [6098.T](reports/2026-09-17/191635/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 50.09 | 15.00% | 13.68 | 36.22% | 有望 |
-| US | [UBER](reports/2026-09-17/191635/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 65 | 88 | 15.62 | - | 5.32 | 37.16% | 有望 |
-| US | [SPOT](reports/2026-09-17/191635/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 28.96 | - | 11.18 | 44.48% | 有望 |
-| US | [PANW](reports/2026-09-17/191635/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 918.59 | - | 11.16 | 1.74% | 有望 |
-| JP | [9101.T](reports/2026-09-17/191635/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 50 | 90 | 72 | 14.98 | 325.00% | 0.98 | 7.70% | 監視 |
+| US | [NVDA](reports/2026-09-17/192002/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 80 | 93 | 27.78 | 47.00% | 23.18 | 117.21% | 有望 |
+| JP | [6367.T](reports/2026-09-17/192002/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 22.04 | 176.00% | 1.93 | 9.60% | 有望 |
+| JP | [2914.T](reports/2026-09-17/192002/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.59 | 402.00% | 2.79 | 14.30% | 有望 |
+| JP | [7974.T](reports/2026-09-17/192002/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 23.23 | 270.00% | 3.35 | - | 有望 |
+| US | [ZM](reports/2026-09-17/192002/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 8.58 | - | 2.72 | 32.14% | 有望 |
+| US | [AMAT](reports/2026-09-17/192002/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 35.99 | 51.00% | 12.92 | 41.07% | 有望 |
+| JP | [8035.T](reports/2026-09-17/192002/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 40.75 | 145.00% | 10.81 | 30.93% | 有望 |
+| US | [NFLX](reports/2026-09-17/192002/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 23.75 | - | 10.43 | 49.54% | 有望 |
+| US | [TWLO](reports/2026-09-17/192002/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 33.85 | - | 4.19 | 13.50% | 有望 |
+| JP | [6273.T](reports/2026-09-17/192002/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 25.21 | 147.00% | 1.94 | 9.85% | 有望 |
