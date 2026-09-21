@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-20 18:20:43 JST / 実行ID: 2026-09-20-182043</div>
+<div class="meta-line">最終更新: 2026-09-21 20:07:44 JST / 実行ID: 2026-09-21-200744</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7203.T | JP | Toyota Motor Corporation | 中位 | [詳細](./7203_T.md) |
-| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
-| SNOW | US | Snowflake Inc. | 中位 | [詳細](./SNOW.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |

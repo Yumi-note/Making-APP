@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-20 18:20:43 JST / 実行ID: 2026-09-20-182043</div>
+<div class="meta-line">最終更新: 2026-09-21 20:07:44 JST / 実行ID: 2026-09-21-200744</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-09-20/182043/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 8.61 | 331.00% | 0.96 | 12.40% | 有望 |
-| JP | [9984.T](reports/2026-09-20/182043/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 7.24 | 17.00% | 1.97 | 31.96% | 有望 |
-| US | [GOOGL](reports/2026-09-20/182043/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.55 | 25.00% | 6.87 | 48.68% | 有望 |
-| US | [CRM](reports/2026-09-20/182043/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.79 | 74.00% | 5.10 | 19.38% | 有望 |
-| JP | [8306.T](reports/2026-09-20/182043/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 15.31 | 265.00% | 1.79 | 9.46% | 有望 |
-| JP | [2914.T](reports/2026-09-20/182043/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.53 | 395.00% | 2.78 | 14.30% | 有望 |
-| JP | [6367.T](reports/2026-09-20/182043/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 22.08 | 174.00% | 1.93 | 9.60% | 有望 |
-| US | [ADBE](reports/2026-09-20/182043/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.89 | - | 8.36 | 61.90% | 有望 |
-| US | [TWLO](reports/2026-09-20/182043/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 33.68 | - | 4.17 | 13.50% | 有望 |
-| US | [SNOW](reports/2026-09-20/182043/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 54.51 | -48.06% | 有望 |
+| US | [QCOM](reports/2026-09-21/200744/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 22.22 | 207.00% | 7.42 | 33.75% | 有望 |
+| JP | [3382.T](reports/2026-09-21/200744/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.01 | 297.00% | 1.27 | 8.05% | 有望 |
+| US | [MSFT](reports/2026-09-21/200744/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.91 | 79.00% | 8.42 | 34.04% | 有望 |
+| JP | [6594.T](reports/2026-09-21/200744/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 80 | 93 | 27.25 | 192.00% | 1.86 | 6.31% | 有望 |
+| JP | [8766.T](reports/2026-09-21/200744/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 80 | 93 | 29.41 | 159.00% | 1.90 | - | 有望 |
+| JP | [6501.T](reports/2026-09-21/200744/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 31.25 | 101.00% | 3.77 | - | 有望 |
+| US | [PANW](reports/2026-09-21/200744/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 929.40 | - | 11.02 | 1.74% | 有望 |
+| US | [ABNB](reports/2026-09-21/200744/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 38.00 | - | 12.62 | 34.54% | 有望 |
+| US | [AMD](reports/2026-09-21/200744/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 157.02 | - | 14.94 | 10.20% | 有望 |
+| JP | [9101.T](reports/2026-09-21/200744/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 50 | 90 | 72 | 14.84 | 320.00% | 0.97 | 7.70% | 監視 |
