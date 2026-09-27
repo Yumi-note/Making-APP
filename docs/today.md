@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-27 19:16:55 JST / 実行ID: 2026-09-27-191655</div>
+<div class="meta-line">最終更新: 2026-09-27 19:19:31 JST / 実行ID: 2026-09-27-191931</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-09-27/191655/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 11.47 | 288.00% | 0.82 | 7.89% | 有望 |
-| JP | [8316.T](reports/2026-09-27/191655/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 15.50 | 130.00% | 1.63 | 8.57% | 有望 |
-| JP | [9432.T](reports/2026-09-27/191655/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 13.97 | 307.00% | 1.45 | 10.71% | 有望 |
-| JP | [4568.T](reports/2026-09-27/191655/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 80 | 93 | 20.88 | 341.00% | 3.13 | 14.81% | 有望 |
-| JP | [6367.T](reports/2026-09-27/191655/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 22.22 | 173.00% | 1.94 | 9.60% | 有望 |
-| US | [AVGO](reports/2026-09-27/191655/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 45.58 | 74.00% | 16.90 | 44.25% | 有望 |
-| US | [ZM](reports/2026-09-27/191655/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 8.33 | - | 2.64 | 32.14% | 有望 |
-| US | [SNAP](reports/2026-09-27/191655/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | - | 4.73 | -15.58% | 有望 |
-| US | [PANW](reports/2026-09-27/191655/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 914.00 | - | 11.11 | 1.74% | 有望 |
-| US | [ABNB](reports/2026-09-27/191655/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 35.95 | - | 11.91 | 34.54% | 有望 |
+| US | [GOOGL](reports/2026-09-27/191931/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.27 | 26.00% | 6.76 | 48.68% | 有望 |
+| JP | [6758.T](reports/2026-09-27/191931/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.92 | 94.00% | 2.60 | 13.16% | 有望 |
+| US | [ADBE](reports/2026-09-27/191931/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.14 | - | 7.83 | 61.90% | 有望 |
+| JP | [8035.T](reports/2026-09-27/191931/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 45.25 | 132.00% | 11.99 | 30.93% | 有望 |
+| JP | [4502.T](reports/2026-09-27/191931/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | - | 342.00% | 1.25 | -2.26% | 有望 |
+| US | [TWLO](reports/2026-09-27/191931/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 50 | 82 | 38.04 | - | 4.72 | 13.50% | 有望 |
+| US | [SNOW](reports/2026-09-27/191931/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 55.08 | -48.06% | 有望 |
+| US | [INTC](reports/2026-09-27/191931/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 7.09 | -10.71% | 有望 |
+| JP | [9101.T](reports/2026-09-27/191931/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 70 | 90 | 82 | 14.60 | 326.00% | 0.95 | 7.70% | 有望 |
+| JP | [6273.T](reports/2026-09-27/191931/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 70 | 80 | 78 | 26.39 | 144.00% | 2.03 | 9.85% | 有望 |
