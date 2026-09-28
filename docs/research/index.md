@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-09-28 21:23:15 JST / 実行ID: 2026-09-28-212315</div>
+<div class="meta-line">最終更新: 2026-09-28 21:27:02 JST / 実行ID: 2026-09-28-212702</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| 8766.T | JP | Tokio Marine Holdings, Inc. | 上位 | [詳細](./8766_T.md) |
-| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
-| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
+| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
+| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
+| 8411.T | JP | Mizuho Financial Group, Inc. | 上位 | [詳細](./8411_T.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
