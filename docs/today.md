@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-28 21:27:02 JST / 実行ID: 2026-09-28-212702</div>
+<div class="meta-line">最終更新: 2026-09-29 20:13:48 JST / 実行ID: 2026-09-29-201348</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-09-28/212702/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.26 | 102.00% | 2.36 | 24.50% | 有望 |
-| JP | [1605.T](reports/2026-09-28/212702/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 10.42 | 290.00% | 0.87 | 9.27% | 有望 |
-| JP | [6902.T](reports/2026-09-28/212702/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.81 | 385.00% | 0.94 | 9.20% | 有望 |
-| JP | [7751.T](reports/2026-09-28/212702/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.60 | 347.00% | 1.12 | 10.37% | 有望 |
-| US | [QCOM](reports/2026-09-28/212702/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 90 | 96 | 21.43 | 182.00% | 7.16 | 33.75% | 有望 |
-| US | [PEP](reports/2026-09-28/212702/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 16.84 | 460.00% | 7.94 | 51.51% | 有望 |
-| JP | [8411.T](reports/2026-09-28/212702/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.38 | 174.00% | 1.86 | 12.49% | 有望 |
-| US | [AMAT](reports/2026-09-28/212702/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 75 | 91 | 42.00 | 44.00% | 15.07 | 41.07% | 有望 |
-| US | [TSLA](reports/2026-09-28/212702/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 330.97 | - | 16.25 | 4.67% | 有望 |
-| JP | [9020.T](reports/2026-09-28/212702/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 10 | 90 | 52 | 15.77 | 243.00% | 1.27 | 7.95% | 見送り |
+| JP | [8316.T](reports/2026-09-29/201348/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 100 | 50 | 7.52 | 258.00% | 0.79 | 8.57% | 見送り |
+| JP | [9104.T](reports/2026-09-29/201348/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.49 | 288.00% | 0.80 | 7.89% | 見送り |
+| US | [DIS](reports/2026-09-29/201348/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 21.75 | 142.00% | 1.66 | 8.01% | 見送り |
+| JP | [6367.T](reports/2026-09-29/201348/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.27 | 172.00% | 1.93 | 9.60% | 見送り |
+| JP | [4543.T](reports/2026-09-29/201348/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 24.87 | 157.00% | 2.02 | 10.85% | 見送り |
+| US | [AAPL](reports/2026-09-29/201348/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 37.73 | 32.00% | 44.76 | 148.75% | 見送り |
+| US | [ZM](reports/2026-09-29/201348/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.20 | - | 2.60 | 32.14% | 見送り |
+| JP | [4307.T](reports/2026-09-29/201348/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 188.65 | 168.00% | 7.45 | 4.60% | 見送り |
+| US | [UBER](reports/2026-09-29/201348/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 65 | 38 | 15.22 | - | 5.18 | 37.16% | 見送り |
+| US | [ABNB](reports/2026-09-29/201348/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 35.75 | - | 11.87 | 34.54% | 見送り |
