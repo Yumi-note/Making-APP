@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-30 20:18:27 JST / 実行ID: 2026-09-30-201827</div>
+<div class="meta-line">最終更新: 2026-09-30 20:21:58 JST / 実行ID: 2026-09-30-202158</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-09-30/201827/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.26 | 26.00% | 6.76 | 48.68% | 有望 |
-| JP | [9433.T](reports/2026-09-30/201827/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 16.10 | 287.00% | 2.17 | 14.59% | 有望 |
-| JP | [6758.T](reports/2026-09-30/201827/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 20.00 | 94.00% | 2.64 | 13.16% | 有望 |
-| US | [META](reports/2026-09-30/201827/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 80 | 93 | 26.46 | 28.00% | 7.07 | 29.85% | 有望 |
-| US | [MSFT](reports/2026-09-30/201827/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 28.56 | 77.00% | 8.61 | 34.04% | 有望 |
-| JP | [2914.T](reports/2026-09-30/201827/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.79 | 395.00% | 2.82 | 14.30% | 有望 |
-| US | [ADBE](reports/2026-09-30/201827/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.40 | - | 7.97 | 61.90% | 有望 |
-| JP | [6098.T](reports/2026-09-30/201827/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 48.27 | 16.00% | 13.18 | 36.22% | 有望 |
-| US | [SPOT](reports/2026-09-30/201827/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 26.90 | - | 10.49 | 44.48% | 有望 |
-| JP | [6273.T](reports/2026-09-30/201827/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 80 | 80 | 83 | 27.33 | 142.00% | 2.10 | 9.85% | 有望 |
+| JP | [1605.T](reports/2026-09-30/202158/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.92 | 305.00% | 0.84 | 9.27% | 有望 |
+| JP | [8035.T](reports/2026-09-30/202158/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 100 | 100 | 9.45 | 397.00% | 2.51 | 30.93% | 有望 |
+| US | [CRM](reports/2026-09-30/202158/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.24 | 78.00% | 4.92 | 19.38% | 有望 |
+| US | [ORCL](reports/2026-09-30/202158/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 21.52 | 145.00% | 6.72 | 41.19% | 有望 |
+| JP | [8411.T](reports/2026-09-30/202158/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.11 | 177.00% | 1.87 | 12.49% | 有望 |
+| JP | [7974.T](reports/2026-09-30/202158/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 21.65 | 277.00% | 3.14 | - | 有望 |
+| JP | [7267.T](reports/2026-09-30/202158/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 419.00% | 0.53 | -0.76% | 有望 |
+| US | [SNOW](reports/2026-09-30/202158/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 55.67 | -48.06% | 有望 |
+| US | [INTC](reports/2026-09-30/202158/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 6.93 | -10.71% | 有望 |
+| US | [PLTR](reports/2026-09-30/202158/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 158.52 | - | 45.98 | 38.10% | 有望 |
