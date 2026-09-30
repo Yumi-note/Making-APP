@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-29 20:17:26 JST / 実行ID: 2026-09-29-201726</div>
+<div class="meta-line">最終更新: 2026-09-30 20:18:27 JST / 実行ID: 2026-09-30-201827</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-09-29/201726/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.50 | 335.00% | 0.91 | 12.40% | 見送り |
-| US | [IBM](reports/2026-09-29/201726/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 19.55 | 306.00% | 6.02 | 34.46% | 見送り |
-| JP | [8306.T](reports/2026-09-29/201726/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 15.18 | 258.00% | 1.78 | 9.46% | 見送り |
-| JP | [4568.T](reports/2026-09-29/201726/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 80 | 43 | 20.35 | 353.00% | 2.98 | 14.81% | 見送り |
-| JP | [4063.T](reports/2026-09-29/201726/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 22.78 | 200.00% | 2.35 | 11.23% | 見送り |
-| US | [AVGO](reports/2026-09-29/201726/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 45.24 | 74.00% | 17.01 | 44.25% | 見送り |
-| JP | [6594.T](reports/2026-09-29/201726/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 55 | 34 | 22.32 | - | 1.47 | 6.31% | 見送り |
-| US | [PANW](reports/2026-09-29/201726/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 995.92 | - | 11.51 | 1.74% | 見送り |
-| US | [SHOP](reports/2026-09-29/201726/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 98.84 | - | 15.07 | 15.54% | 見送り |
-| US | [AMD](reports/2026-09-29/201726/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 161.16 | - | 14.75 | 10.20% | 見送り |
+| US | [GOOGL](reports/2026-09-30/201827/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 17.26 | 26.00% | 6.76 | 48.68% | 有望 |
+| JP | [9433.T](reports/2026-09-30/201827/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 16.10 | 287.00% | 2.17 | 14.59% | 有望 |
+| JP | [6758.T](reports/2026-09-30/201827/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 20.00 | 94.00% | 2.64 | 13.16% | 有望 |
+| US | [META](reports/2026-09-30/201827/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 80 | 93 | 26.46 | 28.00% | 7.07 | 29.85% | 有望 |
+| US | [MSFT](reports/2026-09-30/201827/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 28.56 | 77.00% | 8.61 | 34.04% | 有望 |
+| JP | [2914.T](reports/2026-09-30/201827/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 80 | 93 | 20.79 | 395.00% | 2.82 | 14.30% | 有望 |
+| US | [ADBE](reports/2026-09-30/201827/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.40 | - | 7.97 | 61.90% | 有望 |
+| JP | [6098.T](reports/2026-09-30/201827/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 48.27 | 16.00% | 13.18 | 36.22% | 有望 |
+| US | [SPOT](reports/2026-09-30/201827/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 55 | 84 | 26.90 | - | 10.49 | 44.48% | 有望 |
+| JP | [6273.T](reports/2026-09-30/201827/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 80 | 80 | 83 | 27.33 | 142.00% | 2.10 | 9.85% | 有望 |
