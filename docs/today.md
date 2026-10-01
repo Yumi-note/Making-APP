@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-09-30 20:21:58 JST / 実行ID: 2026-09-30-202158</div>
+<div class="meta-line">最終更新: 2026-10-01 20:30:54 JST / 実行ID: 2026-10-01-203054</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-09-30/202158/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.92 | 305.00% | 0.84 | 9.27% | 有望 |
-| JP | [8035.T](reports/2026-09-30/202158/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 100 | 100 | 9.45 | 397.00% | 2.51 | 30.93% | 有望 |
-| US | [CRM](reports/2026-09-30/202158/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 21.24 | 78.00% | 4.92 | 19.38% | 有望 |
-| US | [ORCL](reports/2026-09-30/202158/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 21.52 | 145.00% | 6.72 | 41.19% | 有望 |
-| JP | [8411.T](reports/2026-09-30/202158/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 15.11 | 177.00% | 1.87 | 12.49% | 有望 |
-| JP | [7974.T](reports/2026-09-30/202158/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 21.65 | 277.00% | 3.14 | - | 有望 |
-| JP | [7267.T](reports/2026-09-30/202158/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 419.00% | 0.53 | -0.76% | 有望 |
-| US | [SNOW](reports/2026-09-30/202158/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | - | 55.67 | -48.06% | 有望 |
-| US | [INTC](reports/2026-09-30/202158/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | - | 6.93 | -10.71% | 有望 |
-| US | [PLTR](reports/2026-09-30/202158/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 158.52 | - | 45.98 | 38.10% | 有望 |
+| US | [PYPL](reports/2026-10-01/203054/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.28 | 107.00% | 2.31 | 24.50% | 見送り |
+| JP | [8316.T](reports/2026-10-01/203054/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 100 | 50 | 7.58 | 259.00% | 1.60 | 8.57% | 見送り |
+| JP | [7751.T](reports/2026-10-01/203054/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.82 | 347.00% | 1.14 | 10.37% | 見送り |
+| US | [PEP](reports/2026-10-01/203054/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.46 | 467.00% | 7.76 | 51.51% | 見送り |
+| US | [QCOM](reports/2026-10-01/203054/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 20.83 | 200.00% | 6.96 | 33.75% | 見送り |
+| JP | [3382.T](reports/2026-10-01/203054/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.86 | 299.00% | 1.25 | 8.05% | 見送り |
+| JP | [4543.T](reports/2026-10-01/203054/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 24.94 | 157.00% | 2.09 | 10.85% | 見送り |
+| JP | [4307.T](reports/2026-10-01/203054/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 185.18 | 170.00% | 7.51 | 4.60% | 見送り |
+| US | [TWLO](reports/2026-10-01/203054/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 41.38 | - | 5.15 | 13.50% | 見送り |
+| US | [TSLA](reports/2026-10-01/203054/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 334.07 | - | 16.10 | 4.67% | 見送り |
