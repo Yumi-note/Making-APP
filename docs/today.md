@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-01 20:30:54 JST / 実行ID: 2026-10-01-203054</div>
+<div class="meta-line">最終更新: 2026-10-01 20:34:40 JST / 実行ID: 2026-10-01-203440</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-01/203054/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.28 | 107.00% | 2.31 | 24.50% | 見送り |
-| JP | [8316.T](reports/2026-10-01/203054/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 100 | 50 | 7.58 | 259.00% | 1.60 | 8.57% | 見送り |
-| JP | [7751.T](reports/2026-10-01/203054/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.82 | 347.00% | 1.14 | 10.37% | 見送り |
-| US | [PEP](reports/2026-10-01/203054/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.46 | 467.00% | 7.76 | 51.51% | 見送り |
-| US | [QCOM](reports/2026-10-01/203054/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 20.83 | 200.00% | 6.96 | 33.75% | 見送り |
-| JP | [3382.T](reports/2026-10-01/203054/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.86 | 299.00% | 1.25 | 8.05% | 見送り |
-| JP | [4543.T](reports/2026-10-01/203054/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 24.94 | 157.00% | 2.09 | 10.85% | 見送り |
-| JP | [4307.T](reports/2026-10-01/203054/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 185.18 | 170.00% | 7.51 | 4.60% | 見送り |
-| US | [TWLO](reports/2026-10-01/203054/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 41.38 | - | 5.15 | 13.50% | 見送り |
-| US | [TSLA](reports/2026-10-01/203054/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 334.07 | - | 16.10 | 4.67% | 見送り |
+| JP | [6902.T](reports/2026-10-01/203440/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.35 | 400.00% | 0.90 | 9.20% | 見送り |
+| JP | [9020.T](reports/2026-10-01/203440/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 0 | 90 | 46 | 15.27 | 251.00% | 1.23 | 7.95% | 見送り |
+| JP | [8306.T](reports/2026-10-01/203440/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 15.17 | 259.00% | 1.78 | 9.46% | 見送り |
+| US | [NVDA](reports/2026-10-01/203440/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 29.22 | 44.00% | 24.34 | 117.21% | 見送り |
+| US | [AMAT](reports/2026-10-01/203440/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 45.59 | 41.00% | 16.39 | 41.07% | 見送り |
+| US | [ZM](reports/2026-10-01/203440/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.71 | - | 2.76 | 32.14% | 見送り |
+| US | [UBER](reports/2026-10-01/203440/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.89 | - | 5.07 | 37.16% | 見送り |
+| JP | [4502.T](reports/2026-10-01/203440/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 353.00% | 1.20 | -2.26% | 見送り |
+| US | [AMZN](reports/2026-10-01/203440/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 19.97 | - | 4.85 | 30.56% | 見送り |
+| JP | [6594.T](reports/2026-10-01/203440/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | inf | - | 1.37 | 6.31% | 見送り |
