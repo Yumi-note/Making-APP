@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-02 20:08:05 JST / 実行ID: 2026-10-02-200805</div>
+<div class="meta-line">最終更新: 2026-10-02 20:10:38 JST / 実行ID: 2026-10-02-201038</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-10-02/200805/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.51 | 291.00% | 0.82 | 7.89% | 見送り |
-| JP | [8766.T](reports/2026-10-02/200805/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 100 | 50 | 1.82 | 2508.00% | 0.12 | - | 見送り |
-| JP | [9432.T](reports/2026-10-02/200805/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.48 | 317.00% | 1.40 | 10.71% | 見送り |
-| US | [MSFT](reports/2026-10-02/200805/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 28.83 | 76.00% | 8.69 | 34.04% | 見送り |
-| US | [CSCO](reports/2026-10-02/200805/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 33.69 | 154.00% | 8.80 | 27.32% | 見送り |
-| JP | [2914.T](reports/2026-10-02/200805/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 20.33 | 397.00% | 2.76 | 14.30% | 見送り |
-| US | [AVGO](reports/2026-10-02/200805/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 45.24 | 76.00% | 17.01 | 44.25% | 見送り |
-| JP | [6501.T](reports/2026-10-02/200805/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 31.22 | 102.00% | 3.77 | - | 見送り |
-| US | [SNAP](reports/2026-10-02/200805/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | - | 4.87 | -15.58% | 見送り |
-| US | [SHOP](reports/2026-10-02/200805/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 102.29 | - | 15.39 | 15.54% | 見送り |
+| US | [MU](reports/2026-10-02/201038/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 14.47 | 5.00% | 12.05 | 88.26% | 見送り |
+| JP | [9984.T](reports/2026-10-02/201038/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 7.68 | 16.00% | 1.97 | 31.96% | 見送り |
+| US | [DIS](reports/2026-10-02/201038/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 21.07 | 148.00% | 1.61 | 8.01% | 見送り |
+| US | [ORCL](reports/2026-10-02/201038/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 22.34 | 145.00% | 6.97 | 41.19% | 見送り |
+| US | [CRM](reports/2026-10-02/201038/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 21.08 | 74.00% | 5.03 | 19.38% | 見送り |
+| JP | [4063.T](reports/2026-10-02/201038/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.87 | 192.00% | 2.46 | 11.23% | 見送り |
+| JP | [7974.T](reports/2026-10-02/201038/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.79 | 276.00% | 3.10 | - | 見送り |
+| JP | [6273.T](reports/2026-10-02/201038/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 27.79 | 136.00% | 2.14 | 9.85% | 見送り |
+| JP | [7267.T](reports/2026-10-02/201038/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 413.00% | 0.52 | -0.76% | 見送り |
+| US | [SNOW](reports/2026-10-02/201038/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | - | 55.91 | -48.06% | 見送り |
