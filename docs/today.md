@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-03 18:50:12 JST / 実行ID: 2026-10-03-185012</div>
+<div class="meta-line">最終更新: 2026-10-04 18:48:09 JST / 実行ID: 2026-10-04-184809</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7751.T](reports/2026-10-03/185012/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.64 | 347.00% | 1.12 | 10.37% | 見送り |
-| JP | [9101.T](reports/2026-10-03/185012/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 14.14 | 336.00% | 0.93 | 7.70% | 見送り |
-| JP | [4543.T](reports/2026-10-03/185012/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 24.33 | 160.00% | 1.99 | 10.85% | 見送り |
-| JP | [6367.T](reports/2026-10-03/185012/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 21.93 | 175.00% | 1.91 | 9.60% | 見送り |
-| JP | [6758.T](reports/2026-10-03/185012/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 20.12 | 93.00% | 2.63 | 13.16% | 見送り |
-| US | [AAPL](reports/2026-10-03/185012/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 38.31 | 32.00% | 45.34 | 148.75% | 見送り |
-| US | [SPOT](reports/2026-10-03/185012/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 26.24 | - | 10.18 | 44.48% | 見送り |
-| US | [ABNB](reports/2026-10-03/185012/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.00 | - | 12.29 | 34.54% | 見送り |
-| US | [INTC](reports/2026-10-03/185012/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 0 | 50 | 32 | - | - | 6.87 | -10.71% | 見送り |
-| US | [TSLA](reports/2026-10-03/185012/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 346.35 | - | 16.85 | 4.67% | 見送り |
+| JP | [7203.T](reports/2026-10-04/184809/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.13 | 350.00% | 0.91 | 12.40% | 見送り |
+| JP | [1605.T](reports/2026-10-04/184809/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 9.98 | 303.00% | 0.84 | 9.27% | 見送り |
+| US | [QCOM](reports/2026-10-04/184809/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 21.15 | 199.00% | 7.07 | 33.75% | 見送り |
+| US | [GOOGL](reports/2026-10-04/184809/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 17.24 | 26.00% | 6.75 | 48.68% | 見送り |
+| JP | [8316.T](reports/2026-10-04/184809/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 90 | 46 | 14.88 | 271.00% | 0.78 | 8.57% | 見送り |
+| US | [NVDA](reports/2026-10-04/184809/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 29.58 | 43.00% | 24.67 | 117.21% | 見送り |
+| US | [ADBE](reports/2026-10-04/184809/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.26 | - | 7.90 | 61.90% | 見送り |
+| JP | [4307.T](reports/2026-10-04/184809/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 192.31 | 166.00% | 7.61 | 4.60% | 見送り |
+| US | [NFLX](reports/2026-10-04/184809/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 0 | 65 | 38 | 21.09 | - | 9.26 | 49.54% | 見送り |
+| JP | [6594.T](reports/2026-10-04/184809/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | inf | - | 3.06 | -49.66% | 見送り |
