@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-04 18:51:24 JST / 実行ID: 2026-10-04-185124</div>
+<div class="meta-line">最終更新: 2026-10-05 22:11:45 JST / 実行ID: 2026-10-05-221145</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-04/185124/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.04 | 106.00% | 2.30 | 24.50% | 見送り |
-| JP | [6902.T](reports/2026-10-04/185124/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.10 | 409.00% | 0.89 | 9.20% | 見送り |
-| JP | [8035.T](reports/2026-10-04/185124/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 100 | 50 | 9.67 | 378.00% | 2.57 | 30.93% | 見送り |
-| JP | [9104.T](reports/2026-10-04/185124/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.52 | 287.00% | 0.82 | 7.89% | 見送り |
-| JP | [3382.T](reports/2026-10-04/185124/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.64 | 303.00% | 1.24 | 8.05% | 見送り |
-| US | [UBER](reports/2026-10-04/185124/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.94 | - | 5.09 | 37.16% | 見送り |
-| US | [TXN](reports/2026-10-04/185124/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 44.65 | 207.00% | 14.90 | 35.18% | 見送り |
-| US | [AMAT](reports/2026-10-04/185124/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 46.52 | 39.00% | 16.72 | 41.07% | 見送り |
-| JP | [4502.T](reports/2026-10-04/185124/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 362.00% | 1.18 | -2.26% | 見送り |
-| US | [AMZN](reports/2026-10-04/185124/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 20.23 | - | 4.92 | 30.56% | 見送り |
+| US | [MU](reports/2026-10-05/221145/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 14.31 | 6.00% | 11.93 | 88.26% | 見送り |
+| JP | [8766.T](reports/2026-10-05/221145/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 100 | 50 | 1.83 | 2562.00% | 1.77 | - | 見送り |
+| US | [PEP](reports/2026-10-05/221145/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.47 | 470.00% | 7.77 | 51.51% | 見送り |
+| JP | [8306.T](reports/2026-10-05/221145/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 15.29 | 271.00% | 1.79 | 9.46% | 見送り |
+| JP | [9432.T](reports/2026-10-05/221145/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.56 | 318.00% | 1.40 | 10.71% | 見送り |
+| US | [CSCO](reports/2026-10-05/221145/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 33.88 | 150.00% | 8.85 | 27.32% | 見送り |
+| JP | [6273.T](reports/2026-10-05/221145/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 27.91 | 136.00% | 2.19 | 9.85% | 見送り |
+| JP | [7267.T](reports/2026-10-05/221145/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 421.00% | 0.53 | -0.76% | 見送り |
+| US | [PANW](reports/2026-10-05/221145/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 1016.90 | 0.00% | 12.06 | 1.74% | 見送り |
+| US | [TWLO](reports/2026-10-05/221145/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 41.62 | 0.00% | 5.15 | 13.50% | 見送り |
