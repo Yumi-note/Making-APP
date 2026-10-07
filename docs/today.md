@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-07 20:47:10 JST / 実行ID: 2026-10-07-204710</div>
+<div class="meta-line">最終更新: 2026-10-07 20:52:31 JST / 実行ID: 2026-10-07-205231</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-10-07/204710/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 9.99 | 303.00% | 0.83 | 9.27% | 見送り |
-| JP | [6902.T](reports/2026-10-07/204710/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.50 | 399.00% | 0.90 | 9.20% | 見送り |
-| JP | [8035.T](reports/2026-10-07/204710/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 100 | 50 | 10.24 | 357.00% | 2.65 | 30.93% | 見送り |
-| JP | [7203.T](reports/2026-10-07/204710/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.25 | 341.00% | 0.92 | 12.40% | 見送り |
-| US | [ORCL](reports/2026-10-07/204710/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 22.50 | 138.00% | 7.02 | 41.19% | 見送り |
-| JP | [6367.T](reports/2026-10-07/204710/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.24 | 172.00% | 1.96 | 9.60% | 見送り |
-| US | [UBER](reports/2026-10-07/204710/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 65 | 38 | 15.01 | 0.00% | 5.11 | 37.16% | 見送り |
-| US | [AMZN](reports/2026-10-07/204710/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 20.91 | 0.00% | 5.08 | 30.56% | 見送り |
-| US | [SHOP](reports/2026-10-07/204710/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 112.18 | 0.00% | 16.87 | 15.54% | 見送り |
-| US | [SNAP](reports/2026-10-07/204710/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.07 | -15.58% | 見送り |
+| US | [GOOGL](reports/2026-10-07/205231/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 17.59 | 25.00% | 6.89 | 48.68% | 見送り |
+| US | [CRM](reports/2026-10-07/205231/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 20.55 | 78.00% | 4.82 | 19.38% | 見送り |
+| JP | [9101.T](reports/2026-10-07/205231/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 14.40 | 336.00% | 0.92 | 7.70% | 見送り |
+| JP | [7974.T](reports/2026-10-07/205231/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.46 | 280.00% | 3.07 | - | 見送り |
+| JP | [2914.T](reports/2026-10-07/205231/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 20.66 | 392.00% | 2.82 | 14.30% | 見送り |
+| JP | [6758.T](reports/2026-10-07/205231/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 20.23 | 93.00% | 2.63 | 13.16% | 見送り |
+| US | [TXN](reports/2026-10-07/205231/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 43.98 | 205.00% | 14.65 | 35.18% | 見送り |
+| US | [ADBE](reports/2026-10-07/205231/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.00 | 0.00% | 7.74 | 61.90% | 見送り |
+| US | [ZM](reports/2026-10-07/205231/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.79 | 0.00% | 2.79 | 32.14% | 見送り |
+| JP | [6098.T](reports/2026-10-07/205231/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 48.91 | 15.00% | 13.34 | 36.22% | 見送り |
