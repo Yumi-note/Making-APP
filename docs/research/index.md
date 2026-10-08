@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-07 20:52:31 JST / 実行ID: 2026-10-07-205231</div>
+<div class="meta-line">最終更新: 2026-10-08 20:49:28 JST / 実行ID: 2026-10-08-204928</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
-| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 9984.T | JP | SoftBank Group Corp. | 上位 | [詳細](./9984_T.md) |
+| PEP | US | PepsiCo, Inc. | 中位 | [詳細](./PEP.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 上位 | [詳細](./CSCO.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |

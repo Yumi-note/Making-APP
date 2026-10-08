@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-07 20:52:31 JST / 実行ID: 2026-10-07-205231</div>
+<div class="meta-line">最終更新: 2026-10-08 20:49:28 JST / 実行ID: 2026-10-08-204928</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-10-07/205231/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 17.59 | 25.00% | 6.89 | 48.68% | 見送り |
-| US | [CRM](reports/2026-10-07/205231/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 20.55 | 78.00% | 4.82 | 19.38% | 見送り |
-| JP | [9101.T](reports/2026-10-07/205231/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 14.40 | 336.00% | 0.92 | 7.70% | 見送り |
-| JP | [7974.T](reports/2026-10-07/205231/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.46 | 280.00% | 3.07 | - | 見送り |
-| JP | [2914.T](reports/2026-10-07/205231/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 20.66 | 392.00% | 2.82 | 14.30% | 見送り |
-| JP | [6758.T](reports/2026-10-07/205231/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 20.23 | 93.00% | 2.63 | 13.16% | 見送り |
-| US | [TXN](reports/2026-10-07/205231/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 43.98 | 205.00% | 14.65 | 35.18% | 見送り |
-| US | [ADBE](reports/2026-10-07/205231/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.00 | 0.00% | 7.74 | 61.90% | 見送り |
-| US | [ZM](reports/2026-10-07/205231/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.79 | 0.00% | 2.79 | 32.14% | 見送り |
-| JP | [6098.T](reports/2026-10-07/205231/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 48.91 | 15.00% | 13.34 | 36.22% | 見送り |
+| JP | [9104.T](reports/2026-10-08/204928/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.41 | 305.00% | 0.82 | 7.89% | 見送り |
+| JP | [9984.T](reports/2026-10-08/204928/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 7.23 | 17.00% | 1.89 | 31.96% | 見送り |
+| US | [PEP](reports/2026-10-08/204928/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.82 | 478.00% | 7.93 | 51.51% | 見送り |
+| JP | [3382.T](reports/2026-10-08/204928/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.56 | 305.00% | 1.25 | 8.05% | 見送り |
+| JP | [9433.T](reports/2026-10-08/204928/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 15.83 | 292.00% | 2.16 | 14.59% | 見送り |
+| US | [CSCO](reports/2026-10-08/204928/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 34.50 | 143.00% | 9.02 | 27.32% | 見送り |
+| JP | [4502.T](reports/2026-10-08/204928/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 354.00% | 1.22 | -2.26% | 見送り |
+| US | [SPOT](reports/2026-10-08/204928/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 30.25 | 0.00% | 11.33 | 44.48% | 見送り |
+| US | [TWLO](reports/2026-10-08/204928/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 38.14 | 0.00% | 4.72 | 13.50% | 見送り |
+| US | [PANW](reports/2026-10-08/204928/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 996.25 | 0.00% | 11.81 | 1.74% | 見送り |
