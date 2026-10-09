@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-08 20:52:35 JST / 実行ID: 2026-10-08-205235</div>
+<div class="meta-line">最終更新: 2026-10-09 20:19:55 JST / 実行ID: 2026-10-09-201955</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-08/205235/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.40 | 102.00% | 2.39 | 24.50% | 見送り |
-| JP | [7751.T](reports/2026-10-08/205235/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.72 | 346.00% | 1.13 | 10.37% | 見送り |
-| JP | [8316.T](reports/2026-10-08/205235/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 90 | 46 | 14.78 | 267.00% | 1.56 | 8.57% | 見送り |
-| JP | [8306.T](reports/2026-10-08/205235/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 15.02 | 265.00% | 1.74 | 9.46% | 見送り |
-| JP | [8411.T](reports/2026-10-08/205235/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 15.42 | 174.00% | 1.77 | 12.49% | 見送り |
-| US | [META](reports/2026-10-08/205235/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 27.16 | 29.00% | 7.03 | 29.85% | 見送り |
-| JP | [6273.T](reports/2026-10-08/205235/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 28.07 | 135.00% | 2.09 | 9.85% | 見送り |
-| US | [AMAT](reports/2026-10-08/205235/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 43.97 | 41.00% | 15.78 | 41.07% | 見送り |
-| US | [NFLX](reports/2026-10-08/205235/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 0 | 65 | 38 | 22.51 | 0.00% | 9.88 | 49.54% | 見送り |
-| US | [ABNB](reports/2026-10-08/205235/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.18 | 0.00% | 12.35 | 34.54% | 見送り |
+| US | [MU](reports/2026-10-09/201955/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 13.84 | 6.00% | 11.53 | 88.26% | 見送り |
+| JP | [8766.T](reports/2026-10-09/201955/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 100 | 50 | 1.88 | 2509.00% | 1.83 | - | 見送り |
+| JP | [7203.T](reports/2026-10-09/201955/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.26 | 345.00% | 0.92 | 12.40% | 見送り |
+| JP | [9432.T](reports/2026-10-09/201955/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.54 | 314.00% | 1.43 | 10.71% | 見送り |
+| JP | [4063.T](reports/2026-10-09/201955/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 24.10 | 186.00% | 2.48 | 11.23% | 見送り |
+| US | [AVGO](reports/2026-10-09/201955/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 46.17 | 72.00% | 17.31 | 44.25% | 見送り |
+| JP | [6501.T](reports/2026-10-09/201955/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 32.05 | 100.00% | 3.87 | - | 見送り |
+| US | [UBER](reports/2026-10-09/201955/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 65 | 38 | 15.68 | 0.00% | 5.34 | 37.16% | 見送り |
+| US | [TSLA](reports/2026-10-09/201955/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 354.35 | 0.00% | 17.40 | 4.67% | 見送り |
+| US | [AMD](reports/2026-10-09/201955/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 155.13 | 0.00% | 14.76 | 10.20% | 見送り |
