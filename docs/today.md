@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-09 20:22:50 JST / 実行ID: 2026-10-09-202250</div>
+<div class="meta-line">最終更新: 2026-10-10 19:31:46 JST / 実行ID: 2026-10-10-193146</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-10-09/202250/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 17.64 | 25.00% | 6.91 | 48.68% | 見送り |
-| JP | [4568.T](reports/2026-10-09/202250/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 90 | 46 | 19.86 | 377.00% | 2.80 | 14.81% | 見送り |
-| JP | [7974.T](reports/2026-10-09/202250/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 90 | 46 | 19.17 | 279.00% | 3.22 | - | 見送り |
-| JP | [6758.T](reports/2026-10-09/202250/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 90 | 46 | 19.89 | 94.00% | 2.68 | 13.16% | 見送り |
-| US | [NVDA](reports/2026-10-09/202250/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 28.99 | 43.00% | 24.18 | 117.21% | 見送り |
-| US | [TXN](reports/2026-10-09/202250/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 43.19 | 211.00% | 14.39 | 35.18% | 見送り |
-| JP | [8035.T](reports/2026-10-09/202250/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 45.00 | 375.00% | 2.64 | 30.93% | 見送り |
-| JP | [7267.T](reports/2026-10-09/202250/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 409.00% | 0.54 | -0.76% | 見送り |
-| US | [SNAP](reports/2026-10-09/202250/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.44 | -15.58% | 見送り |
-| US | [PLTR](reports/2026-10-09/202250/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 0 | 50 | 32 | 180.22 | 0.00% | 51.39 | 38.10% | 見送り |
+| US | [IBM](reports/2026-10-10/193146/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 20.19 | 298.00% | 6.21 | 34.46% | 見送り |
+| JP | [3382.T](reports/2026-10-10/193146/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 15.90 | 302.00% | 1.22 | 8.05% | 見送り |
+| US | [MSFT](reports/2026-10-10/193146/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 29.81 | 75.00% | 8.98 | 34.04% | 見送り |
+| JP | [4543.T](reports/2026-10-10/193146/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 20.49 | 156.00% | 2.03 | 10.85% | 見送り |
+| US | [CSCO](reports/2026-10-10/193146/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 75 | 41 | 35.55 | 146.00% | 9.29 | 27.32% | 見送り |
+| US | [AAPL](reports/2026-10-10/193146/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 38.61 | 32.00% | 45.74 | 148.75% | 見送り |
+| JP | [4502.T](reports/2026-10-10/193146/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 354.00% | 1.22 | -2.26% | 見送り |
+| JP | [6098.T](reports/2026-10-10/193146/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 43.42 | 15.00% | 13.93 | 36.22% | 見送り |
+| US | [SHOP](reports/2026-10-10/193146/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 115.44 | 0.00% | 17.36 | 15.54% | 見送り |
+| JP | [6594.T](reports/2026-10-10/193146/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.90 | -49.66% | 見送り |

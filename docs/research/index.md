@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-09 20:22:50 JST / 実行ID: 2026-10-09-202250</div>
+<div class="meta-line">最終更新: 2026-10-10 19:31:46 JST / 実行ID: 2026-10-10-193146</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
-| 8035.T | JP | Tokyo Electron Limited | 上位 | [詳細](./8035_T.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
