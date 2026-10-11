@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-10 19:35:56 JST / 実行ID: 2026-10-10-193556</div>
+<div class="meta-line">最終更新: 2026-10-11 19:43:35 JST / 実行ID: 2026-10-11-194335</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-10-10/193556/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.28 | 344.00% | 0.92 | 12.40% | 見送り |
-| JP | [9104.T](reports/2026-10-10/193556/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.34 | 294.00% | 0.84 | 7.89% | 見送り |
-| US | [PEP](reports/2026-10-10/193556/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 15.85 | 470.00% | 7.79 | 52.19% | 見送り |
-| JP | [8306.T](reports/2026-10-10/193556/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.64 | 277.00% | 1.72 | 9.46% | 見送り |
-| JP | [9432.T](reports/2026-10-10/193556/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.54 | 312.00% | 1.43 | 10.71% | 見送り |
-| JP | [2914.T](reports/2026-10-10/193556/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.01 | 376.00% | 2.92 | 14.30% | 見送り |
-| US | [AVGO](reports/2026-10-10/193556/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 46.17 | 72.00% | 17.31 | 44.25% | 見送り |
-| US | [ADBE](reports/2026-10-10/193556/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.53 | 0.00% | 8.05 | 61.90% | 見送り |
-| US | [SPOT](reports/2026-10-10/193556/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 30.41 | 0.00% | 11.39 | 44.48% | 見送り |
-| US | [ABNB](reports/2026-10-10/193556/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.78 | 0.00% | 12.55 | 34.54% | 見送り |
+| US | [PYPL](reports/2026-10-11/194335/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.40 | 101.00% | 2.42 | 24.50% | 見送り |
+| JP | [7751.T](reports/2026-10-11/194335/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.72 | 340.00% | 1.15 | 10.37% | 見送り |
+| US | [DIS](reports/2026-10-11/194335/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 22.28 | 139.00% | 1.70 | 8.01% | 見送り |
+| JP | [8411.T](reports/2026-10-11/194335/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.65 | 183.00% | 1.74 | 12.49% | 見送り |
+| US | [META](reports/2026-10-11/194335/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 27.08 | 29.00% | 7.01 | 29.85% | 見送り |
+| US | [NVDA](reports/2026-10-11/194335/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 28.99 | 44.00% | 24.18 | 117.21% | 見送り |
+| JP | [6758.T](reports/2026-10-11/194335/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 20.47 | 92.00% | 2.68 | 13.16% | 見送り |
+| JP | [8035.T](reports/2026-10-11/194335/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 45.94 | 367.00% | 2.64 | 30.93% | 見送り |
+| JP | [6501.T](reports/2026-10-11/194335/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 32.05 | 99.00% | 3.87 | - | 見送り |
+| US | [SNOW](reports/2026-10-11/194335/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 60.48 | -48.06% | 見送り |
