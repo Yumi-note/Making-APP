@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-12 22:38:24 JST / 実行ID: 2026-10-12-223824</div>
+<div class="meta-line">最終更新: 2026-10-13 20:49:43 JST / 実行ID: 2026-10-13-204943</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [MU](reports/2026-10-12/223824/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 13.31 | 6.00% | 11.09 | 88.26% | 見送り |
-| JP | [9104.T](reports/2026-10-12/223824/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.34 | 294.00% | 0.84 | 7.89% | 見送り |
-| JP | [6902.T](reports/2026-10-12/223824/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.66 | 405.00% | 0.90 | 9.20% | 見送り |
-| US | [CRM](reports/2026-10-12/223824/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 21.40 | 77.00% | 5.02 | 19.38% | 見送り |
-| JP | [8306.T](reports/2026-10-12/223824/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.64 | 277.00% | 1.72 | 9.46% | 見送り |
-| JP | [9101.T](reports/2026-10-12/223824/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.71 | 326.00% | 0.95 | 7.70% | 見送り |
-| US | [CSCO](reports/2026-10-12/223824/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 34.64 | 142.00% | 9.05 | 27.32% | 見送り |
-| JP | [8766.T](reports/2026-10-12/223824/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 45.36 | 2473.00% | 1.83 | - | 見送り |
-| US | [UBER](reports/2026-10-12/223824/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 65 | 38 | 15.68 | 0.00% | 5.34 | 37.16% | 見送り |
-| US | [TSLA](reports/2026-10-12/223824/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 350.03 | 0.00% | 17.19 | 4.67% | 見送り |
+| JP | [7203.T](reports/2026-10-13/204943/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.28 | 344.00% | 0.95 | 12.40% | 見送り |
+| US | [PEP](reports/2026-10-13/204943/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.01 | 467.00% | 7.79 | 52.19% | 見送り |
+| US | [META](reports/2026-10-13/204943/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 28.73 | 28.00% | 7.44 | 29.85% | 見送り |
+| JP | [4543.T](reports/2026-10-13/204943/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 20.89 | 158.00% | 2.07 | 10.85% | 見送り |
+| JP | [6367.T](reports/2026-10-13/204943/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.49 | 170.00% | 2.00 | 9.60% | 見送り |
+| US | [AMAT](reports/2026-10-13/204943/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 40.06 | 43.00% | 14.38 | 41.07% | 見送り |
+| JP | [7267.T](reports/2026-10-13/204943/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 405.00% | 0.55 | -0.76% | 見送り |
+| JP | [6098.T](reports/2026-10-13/204943/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 44.07 | 15.00% | 14.14 | 36.22% | 見送り |
+| US | [SNOW](reports/2026-10-13/204943/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 58.66 | -48.06% | 見送り |
+| US | [ABNB](reports/2026-10-13/204943/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.72 | 0.00% | 12.53 | 34.54% | 見送り |
