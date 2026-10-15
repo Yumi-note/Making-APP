@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-15 19:23:07 JST / 実行ID: 2026-10-15-192307</div>
+<div class="meta-line">最終更新: 2026-10-15 19:27:42 JST / 実行ID: 2026-10-15-192742</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-10-15/192307/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 9.83 | 299.00% | 0.83 | 9.27% | 見送り |
-| JP | [6902.T](reports/2026-10-15/192307/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.78 | 401.00% | 0.90 | 9.20% | 見送り |
-| US | [GOOGL](reports/2026-10-15/192307/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 17.84 | 25.00% | 6.86 | 48.68% | 見送り |
-| US | [CRM](reports/2026-10-15/192307/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 22.68 | 74.00% | 5.27 | 19.38% | 見送り |
-| JP | [9101.T](reports/2026-10-15/192307/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.58 | 319.00% | 0.94 | 7.70% | 見送り |
-| US | [CSCO](reports/2026-10-15/192307/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 33.41 | 146.00% | 8.63 | 27.32% | 見送り |
-| JP | [4063.T](reports/2026-10-15/192307/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.62 | 188.00% | 2.43 | 11.23% | 見送り |
-| US | [TXN](reports/2026-10-15/192307/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 43.66 | 211.00% | 14.19 | 35.18% | 見送り |
-| JP | [4502.T](reports/2026-10-15/192307/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 346.00% | 1.29 | -2.26% | 見送り |
-| US | [TSLA](reports/2026-10-15/192307/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 342.99 | 0.00% | 16.53 | 4.67% | 見送り |
+| US | [DIS](reports/2026-10-15/192742/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 22.80 | 138.00% | 1.75 | 8.01% | 見送り |
+| US | [QCOM](reports/2026-10-15/192742/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 21.19 | 208.00% | 6.83 | 33.75% | 見送り |
+| US | [ORCL](reports/2026-10-15/192742/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 23.11 | 140.00% | 6.58 | 41.19% | 見送り |
+| JP | [9020.T](reports/2026-10-15/192742/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 0 | 90 | 46 | 17.16 | 247.00% | 1.26 | 7.95% | 見送り |
+| JP | [9433.T](reports/2026-10-15/192742/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 15.79 | 294.00% | 2.15 | 14.59% | 見送り |
+| JP | [4568.T](reports/2026-10-15/192742/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 80 | 43 | 20.07 | 384.00% | 2.83 | 14.81% | 見送り |
+| JP | [6367.T](reports/2026-10-15/192742/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.92 | 167.00% | 1.98 | 9.60% | 見送り |
+| US | [AMAT](reports/2026-10-15/192742/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 38.96 | 46.00% | 13.45 | 41.07% | 見送り |
+| JP | [7267.T](reports/2026-10-15/192742/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 394.00% | 0.56 | -0.76% | 見送り |
+| US | [SNOW](reports/2026-10-15/192742/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 55.01 | -48.06% | 見送り |

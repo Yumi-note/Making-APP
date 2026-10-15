@@ -1,12 +1,12 @@
-# CRM 企業研究
+# SNOW 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-10-15 19:23:07 JST / 実行ID: 2026-10-15-192307</div>
+<div class="meta-line">最終更新: 2026-10-15 19:27:42 JST / 実行ID: 2026-10-15-192742</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: CRM**
+- 現在地: **企業研究: SNOW**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Salesforce, Inc.
+- 企業名: Snowflake Inc.
 - 市場: US
 - 国: United States
 - セクター: Technology
 - 業種: Software - Application
-- 時価総額: 202.29B
-- 公式サイト: https://www.salesforce.com
+- 時価総額: 118.36B
+- 公式サイト: https://www.snowflake.com
 
 ## この企業は何をしているか
 
-Salesforce, Inc.（CRM）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は202.29B、従業員規模は約83,334名です。
+Snowflake Inc.（SNOW）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Applicationに属し、時価総額は118.36B、従業員規模は約9,394名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -50,12 +50,12 @@ Salesforce, Inc.（CRM）はUnited Statesを主な事業基盤とするTechnolog
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター内順位: 3/3 下位ゾーン [■□□□□]
+同セクター内順位: 4/4 下位ゾーン [■□□□□]
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 22.68 は中立。配当利回り 74.00% は高水準。
+- PER基準(US): 15以下が割安目安。PERデータなし。配当利回り 0.00% は低め。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Salesforce, Inc.（CRM）はUnited Statesを主な事業基盤とするTechnolog
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-10-15/192307/CRM.md)
-- News Score: 0 / Value Score: 90 / 総合: 46
+- [当日の銘柄レポート](../reports/2026-10-15/192742/SNOW.md)
+- News Score: 0 / Value Score: 50 / 総合: 32
