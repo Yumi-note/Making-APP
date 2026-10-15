@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-14 19:46:52 JST / 実行ID: 2026-10-14-194652</div>
+<div class="meta-line">最終更新: 2026-10-15 19:23:07 JST / 実行ID: 2026-10-15-192307</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
-| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| 6758.T | JP | Sony Group Corporation | 中位 | [詳細](./6758_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
-| 8035.T | JP | Tokyo Electron Limited | 下位 | [詳細](./8035_T.md) |
-| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
-| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 6902.T | JP | DENSO Corporation | 中位 | [詳細](./6902_T.md) |
+| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
+| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 上位 | [詳細](./4063_T.md) |
+| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
