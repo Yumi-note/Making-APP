@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-17 17:56:08 JST / 実行ID: 2026-10-17-175608</div>
+<div class="meta-line">最終更新: 2026-10-17 17:58:43 JST / 実行ID: 2026-10-17-175843</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
-| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
-| 4063.T | JP | Shin-Etsu Chemical Co., Ltd. | 中位 | [詳細](./4063_T.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| 8035.T | JP | Tokyo Electron Limited | 下位 | [詳細](./8035_T.md) |
-| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
+| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
