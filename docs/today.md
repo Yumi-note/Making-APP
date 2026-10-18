@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-17 17:58:43 JST / 実行ID: 2026-10-17-175843</div>
+<div class="meta-line">最終更新: 2026-10-18 18:16:51 JST / 実行ID: 2026-10-18-181651</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-10-17/175843/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.81 | 323.00% | 0.98 | 12.40% | 見送り |
-| JP | [9432.T](reports/2026-10-17/175843/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.66 | 309.00% | 1.44 | 10.71% | 見送り |
-| JP | [9101.T](reports/2026-10-17/175843/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.52 | 331.00% | 0.94 | 7.70% | 見送り |
-| US | [META](reports/2026-10-17/175843/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 26.73 | 30.00% | 6.92 | 29.85% | 見送り |
-| JP | [7974.T](reports/2026-10-17/175843/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 20.70 | 258.00% | 3.35 | - | 見送り |
-| US | [AMAT](reports/2026-10-17/175843/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 75 | 41 | 35.31 | 52.00% | 12.68 | 41.07% | 見送り |
-| US | [AMZN](reports/2026-10-17/175843/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 20.11 | 0.00% | 4.89 | 30.56% | 見送り |
-| US | [SPOT](reports/2026-10-17/175843/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 30.49 | 0.00% | 11.60 | 44.48% | 見送り |
-| US | [PLTR](reports/2026-10-17/175843/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 0 | 50 | 32 | 160.37 | 0.00% | 45.73 | 38.10% | 見送り |
-| JP | [6594.T](reports/2026-10-17/175843/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.60 | -49.66% | 見送り |
+| US | [PYPL](reports/2026-10-18/181651/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.72 | 99.00% | 2.47 | 24.50% | 見送り |
+| JP | [1605.T](reports/2026-10-18/181651/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 9.91 | 305.00% | 0.84 | 9.27% | 見送り |
+| US | [CRM](reports/2026-10-18/181651/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 22.02 | 73.00% | 5.16 | 19.38% | 見送り |
+| US | [IBM](reports/2026-10-18/181651/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 20.63 | 291.00% | 6.35 | 34.46% | 見送り |
+| JP | [9433.T](reports/2026-10-18/181651/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.73 | 289.00% | 2.16 | 14.59% | 見送り |
+| JP | [8306.T](reports/2026-10-18/181651/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.70 | 276.00% | 1.72 | 9.46% | 見送り |
+| US | [ZM](reports/2026-10-18/181651/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.74 | 0.00% | 2.44 | 32.14% | 見送り |
+| JP | [8766.T](reports/2026-10-18/181651/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 48.17 | 2329.00% | 1.94 | - | 見送り |
+| JP | [4307.T](reports/2026-10-18/181651/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 182.55 | 141.00% | 8.92 | 4.60% | 見送り |
+| US | [PANW](reports/2026-10-18/181651/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 855.00 | 0.00% | 10.14 | 1.74% | 見送り |
