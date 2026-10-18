@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-18 18:16:51 JST / 実行ID: 2026-10-18-181651</div>
+<div class="meta-line">最終更新: 2026-10-18 18:19:14 JST / 実行ID: 2026-10-18-181914</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-18/181651/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.72 | 99.00% | 2.47 | 24.50% | 見送り |
-| JP | [1605.T](reports/2026-10-18/181651/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 9.91 | 305.00% | 0.84 | 9.27% | 見送り |
-| US | [CRM](reports/2026-10-18/181651/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 22.02 | 73.00% | 5.16 | 19.38% | 見送り |
-| US | [IBM](reports/2026-10-18/181651/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 20.63 | 291.00% | 6.35 | 34.46% | 見送り |
-| JP | [9433.T](reports/2026-10-18/181651/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.73 | 289.00% | 2.16 | 14.59% | 見送り |
-| JP | [8306.T](reports/2026-10-18/181651/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.70 | 276.00% | 1.72 | 9.46% | 見送り |
-| US | [ZM](reports/2026-10-18/181651/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.74 | 0.00% | 2.44 | 32.14% | 見送り |
-| JP | [8766.T](reports/2026-10-18/181651/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 48.17 | 2329.00% | 1.94 | - | 見送り |
-| JP | [4307.T](reports/2026-10-18/181651/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 182.55 | 141.00% | 8.92 | 4.60% | 見送り |
-| US | [PANW](reports/2026-10-18/181651/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 855.00 | 0.00% | 10.14 | 1.74% | 見送り |
+| US | [MU](reports/2026-10-18/181914/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 11.82 | 7.00% | 7.18 | 88.26% | 見送り |
+| JP | [9984.T](reports/2026-10-18/181914/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 5.75 | 22.00% | 1.55 | 31.96% | 見送り |
+| JP | [8411.T](reports/2026-10-18/181914/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.35 | 187.00% | 1.70 | 12.49% | 見送り |
+| JP | [3382.T](reports/2026-10-18/181914/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.36 | 293.00% | 1.25 | 8.08% | 見送り |
+| JP | [4543.T](reports/2026-10-18/181914/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 20.96 | 154.00% | 2.07 | 10.85% | 見送り |
+| JP | [6273.T](reports/2026-10-18/181914/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 25.76 | 148.00% | 1.97 | 9.85% | 見送り |
+| US | [AVGO](reports/2026-10-18/181914/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 41.99 | 79.00% | 15.74 | 44.25% | 見送り |
+| US | [TWLO](reports/2026-10-18/181914/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 55 | 34 | 33.80 | 0.00% | 4.18 | 13.50% | 見送り |
+| US | [SNAP](reports/2026-10-18/181914/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.35 | -15.58% | 見送り |
+| US | [AMD](reports/2026-10-18/181914/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 134.89 | 0.00% | 12.84 | 10.20% | 見送り |
