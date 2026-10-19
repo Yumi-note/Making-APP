@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-18 18:19:14 JST / 実行ID: 2026-10-18-181914</div>
+<div class="meta-line">最終更新: 2026-10-19 20:43:18 JST / 実行ID: 2026-10-19-204318</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [MU](reports/2026-10-18/181914/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 11.82 | 7.00% | 7.18 | 88.26% | 見送り |
-| JP | [9984.T](reports/2026-10-18/181914/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 5.75 | 22.00% | 1.55 | 31.96% | 見送り |
-| JP | [8411.T](reports/2026-10-18/181914/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.35 | 187.00% | 1.70 | 12.49% | 見送り |
-| JP | [3382.T](reports/2026-10-18/181914/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.36 | 293.00% | 1.25 | 8.08% | 見送り |
-| JP | [4543.T](reports/2026-10-18/181914/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 20.96 | 154.00% | 2.07 | 10.85% | 見送り |
-| JP | [6273.T](reports/2026-10-18/181914/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 25.76 | 148.00% | 1.97 | 9.85% | 見送り |
-| US | [AVGO](reports/2026-10-18/181914/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 41.99 | 79.00% | 15.74 | 44.25% | 見送り |
-| US | [TWLO](reports/2026-10-18/181914/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 55 | 34 | 33.80 | 0.00% | 4.18 | 13.50% | 見送り |
-| US | [SNAP](reports/2026-10-18/181914/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.35 | -15.58% | 見送り |
-| US | [AMD](reports/2026-10-18/181914/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 134.89 | 0.00% | 12.84 | 10.20% | 見送り |
+| JP | [9104.T](reports/2026-10-19/204318/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.42 | 292.00% | 0.87 | 7.89% | 見送り |
+| US | [DIS](reports/2026-10-19/204318/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 22.60 | 136.00% | 1.72 | 8.01% | 見送り |
+| JP | [7751.T](reports/2026-10-19/204318/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 90 | 46 | 12.15 | 332.00% | 1.17 | 10.37% | 見送り |
+| US | [CSCO](reports/2026-10-19/204318/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 31.98 | 156.00% | 8.36 | 27.32% | 見送り |
+| JP | [4568.T](reports/2026-10-19/204318/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 80 | 43 | 20.90 | 365.00% | 2.95 | 14.81% | 見送り |
+| JP | [6758.T](reports/2026-10-19/204318/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 21.25 | 88.00% | 2.78 | 13.16% | 見送り |
+| US | [TXN](reports/2026-10-19/204318/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 42.03 | 220.00% | 14.00 | 35.18% | 見送り |
+| JP | [8035.T](reports/2026-10-19/204318/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 39.24 | 430.00% | 10.98 | 30.93% | 見送り |
+| US | [SNOW](reports/2026-10-19/204318/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 51.71 | -48.06% | 見送り |
+| US | [TSLA](reports/2026-10-19/204318/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 340.80 | 0.00% | 16.73 | 4.67% | 見送り |
