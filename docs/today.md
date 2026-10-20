@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-20 19:35:26 JST / 実行ID: 2026-10-20-193526</div>
+<div class="meta-line">最終更新: 2026-10-20 19:39:00 JST / 実行ID: 2026-10-20-193900</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-20/193526/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.79 | 99.00% | 2.48 | 24.50% | 見送り |
-| JP | [6902.T](reports/2026-10-20/193526/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.96 | 396.00% | 0.92 | 9.20% | 見送り |
-| US | [QCOM](reports/2026-10-20/193526/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 20.44 | 212.00% | 6.75 | 33.75% | 見送り |
-| JP | [9432.T](reports/2026-10-20/193526/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.87 | 308.00% | 1.46 | 10.71% | 見送り |
-| US | [MSFT](reports/2026-10-20/193526/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 29.59 | 73.00% | 8.92 | 34.04% | 見送り |
-| US | [NVDA](reports/2026-10-20/193526/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 27.36 | 46.00% | 22.82 | 117.21% | 見送り |
-| JP | [6367.T](reports/2026-10-20/193526/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.78 | 168.00% | 2.00 | 9.60% | 見送り |
-| JP | [8766.T](reports/2026-10-20/193526/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 46.96 | 2343.00% | 1.89 | - | 見送り |
-| JP | [7267.T](reports/2026-10-20/193526/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 387.00% | 0.57 | -0.76% | 見送り |
-| US | [NFLX](reports/2026-10-20/193526/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 0 | 65 | 38 | 21.60 | 0.00% | 9.49 | 49.54% | 見送り |
+| JP | [1605.T](reports/2026-10-20/193900/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.28 | 294.00% | 0.87 | 9.27% | 見送り |
+| US | [IBM](reports/2026-10-20/193900/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 21.48 | 286.00% | 6.61 | 34.46% | 見送り |
+| JP | [8411.T](reports/2026-10-20/193900/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.44 | 185.00% | 1.62 | 12.49% | 見送り |
+| JP | [8306.T](reports/2026-10-20/193900/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.17 | 276.00% | 1.66 | 9.46% | 見送り |
+| JP | [3382.T](reports/2026-10-20/193900/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.84 | 290.00% | 1.29 | 8.08% | 見送り |
+| US | [AMAT](reports/2026-10-20/193900/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 34.98 | 51.00% | 12.56 | 41.07% | 見送り |
+| JP | [6273.T](reports/2026-10-20/193900/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 25.06 | 151.00% | 1.92 | 9.85% | 見送り |
+| US | [AVGO](reports/2026-10-20/193900/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 42.70 | 78.00% | 16.01 | 44.25% | 見送り |
+| US | [PANW](reports/2026-10-20/193900/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 851.05 | 0.00% | 10.09 | 1.74% | 見送り |
+| US | [SNAP](reports/2026-10-20/193900/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.64 | -15.58% | 見送り |
