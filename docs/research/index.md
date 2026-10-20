@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-19 20:46:02 JST / 実行ID: 2026-10-19-204602</div>
+<div class="meta-line">最終更新: 2026-10-20 19:35:26 JST / 実行ID: 2026-10-20-193526</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 下位 | [詳細](./4502_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
-| INTC | US | Intel Corporation | 中位 | [詳細](./INTC.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| QCOM | US | QUALCOMM Incorporated | 下位 | [詳細](./QCOM.md) |
+| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 中位 | [詳細](./6367_T.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 下位 | [詳細](./8766_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
