@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-21 19:37:55 JST / 実行ID: 2026-10-21-193755</div>
+<div class="meta-line">最終更新: 2026-10-21 19:41:00 JST / 実行ID: 2026-10-21-194100</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-10-21/193755/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.53 | 290.00% | 0.86 | 7.89% | 見送り |
-| JP | [9433.T](reports/2026-10-21/193755/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.95 | 286.00% | 2.16 | 14.59% | 見送り |
-| US | [META](reports/2026-10-21/193755/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 26.49 | 30.00% | 6.86 | 29.85% | 見送り |
-| US | [CSCO](reports/2026-10-21/193755/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 32.30 | 157.00% | 8.44 | 27.32% | 見送り |
-| JP | [7974.T](reports/2026-10-21/193755/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.19 | 252.00% | 3.44 | - | 見送り |
-| JP | [2914.T](reports/2026-10-21/193755/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.85 | 362.00% | 3.03 | 14.30% | 見送り |
-| US | [UBER](reports/2026-10-21/193755/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.85 | 0.00% | 5.06 | 37.16% | 見送り |
-| JP | [8035.T](reports/2026-10-21/193755/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 37.23 | 453.00% | 10.78 | 30.93% | 見送り |
-| US | [TWLO](reports/2026-10-21/193755/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 36.99 | 0.00% | 4.57 | 13.50% | 見送り |
-| US | [ABNB](reports/2026-10-21/193755/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 39.68 | 0.00% | 13.18 | 34.54% | 見送り |
+| US | [MU](reports/2026-10-21/194100/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 12.33 | 7.00% | 7.49 | 88.26% | 見送り |
+| JP | [7203.T](reports/2026-10-21/194100/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.83 | 322.00% | 0.98 | 12.40% | 見送り |
+| US | [CRM](reports/2026-10-21/194100/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 22.12 | 73.00% | 5.19 | 19.38% | 見送り |
+| JP | [9020.T](reports/2026-10-21/194100/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 0 | 90 | 46 | 17.80 | 236.00% | 1.32 | 7.95% | 見送り |
+| JP | [6758.T](reports/2026-10-21/194100/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 0 | 80 | 43 | 21.26 | 88.00% | 2.82 | 13.16% | 見送り |
+| JP | [4568.T](reports/2026-10-21/194100/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 80 | 43 | 21.51 | 355.00% | 3.04 | 14.81% | 見送り |
+| US | [TXN](reports/2026-10-21/194100/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 43.43 | 219.00% | 14.47 | 35.18% | 見送り |
+| US | [SNOW](reports/2026-10-21/194100/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 53.09 | -48.06% | 見送り |
+| US | [TSLA](reports/2026-10-21/194100/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 357.89 | 0.00% | 17.57 | 4.67% | 見送り |
+| JP | [6594.T](reports/2026-10-21/194100/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.54 | -49.66% | 見送り |
