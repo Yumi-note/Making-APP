@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-20 19:39:00 JST / 実行ID: 2026-10-20-193900</div>
+<div class="meta-line">最終更新: 2026-10-21 19:37:55 JST / 実行ID: 2026-10-21-193755</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
-| IBM | US | International Business Machines Corporation | 下位 | [詳細](./IBM.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
-| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
-| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
-| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
-| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
-| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| META | US | Meta Platforms, Inc. | 上位 | [詳細](./META.md) |
+| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
+| 7974.T | JP | Nintendo Co., Ltd. | 中位 | [詳細](./7974_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 上位 | [詳細](./2914_T.md) |
+| UBER | US | Uber Technologies, Inc. | 中位 | [詳細](./UBER.md) |
+| 8035.T | JP | Tokyo Electron Limited | 下位 | [詳細](./8035_T.md) |
+| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |

@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-20 19:39:00 JST / 実行ID: 2026-10-20-193900</div>
+<div class="meta-line">最終更新: 2026-10-21 19:37:55 JST / 実行ID: 2026-10-21-193755</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-10-20/193900/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.28 | 294.00% | 0.87 | 9.27% | 見送り |
-| US | [IBM](reports/2026-10-20/193900/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 21.48 | 286.00% | 6.61 | 34.46% | 見送り |
-| JP | [8411.T](reports/2026-10-20/193900/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.44 | 185.00% | 1.62 | 12.49% | 見送り |
-| JP | [8306.T](reports/2026-10-20/193900/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 0 | 90 | 46 | 14.17 | 276.00% | 1.66 | 9.46% | 見送り |
-| JP | [3382.T](reports/2026-10-20/193900/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.84 | 290.00% | 1.29 | 8.08% | 見送り |
-| US | [AMAT](reports/2026-10-20/193900/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 34.98 | 51.00% | 12.56 | 41.07% | 見送り |
-| JP | [6273.T](reports/2026-10-20/193900/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 25.06 | 151.00% | 1.92 | 9.85% | 見送り |
-| US | [AVGO](reports/2026-10-20/193900/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 42.70 | 78.00% | 16.01 | 44.25% | 見送り |
-| US | [PANW](reports/2026-10-20/193900/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 851.05 | 0.00% | 10.09 | 1.74% | 見送り |
-| US | [SNAP](reports/2026-10-20/193900/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.64 | -15.58% | 見送り |
+| JP | [9104.T](reports/2026-10-21/193755/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.53 | 290.00% | 0.86 | 7.89% | 見送り |
+| JP | [9433.T](reports/2026-10-21/193755/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.95 | 286.00% | 2.16 | 14.59% | 見送り |
+| US | [META](reports/2026-10-21/193755/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 80 | 43 | 26.49 | 30.00% | 6.86 | 29.85% | 見送り |
+| US | [CSCO](reports/2026-10-21/193755/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 32.30 | 157.00% | 8.44 | 27.32% | 見送り |
+| JP | [7974.T](reports/2026-10-21/193755/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.19 | 252.00% | 3.44 | - | 見送り |
+| JP | [2914.T](reports/2026-10-21/193755/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.85 | 362.00% | 3.03 | 14.30% | 見送り |
+| US | [UBER](reports/2026-10-21/193755/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.85 | 0.00% | 5.06 | 37.16% | 見送り |
+| JP | [8035.T](reports/2026-10-21/193755/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 37.23 | 453.00% | 10.78 | 30.93% | 見送り |
+| US | [TWLO](reports/2026-10-21/193755/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 36.99 | 0.00% | 4.57 | 13.50% | 見送り |
+| US | [ABNB](reports/2026-10-21/193755/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 39.68 | 0.00% | 13.18 | 34.54% | 見送り |
