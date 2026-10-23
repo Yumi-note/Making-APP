@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-22 19:35:21 JST / 実行ID: 2026-10-22-193521</div>
+<div class="meta-line">最終更新: 2026-10-23 19:32:58 JST / 実行ID: 2026-10-23-193258</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-10-22/193521/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.58 | 295.00% | 0.89 | 9.27% | 見送り |
-| US | [DIS](reports/2026-10-22/193521/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 23.24 | 134.00% | 1.77 | 8.01% | 見送り |
-| JP | [9432.T](reports/2026-10-22/193521/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.95 | 306.00% | 1.47 | 10.71% | 見送り |
-| JP | [8411.T](reports/2026-10-22/193521/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 14.02 | 191.00% | 1.62 | 12.49% | 見送り |
-| JP | [7751.T](reports/2026-10-22/193521/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 90 | 46 | 12.38 | 332.00% | 1.19 | 10.37% | 見送り |
-| JP | [9101.T](reports/2026-10-22/193521/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.54 | 328.00% | 0.94 | 7.70% | 見送り |
-| US | [ZM](reports/2026-10-22/193521/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.97 | 0.00% | 2.50 | 32.14% | 見送り |
-| US | [ADBE](reports/2026-10-22/193521/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 65 | 38 | 15.18 | 0.00% | 9.03 | 61.90% | 見送り |
-| US | [AMD](reports/2026-10-22/193521/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 128.74 | 0.00% | 12.25 | 10.20% | 見送り |
-| US | [PANW](reports/2026-10-22/193521/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 893.30 | 0.00% | 10.59 | 1.74% | 見送り |
+| JP | [9104.T](reports/2026-10-23/193258/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.20 | 292.00% | 0.83 | 7.89% | 見送り |
+| US | [ORCL](reports/2026-10-23/193258/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 19.88 | 159.00% | 6.20 | 41.19% | 見送り |
+| US | [AMAT](reports/2026-10-23/193258/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 32.62 | 56.00% | 11.71 | 41.07% | 見送り |
+| US | [MSFT](reports/2026-10-23/193258/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 29.18 | 75.00% | 8.79 | 34.04% | 見送り |
+| JP | [4063.T](reports/2026-10-23/193258/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.07 | 200.00% | 2.38 | 11.23% | 見送り |
+| JP | [7974.T](reports/2026-10-23/193258/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 21.24 | 252.00% | 3.37 | - | 見送り |
+| JP | [4543.T](reports/2026-10-23/193258/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 21.52 | 148.00% | 2.13 | 10.85% | 見送り |
+| US | [AAPL](reports/2026-10-23/193258/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 39.82 | 31.00% | 47.18 | 148.75% | 見送り |
+| JP | [4307.T](reports/2026-10-23/193258/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 189.97 | 136.00% | 9.25 | 4.60% | 見送り |
+| US | [PLTR](reports/2026-10-23/193258/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 0 | 50 | 32 | 173.12 | 0.00% | 48.09 | 38.10% | 見送り |
