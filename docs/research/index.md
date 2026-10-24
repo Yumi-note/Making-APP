@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-23 19:35:54 JST / 実行ID: 2026-10-23-193554</div>
+<div class="meta-line">最終更新: 2026-10-24 18:22:10 JST / 実行ID: 2026-10-24-182210</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| MU | US | Micron Technology, Inc. | 中位 | [詳細](./MU.md) |
-| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
-| 8035.T | JP | Tokyo Electron Limited | 下位 | [詳細](./8035_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
-| TWLO | US | Twilio Inc. | 下位 | [詳細](./TWLO.md) |
+| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
+| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
+| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
+| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
+| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
