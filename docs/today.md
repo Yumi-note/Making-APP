@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-24 18:22:10 JST / 実行ID: 2026-10-24-182210</div>
+<div class="meta-line">最終更新: 2026-10-24 18:24:47 JST / 実行ID: 2026-10-24-182447</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PEP](reports/2026-10-24/182210/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 17.08 | 436.00% | 8.31 | 52.19% | 見送り |
-| US | [GOOGL](reports/2026-10-24/182210/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 16.07 | 27.00% | 6.29 | 48.68% | 見送り |
-| JP | [8316.T](reports/2026-10-24/182210/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 90 | 46 | 14.18 | 289.00% | 1.47 | 8.57% | 見送り |
-| JP | [6367.T](reports/2026-10-24/182210/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.51 | 170.00% | 1.97 | 9.60% | 見送り |
-| JP | [2914.T](reports/2026-10-24/182210/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.91 | 361.00% | 3.05 | 14.30% | 見送り |
-| US | [TXN](reports/2026-10-24/182210/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 36.92 | 214.00% | 13.56 | 39.72% | 見送り |
-| JP | [6098.T](reports/2026-10-24/182210/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 46.61 | 14.00% | 14.95 | 36.22% | 見送り |
-| US | [AMZN](reports/2026-10-24/182210/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 19.95 | 0.00% | 4.85 | 30.56% | 見送り |
-| US | [SNOW](reports/2026-10-24/182210/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 53.36 | -48.06% | 見送り |
-| JP | [6594.T](reports/2026-10-24/182210/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.46 | -49.66% | 見送り |
+| US | [PYPL](reports/2026-10-24/182447/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.78 | 98.00% | 2.48 | 24.50% | 見送り |
+| JP | [1605.T](reports/2026-10-24/182447/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.43 | 290.00% | 0.88 | 9.27% | 見送り |
+| JP | [7203.T](reports/2026-10-24/182447/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.84 | 322.00% | 0.99 | 12.40% | 見送り |
+| US | [DIS](reports/2026-10-24/182447/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 0 | 90 | 46 | 23.20 | 133.00% | 1.77 | 8.01% | 見送り |
+| JP | [9432.T](reports/2026-10-24/182447/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.69 | 309.00% | 1.44 | 10.71% | 見送り |
+| JP | [3382.T](reports/2026-10-24/182447/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.92 | 283.00% | 1.30 | 8.08% | 見送り |
+| US | [UBER](reports/2026-10-24/182447/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.63 | 0.00% | 4.98 | 37.16% | 見送り |
+| JP | [7267.T](reports/2026-10-24/182447/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 390.00% | 0.57 | -0.76% | 見送り |
+| US | [SHOP](reports/2026-10-24/182447/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 113.97 | 0.00% | 17.14 | 15.54% | 見送り |
+| US | [PANW](reports/2026-10-24/182447/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 951.37 | 0.00% | 11.28 | 1.74% | 見送り |

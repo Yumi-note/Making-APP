@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-24 18:22:10 JST / 実行ID: 2026-10-24-182210</div>
+<div class="meta-line">最終更新: 2026-10-24 18:24:47 JST / 実行ID: 2026-10-24-182447</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| PEP | US | PepsiCo, Inc. | 下位 | [詳細](./PEP.md) |
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
-| AMZN | US | Amazon.com, Inc. | 中位 | [詳細](./AMZN.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| 1605.T | JP | Inpex Corporation | 下位 | [詳細](./1605_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| DIS | US | The Walt Disney Company | 中位 | [詳細](./DIS.md) |
+| 9432.T | JP | NTT, Inc. | 中位 | [詳細](./9432_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
+| UBER | US | Uber Technologies, Inc. | 下位 | [詳細](./UBER.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
+| SHOP | US | Shopify Inc. | 中位 | [詳細](./SHOP.md) |
+| PANW | US | Palo Alto Networks, Inc. | 上位 | [詳細](./PANW.md) |
