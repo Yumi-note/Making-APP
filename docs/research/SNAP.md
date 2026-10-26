@@ -1,12 +1,12 @@
-# SPOT 企業研究
+# SNAP 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-10-25 18:35:34 JST / 実行ID: 2026-10-25-183534</div>
+<div class="meta-line">最終更新: 2026-10-26 20:45:33 JST / 実行ID: 2026-10-26-204533</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: SPOT**
+- 現在地: **企業研究: SNAP**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Spotify Technology S.A.
+- 企業名: Snap Inc.
 - 市場: US
-- 国: Sweden
+- 国: United States
 - セクター: Communication Services
 - 業種: Internet Content & Information
-- 時価総額: 120.11B
-- 公式サイト: https://www.spotify.com
+- 時価総額: 10.72B
+- 公式サイト: https://www.snap.com
 
 ## この企業は何をしているか
 
-Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は120.11B、従業員規模は約7,000名です。
+Snap Inc.（SNAP）はUnited Statesを主な事業基盤とするCommunication Servicesセクターの企業で、市場区分はUSです。業種はInternet Content & Informationに属し、時価総額は10.72B、従業員規模は約5,261名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -41,7 +41,7 @@ Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunic
 ## 業界での立ち位置
 
 - 判定: **下位**
-- 根拠: 同市場の対象銘柄群で時価総額順位が下位（4/5）に位置。
+- 根拠: 同市場の対象銘柄群で時価総額順位が下位（5/5）に位置。
 
 ### 業界ポジション図（簡易）
 
@@ -50,12 +50,12 @@ Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunic
 中位プレイヤー  : [■■■□□]
 下位/新興       : [■□□□□]
 この銘柄の位置  : [下位]
-同セクター内順位: 2/2 下位ゾーン [■□□□□]
+同セクター比較データが不足しているため、ポジション図は暫定。
 ```
 
 ## 割安性コメント（国別基準）
 
-- PER基準(US): 15以下が割安目安。PER 35.60 は割高寄り。配当利回り 0.00% は低め。
+- PER基準(US): 15以下が割安目安。PERデータなし。配当利回り 0.00% は低め。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Spotify Technology S.A.（SPOT）はSwedenを主な事業基盤とするCommunic
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-10-25/183534/SPOT.md)
+- [当日の銘柄レポート](../reports/2026-10-26/204533/SNAP.md)
 - News Score: 0 / Value Score: 50 / 総合: 32
