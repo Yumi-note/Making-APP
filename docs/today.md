@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-26 20:45:33 JST / 実行ID: 2026-10-26-204533</div>
+<div class="meta-line">最終更新: 2026-10-27 20:15:34 JST / 実行ID: 2026-10-27-201534</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PEP](reports/2026-10-26/204533/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 17.04 | 436.00% | 8.29 | 52.19% | 見送り |
-| JP | [7751.T](reports/2026-10-26/204533/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 90 | 46 | 12.51 | 327.00% | 1.21 | 10.37% | 見送り |
-| US | [AMAT](reports/2026-10-26/204533/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 33.44 | 56.00% | 12.00 | 41.07% | 見送り |
-| JP | [6367.T](reports/2026-10-26/204533/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.51 | 170.00% | 1.99 | 9.60% | 見送り |
-| JP | [4568.T](reports/2026-10-26/204533/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 80 | 43 | 21.39 | 355.00% | 3.02 | 14.81% | 見送り |
-| US | [TXN](reports/2026-10-26/204533/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 0 | 75 | 41 | 38.67 | 214.00% | 14.20 | 39.72% | 見送り |
-| US | [AVGO](reports/2026-10-26/204533/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 42.04 | 81.00% | 15.76 | 44.25% | 見送り |
-| JP | [6501.T](reports/2026-10-26/204533/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 31.45 | 101.00% | 3.78 | - | 見送り |
-| JP | [6098.T](reports/2026-10-26/204533/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 46.60 | 14.00% | 14.95 | 36.22% | 見送り |
-| US | [SNAP](reports/2026-10-26/204533/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 0 | 50 | 32 | - | 0.00% | 5.53 | -15.58% | 見送り |
+| JP | [1605.T](reports/2026-10-27/201534/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.72 | 277.00% | 0.90 | 9.27% | 見送り |
+| US | [ORCL](reports/2026-10-27/201534/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 20.46 | 159.00% | 6.39 | 41.19% | 見送り |
+| JP | [9432.T](reports/2026-10-27/201534/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.63 | 306.00% | 1.44 | 10.71% | 見送り |
+| US | [AAPL](reports/2026-10-27/201534/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 39.81 | 31.00% | 47.16 | 148.75% | 見送り |
+| JP | [8035.T](reports/2026-10-27/201534/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 33.63 | 501.00% | 9.96 | 30.93% | 見送り |
+| JP | [7267.T](reports/2026-10-27/201534/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 389.00% | 0.56 | -0.76% | 見送り |
+| JP | [8766.T](reports/2026-10-27/201534/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 49.92 | 2223.00% | 2.01 | - | 見送り |
+| US | [TWLO](reports/2026-10-27/201534/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 35.21 | 0.00% | 4.35 | 13.50% | 見送り |
+| US | [SHOP](reports/2026-10-27/201534/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 112.03 | 0.00% | 16.85 | 15.54% | 見送り |
+| US | [ABNB](reports/2026-10-27/201534/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 38.46 | 0.00% | 12.77 | 34.54% | 見送り |
