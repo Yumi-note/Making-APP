@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-28 20:34:41 JST / 実行ID: 2026-10-28-203441</div>
+<div class="meta-line">最終更新: 2026-10-28 20:38:42 JST / 実行ID: 2026-10-28-203842</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-28/203441/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.79 | 102.00% | 2.43 | 23.82% | 見送り |
-| JP | [9984.T](reports/2026-10-28/203441/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 5.21 | 25.00% | 1.46 | 31.96% | 見送り |
-| JP | [9101.T](reports/2026-10-28/203441/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.66 | 327.00% | 0.94 | 7.70% | 見送り |
-| JP | [3382.T](reports/2026-10-28/203441/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.69 | 287.00% | 1.26 | 8.08% | 見送り |
-| JP | [4063.T](reports/2026-10-28/203441/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.17 | 198.00% | 2.45 | 11.23% | 見送り |
-| US | [ZM](reports/2026-10-28/203441/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 9.30 | 0.00% | 2.59 | 32.14% | 見送り |
-| JP | [4502.T](reports/2026-10-28/203441/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 318.00% | 1.32 | -2.26% | 見送り |
-| US | [NFLX](reports/2026-10-28/203441/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 0 | 65 | 38 | 17.92 | 0.00% | 8.69 | 53.46% | 見送り |
-| US | [SNOW](reports/2026-10-28/203441/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 55.73 | -48.06% | 見送り |
-| US | [PANW](reports/2026-10-28/203441/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 986.23 | 0.00% | 11.69 | 1.74% | 見送り |
+| US | [GOOGL](reports/2026-10-28/203842/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 16.30 | 27.00% | 6.38 | 48.68% | 見送り |
+| JP | [8411.T](reports/2026-10-28/203842/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 13.54 | 198.00% | 1.61 | 12.49% | 見送り |
+| US | [NVDA](reports/2026-10-28/203842/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 27.23 | 46.00% | 22.71 | 117.21% | 見送り |
+| JP | [6273.T](reports/2026-10-28/203842/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 24.00 | 159.00% | 1.92 | 9.85% | 見送り |
+| JP | [4543.T](reports/2026-10-28/203842/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 21.52 | 150.00% | 2.10 | 10.85% | 見送り |
+| JP | [4307.T](reports/2026-10-28/203842/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 190.89 | 135.00% | 9.20 | 4.60% | 見送り |
+| US | [AMZN](reports/2026-10-28/203842/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 20.48 | 0.00% | 4.98 | 30.56% | 見送り |
+| US | [TSLA](reports/2026-10-28/203842/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 444.20 | 0.00% | 17.90 | 3.84% | 見送り |
+| US | [AMD](reports/2026-10-28/203842/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 147.56 | 0.00% | 14.04 | 10.20% | 見送り |
+| JP | [6594.T](reports/2026-10-28/203842/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.60 | -61.33% | 見送り |
