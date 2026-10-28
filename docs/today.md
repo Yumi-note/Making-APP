@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-27 20:15:34 JST / 実行ID: 2026-10-27-201534</div>
+<div class="meta-line">最終更新: 2026-10-28 20:34:41 JST / 実行ID: 2026-10-28-203441</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [1605.T](reports/2026-10-27/201534/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.72 | 277.00% | 0.90 | 9.27% | 見送り |
-| US | [ORCL](reports/2026-10-27/201534/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 20.46 | 159.00% | 6.39 | 41.19% | 見送り |
-| JP | [9432.T](reports/2026-10-27/201534/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.63 | 306.00% | 1.44 | 10.71% | 見送り |
-| US | [AAPL](reports/2026-10-27/201534/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 39.81 | 31.00% | 47.16 | 148.75% | 見送り |
-| JP | [8035.T](reports/2026-10-27/201534/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 33.63 | 501.00% | 9.96 | 30.93% | 見送り |
-| JP | [7267.T](reports/2026-10-27/201534/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 389.00% | 0.56 | -0.76% | 見送り |
-| JP | [8766.T](reports/2026-10-27/201534/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 49.92 | 2223.00% | 2.01 | - | 見送り |
-| US | [TWLO](reports/2026-10-27/201534/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 0 | 50 | 32 | 35.21 | 0.00% | 4.35 | 13.50% | 見送り |
-| US | [SHOP](reports/2026-10-27/201534/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 112.03 | 0.00% | 16.85 | 15.54% | 見送り |
-| US | [ABNB](reports/2026-10-27/201534/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 38.46 | 0.00% | 12.77 | 34.54% | 見送り |
+| US | [PYPL](reports/2026-10-28/203441/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.79 | 102.00% | 2.43 | 23.82% | 見送り |
+| JP | [9984.T](reports/2026-10-28/203441/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 0 | 100 | 50 | 5.21 | 25.00% | 1.46 | 31.96% | 見送り |
+| JP | [9101.T](reports/2026-10-28/203441/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.66 | 327.00% | 0.94 | 7.70% | 見送り |
+| JP | [3382.T](reports/2026-10-28/203441/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.69 | 287.00% | 1.26 | 8.08% | 見送り |
+| JP | [4063.T](reports/2026-10-28/203441/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.17 | 198.00% | 2.45 | 11.23% | 見送り |
+| US | [ZM](reports/2026-10-28/203441/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 9.30 | 0.00% | 2.59 | 32.14% | 見送り |
+| JP | [4502.T](reports/2026-10-28/203441/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 0 | 75 | 41 | - | 318.00% | 1.32 | -2.26% | 見送り |
+| US | [NFLX](reports/2026-10-28/203441/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 0 | 65 | 38 | 17.92 | 0.00% | 8.69 | 53.46% | 見送り |
+| US | [SNOW](reports/2026-10-28/203441/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 0 | 50 | 32 | - | 0.00% | 55.73 | -48.06% | 見送り |
+| US | [PANW](reports/2026-10-28/203441/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 0 | 50 | 32 | 986.23 | 0.00% | 11.69 | 1.74% | 見送り |
