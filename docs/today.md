@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-29 20:36:31 JST / 実行ID: 2026-10-29-203631</div>
+<div class="meta-line">最終更新: 2026-10-29 20:40:48 JST / 実行ID: 2026-10-29-204048</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [MU](reports/2026-10-29/203631/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 12.57 | 6.00% | 7.64 | 88.26% | 見送り |
-| JP | [7203.T](reports/2026-10-29/203631/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.68 | 328.00% | 0.98 | 12.40% | 見送り |
-| JP | [6902.T](reports/2026-10-29/203631/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.56 | 409.00% | 0.92 | 9.20% | 見送り |
-| US | [IBM](reports/2026-10-29/203631/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 22.04 | 267.00% | 6.87 | 34.77% | 見送り |
-| US | [META](reports/2026-10-29/203631/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 90 | 46 | 21.31 | 34.00% | 5.86 | 32.26% | 見送り |
-| US | [CSCO](reports/2026-10-29/203631/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 32.61 | 152.00% | 8.52 | 27.32% | 見送り |
-| JP | [2914.T](reports/2026-10-29/203631/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.31 | 371.00% | 2.99 | 14.30% | 見送り |
-| JP | [7974.T](reports/2026-10-29/203631/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 20.29 | 264.00% | 3.22 | - | 見送り |
-| US | [ADBE](reports/2026-10-29/203631/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.85 | 0.00% | 8.25 | 61.90% | 見送り |
-| JP | [6098.T](reports/2026-10-29/203631/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 46.19 | 14.00% | 14.82 | 36.22% | 見送り |
+| JP | [1605.T](reports/2026-10-29/204048/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 0 | 100 | 50 | 10.72 | 282.00% | 0.92 | 9.27% | 見送り |
+| US | [PEP](reports/2026-10-29/204048/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 16.83 | 446.00% | 8.19 | 52.19% | 見送り |
+| JP | [4568.T](reports/2026-10-29/204048/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 0 | 90 | 46 | 19.82 | 388.00% | 2.80 | 14.81% | 見送り |
+| JP | [9020.T](reports/2026-10-29/204048/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 0 | 90 | 46 | 17.66 | 240.00% | 1.30 | 7.95% | 見送り |
+| JP | [6367.T](reports/2026-10-29/204048/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.88 | 167.00% | 1.97 | 9.60% | 見送り |
+| US | [UBER](reports/2026-10-29/204048/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 0 | 75 | 41 | 14.42 | 0.00% | 4.91 | 37.16% | 見送り |
+| JP | [8766.T](reports/2026-10-29/204048/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 0 | 75 | 41 | 48.92 | 2342.00% | 1.97 | - | 見送り |
+| US | [SPOT](reports/2026-10-29/204048/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 55 | 34 | 33.96 | 0.00% | 11.66 | 35.81% | 見送り |
+| US | [INTC](reports/2026-10-29/204048/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 0 | 50 | 32 | - | 0.00% | 5.30 | -10.71% | 見送り |
+| US | [SHOP](reports/2026-10-29/204048/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 0 | 50 | 32 | 112.76 | 0.00% | 16.96 | 15.54% | 見送り |
