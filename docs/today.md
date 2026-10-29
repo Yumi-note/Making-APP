@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-28 20:38:42 JST / 実行ID: 2026-10-28-203842</div>
+<div class="meta-line">最終更新: 2026-10-29 20:36:31 JST / 実行ID: 2026-10-29-203631</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-10-28/203842/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 0 | 90 | 46 | 16.30 | 27.00% | 6.38 | 48.68% | 見送り |
-| JP | [8411.T](reports/2026-10-28/203842/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 0 | 90 | 46 | 13.54 | 198.00% | 1.61 | 12.49% | 見送り |
-| US | [NVDA](reports/2026-10-28/203842/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 0 | 80 | 43 | 27.23 | 46.00% | 22.71 | 117.21% | 見送り |
-| JP | [6273.T](reports/2026-10-28/203842/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 0 | 80 | 43 | 24.00 | 159.00% | 1.92 | 9.85% | 見送り |
-| JP | [4543.T](reports/2026-10-28/203842/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 0 | 80 | 43 | 21.52 | 150.00% | 2.10 | 10.85% | 見送り |
-| JP | [4307.T](reports/2026-10-28/203842/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 190.89 | 135.00% | 9.20 | 4.60% | 見送り |
-| US | [AMZN](reports/2026-10-28/203842/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 20.48 | 0.00% | 4.98 | 30.56% | 見送り |
-| US | [TSLA](reports/2026-10-28/203842/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 0 | 50 | 32 | 444.20 | 0.00% | 17.90 | 3.84% | 見送り |
-| US | [AMD](reports/2026-10-28/203842/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 0 | 50 | 32 | 147.56 | 0.00% | 14.04 | 10.20% | 見送り |
-| JP | [6594.T](reports/2026-10-28/203842/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.60 | -61.33% | 見送り |
+| US | [MU](reports/2026-10-29/203631/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 0 | 100 | 50 | 12.57 | 6.00% | 7.64 | 88.26% | 見送り |
+| JP | [7203.T](reports/2026-10-29/203631/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 0 | 100 | 50 | 8.68 | 328.00% | 0.98 | 12.40% | 見送り |
+| JP | [6902.T](reports/2026-10-29/203631/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 0 | 100 | 50 | 11.56 | 409.00% | 0.92 | 9.20% | 見送り |
+| US | [IBM](reports/2026-10-29/203631/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 22.04 | 267.00% | 6.87 | 34.77% | 見送り |
+| US | [META](reports/2026-10-29/203631/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 0 | 90 | 46 | 21.31 | 34.00% | 5.86 | 32.26% | 見送り |
+| US | [CSCO](reports/2026-10-29/203631/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 0 | 80 | 43 | 32.61 | 152.00% | 8.52 | 27.32% | 見送り |
+| JP | [2914.T](reports/2026-10-29/203631/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 0 | 80 | 43 | 21.31 | 371.00% | 2.99 | 14.30% | 見送り |
+| JP | [7974.T](reports/2026-10-29/203631/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 20.29 | 264.00% | 3.22 | - | 見送り |
+| US | [ADBE](reports/2026-10-29/203631/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 0 | 75 | 41 | 13.85 | 0.00% | 8.25 | 61.90% | 見送り |
+| JP | [6098.T](reports/2026-10-29/203631/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 46.19 | 14.00% | 14.82 | 36.22% | 見送り |
