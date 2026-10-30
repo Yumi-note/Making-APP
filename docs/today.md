@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-10-30 20:08:20 JST / 実行ID: 2026-10-30-200820</div>
+<div class="meta-line">最終更新: 2026-10-30 20:10:39 JST / 実行ID: 2026-10-30-201039</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-10-30/200820/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 0 | 100 | 50 | 10.88 | 98.00% | 2.45 | 23.82% | 見送り |
-| JP | [7751.T](reports/2026-10-30/200820/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 0 | 100 | 50 | 11.99 | 341.00% | 1.19 | 11.03% | 見送り |
-| US | [CRM](reports/2026-10-30/200820/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 20.98 | 76.00% | 4.92 | 19.38% | 見送り |
-| US | [QCOM](reports/2026-10-30/200820/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 0 | 90 | 46 | 19.01 | 198.00% | 6.28 | 33.75% | 見送り |
-| JP | [9432.T](reports/2026-10-30/200820/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 0 | 90 | 46 | 13.43 | 315.00% | 1.43 | 10.71% | 見送り |
-| JP | [9101.T](reports/2026-10-30/200820/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 13.32 | 336.00% | 0.98 | 7.70% | 見送り |
-| JP | [3382.T](reports/2026-10-30/200820/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 0 | 90 | 46 | 16.66 | 288.00% | 1.30 | 8.08% | 見送り |
-| US | [AMAT](reports/2026-10-30/200820/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 33.51 | 50.00% | 12.03 | 41.07% | 見送り |
-| US | [AAPL](reports/2026-10-30/200820/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 0 | 75 | 41 | 39.47 | 31.00% | 46.77 | 148.75% | 見送り |
-| JP | [6501.T](reports/2026-10-30/200820/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 30.65 | 126.00% | 3.48 | 12.34% | 見送り |
+| JP | [9104.T](reports/2026-10-30/201039/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.59 | 288.00% | 0.89 | 7.89% | 見送り |
+| US | [ORCL](reports/2026-10-30/201039/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 0 | 90 | 46 | 20.48 | 143.00% | 6.39 | 41.19% | 見送り |
+| JP | [4063.T](reports/2026-10-30/201039/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 0 | 80 | 43 | 23.80 | 193.00% | 2.40 | 11.75% | 見送り |
+| US | [AVGO](reports/2026-10-30/201039/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 41.61 | 75.00% | 15.60 | 44.25% | 見送り |
+| US | [ZM](reports/2026-10-30/201039/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.86 | 0.00% | 2.47 | 32.14% | 見送り |
+| JP | [4307.T](reports/2026-10-30/201039/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 150.93 | 154.00% | 9.34 | 4.60% | 見送り |
+| JP | [7267.T](reports/2026-10-30/201039/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 0 | 75 | 41 | - | 397.00% | 0.56 | -0.76% | 見送り |
+| US | [AMZN](reports/2026-10-30/201039/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 0 | 65 | 38 | 19.29 | 0.00% | 6.26 | 30.56% | 見送り |
+| US | [ABNB](reports/2026-10-30/201039/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.49 | 0.00% | 12.45 | 34.54% | 見送り |
+| JP | [6594.T](reports/2026-10-30/201039/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 0 | 50 | 32 | - | 0.00% | 2.60 | -61.33% | 見送り |
