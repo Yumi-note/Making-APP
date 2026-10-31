@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-10-30 20:13:06 JST / 実行ID: 2026-10-30-201306</div>
+<div class="meta-line">最終更新: 2026-10-31 19:33:00 JST / 実行ID: 2026-10-31-193300</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| GOOGL | US | Alphabet Inc. | 中位 | [詳細](./GOOGL.md) |
-| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 7974.T | JP | Nintendo Co., Ltd. | 下位 | [詳細](./7974_T.md) |
-| 8411.T | JP | Mizuho Financial Group, Inc. | 中位 | [詳細](./8411_T.md) |
-| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| ADBE | US | Adobe Inc. | 下位 | [詳細](./ADBE.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| 1605.T | JP | Inpex Corporation | 中位 | [詳細](./1605_T.md) |
+| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
+| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
+| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| NVDA | US | NVIDIA Corporation | 上位 | [詳細](./NVDA.md) |
+| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
+| TXN | US | Texas Instruments Incorporated | 中位 | [詳細](./TXN.md) |
+| 8766.T | JP | Tokio Marine Holdings, Inc. | 中位 | [詳細](./8766_T.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
