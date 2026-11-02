@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-01 19:54:16 JST / 実行ID: 2026-11-01-195416</div>
+<div class="meta-line">最終更新: 2026-11-02 23:13:04 JST / 実行ID: 2026-11-02-231304</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [CRM](reports/2026-11-01/195416/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 0 | 90 | 46 | 20.97 | 77.00% | 4.91 | 19.38% | 見送り |
-| JP | [8316.T](reports/2026-11-01/195416/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 0 | 90 | 46 | 14.48 | 279.00% | 1.52 | 8.57% | 見送り |
-| JP | [9101.T](reports/2026-11-01/195416/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 0 | 90 | 46 | 14.06 | 318.00% | 0.98 | 7.70% | 見送り |
-| US | [AVGO](reports/2026-11-01/195416/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 0 | 75 | 41 | 41.64 | 80.00% | 15.62 | 44.25% | 見送り |
-| JP | [4307.T](reports/2026-11-01/195416/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 0 | 75 | 41 | 156.98 | 148.00% | 9.02 | - | 見送り |
-| JP | [6501.T](reports/2026-11-01/195416/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 0 | 75 | 41 | 30.65 | 126.00% | 3.48 | 12.34% | 見送り |
-| JP | [6098.T](reports/2026-11-01/195416/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 0 | 75 | 41 | 46.96 | 14.00% | 15.06 | 36.22% | 見送り |
-| US | [PLTR](reports/2026-11-01/195416/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 0 | 50 | 32 | 158.72 | 0.00% | 45.26 | 38.10% | 見送り |
-| US | [SPOT](reports/2026-11-01/195416/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 0 | 50 | 32 | 36.16 | 0.00% | 12.42 | 35.81% | 見送り |
-| US | [ABNB](reports/2026-11-01/195416/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 0 | 50 | 32 | 37.45 | 0.00% | 12.44 | 34.54% | 見送り |
+| JP | [9104.T](reports/2026-11-02/231304/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.92 | 280.00% | 0.87 | 7.89% | 見送り |
+| US | [PEP](reports/2026-11-02/231304/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 17.66 | 431.00% | 8.59 | 52.19% | 見送り |
+| US | [IBM](reports/2026-11-02/231304/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 21.55 | 262.00% | 6.72 | 34.77% | 見送り |
+| JP | [9433.T](reports/2026-11-02/231304/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.59 | 296.00% | 2.11 | 14.59% | 見送り |
+| US | [AMAT](reports/2026-11-02/231304/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 32.31 | 54.00% | 11.60 | 41.07% | 見送り |
+| US | [MSFT](reports/2026-11-02/231304/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 26.47 | 75.00% | 8.00 | 34.22% | 見送り |
+| JP | [7974.T](reports/2026-11-02/231304/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 20.24 | 264.00% | 3.22 | - | 見送り |
+| JP | [6367.T](reports/2026-11-02/231304/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.37 | 171.00% | 1.95 | 9.60% | 見送り |
+| US | [ZM](reports/2026-11-02/231304/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.53 | 0.00% | 2.38 | 32.14% | 見送り |
+| JP | [8035.T](reports/2026-11-02/231304/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 53.40 | 480.00% | 10.32 | 33.80% | 見送り |
