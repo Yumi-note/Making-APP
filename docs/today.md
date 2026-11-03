@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-02 23:13:04 JST / 実行ID: 2026-11-02-231304</div>
+<div class="meta-line">最終更新: 2026-11-03 21:17:26 JST / 実行ID: 2026-11-03-211726</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-11-02/231304/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 0 | 100 | 50 | 11.92 | 280.00% | 0.87 | 7.89% | 見送り |
-| US | [PEP](reports/2026-11-02/231304/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 0 | 90 | 46 | 17.66 | 431.00% | 8.59 | 52.19% | 見送り |
-| US | [IBM](reports/2026-11-02/231304/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 0 | 90 | 46 | 21.55 | 262.00% | 6.72 | 34.77% | 見送り |
-| JP | [9433.T](reports/2026-11-02/231304/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 0 | 90 | 46 | 14.59 | 296.00% | 2.11 | 14.59% | 見送り |
-| US | [AMAT](reports/2026-11-02/231304/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 0 | 80 | 43 | 32.31 | 54.00% | 11.60 | 41.07% | 見送り |
-| US | [MSFT](reports/2026-11-02/231304/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 0 | 80 | 43 | 26.47 | 75.00% | 8.00 | 34.22% | 見送り |
-| JP | [7974.T](reports/2026-11-02/231304/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 0 | 80 | 43 | 20.24 | 264.00% | 3.22 | - | 見送り |
-| JP | [6367.T](reports/2026-11-02/231304/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 0 | 80 | 43 | 22.37 | 171.00% | 1.95 | 9.60% | 見送り |
-| US | [ZM](reports/2026-11-02/231304/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 0 | 75 | 41 | 8.53 | 0.00% | 2.38 | 32.14% | 見送り |
-| JP | [8035.T](reports/2026-11-02/231304/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 0 | 75 | 41 | 53.40 | 480.00% | 10.32 | 33.80% | 見送り |
+| US | [GOOGL](reports/2026-11-03/211726/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 100 | 100 | 14.62 | 32.00% | 5.22 | 44.29% | 有望 |
+| JP | [9984.T](reports/2026-11-03/211726/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 5.13 | 25.00% | 1.38 | 31.96% | 有望 |
+| US | [ADBE](reports/2026-11-03/211726/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.74 | 0.00% | 8.18 | 61.90% | 有望 |
+| US | [AAPL](reports/2026-11-03/211726/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 36.96 | 32.00% | 45.10 | 148.75% | 有望 |
+| JP | [8766.T](reports/2026-11-03/211726/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | 49.66 | 2259.00% | 2.00 | - | 有望 |
+| JP | [4063.T](reports/2026-11-03/211726/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 80 | 83 | 23.45 | 196.00% | 2.38 | 11.75% | 有望 |
+| US | [SHOP](reports/2026-11-03/211726/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 96.33 | 0.00% | 14.49 | 15.54% | 有望 |
+| US | [INTC](reports/2026-11-03/211726/INTC.md) / [企業研究](research/INTC.md) | Intel Corporation | 100 | 50 | 82 | - | 0.00% | 2.80 | -9.62% | 有望 |
+| JP | [6594.T](reports/2026-11-03/211726/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 50 | 82 | - | 0.00% | 2.54 | -61.33% | 有望 |
+| JP | [9020.T](reports/2026-11-03/211726/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 20 | 90 | 56 | 16.99 | 238.00% | 1.32 | 8.22% | 見送り |
