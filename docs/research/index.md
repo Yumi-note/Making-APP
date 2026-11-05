@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-11-04 21:33:32 JST / 実行ID: 2026-11-04-213332</div>
+<div class="meta-line">最終更新: 2026-11-05 21:34:17 JST / 実行ID: 2026-11-05-213417</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
-| CRM | US | Salesforce, Inc. | 下位 | [詳細](./CRM.md) |
-| ORCL | US | Oracle Corporation | 下位 | [詳細](./ORCL.md) |
-| META | US | Meta Platforms, Inc. | 中位 | [詳細](./META.md) |
-| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 中位 | [詳細](./8316_T.md) |
-| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 上位 | [詳細](./6098_T.md) |
-| AMZN | US | Amazon.com, Inc. | 上位 | [詳細](./AMZN.md) |
-| 4543.T | JP | Terumo Corporation | 下位 | [詳細](./4543_T.md) |
+| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
+| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 中位 | [詳細](./8306_T.md) |
+| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
+| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
+| MSFT | US | Microsoft Corporation | 上位 | [詳細](./MSFT.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| AMD | US | Advanced Micro Devices, Inc. | 中位 | [詳細](./AMD.md) |
