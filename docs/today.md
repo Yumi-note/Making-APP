@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-06 21:04:14 JST / 実行ID: 2026-11-06-210414</div>
+<div class="meta-line">最終更新: 2026-11-06 21:08:00 JST / 実行ID: 2026-11-06-210800</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-11-06/210414/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 11.31 | 95.00% | 2.55 | 23.82% | 有望 |
-| US | [GOOGL](reports/2026-11-06/210414/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 100 | 100 | 14.87 | 31.00% | 5.31 | 44.29% | 有望 |
-| JP | [9104.T](reports/2026-11-06/210414/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 10.12 | 308.00% | 0.75 | 7.89% | 有望 |
-| JP | [7751.T](reports/2026-11-06/210414/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 100 | 100 | 11.74 | 328.00% | 1.16 | 11.03% | 有望 |
-| JP | [2914.T](reports/2026-11-06/210414/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 90 | 96 | 18.35 | 350.00% | 2.70 | 14.66% | 有望 |
-| JP | [7267.T](reports/2026-11-06/210414/7267_T.md) / [企業研究](research/7267_T.md) | Honda Motor Co., Ltd. | 100 | 75 | 91 | - | 361.00% | 0.58 | -0.76% | 有望 |
-| JP | [4063.T](reports/2026-11-06/210414/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 80 | 83 | 21.04 | 204.00% | 2.14 | 11.75% | 有望 |
-| US | [SNOW](reports/2026-11-06/210414/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | 0.00% | 45.23 | -48.06% | 有望 |
-| US | [SPOT](reports/2026-11-06/210414/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 50 | 82 | 36.75 | 0.00% | 12.62 | 35.81% | 有望 |
-| US | [PANW](reports/2026-11-06/210414/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 784.60 | 0.00% | 9.30 | 1.74% | 有望 |
+| US | [QCOM](reports/2026-11-06/210800/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 100 | 100 | 13.02 | 235.00% | 5.83 | 52.81% | 有望 |
+| JP | [9984.T](reports/2026-11-06/210800/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 4.13 | 28.00% | 1.11 | 31.96% | 有望 |
+| JP | [9432.T](reports/2026-11-06/210800/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 12.55 | 327.00% | 1.31 | 9.75% | 有望 |
+| US | [AVGO](reports/2026-11-06/210800/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 37.51 | 89.00% | 14.06 | 44.25% | 有望 |
+| JP | [8766.T](reports/2026-11-06/210800/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | 49.16 | 2145.00% | 1.98 | - | 有望 |
+| JP | [4307.T](reports/2026-11-06/210800/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 146.17 | 148.00% | 8.40 | - | 有望 |
+| US | [TWLO](reports/2026-11-06/210800/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 25.37 | 0.00% | 3.41 | 14.92% | 有望 |
+| US | [SNAP](reports/2026-11-06/210800/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 3.71 | -15.58% | 有望 |
+| US | [TSLA](reports/2026-11-06/210800/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 393.65 | 0.00% | 15.86 | 3.84% | 有望 |
+| JP | [6273.T](reports/2026-11-06/210800/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 60 | 80 | 73 | 21.05 | 169.00% | 1.61 | 9.85% | 監視 |
