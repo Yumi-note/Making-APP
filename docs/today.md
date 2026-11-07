@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-07 19:37:49 JST / 実行ID: 2026-11-07-193749</div>
+<div class="meta-line">最終更新: 2026-11-07 19:40:09 JST / 実行ID: 2026-11-07-194009</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [7203.T](reports/2026-11-07/193749/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.67 | 300.00% | 1.05 | 11.58% | 有望 |
-| JP | [9101.T](reports/2026-11-07/193749/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 100 | 100 | 100 | 8.75 | 497.00% | 0.84 | 10.41% | 有望 |
-| JP | [6902.T](reports/2026-11-07/193749/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.83 | 398.00% | 0.91 | 8.93% | 有望 |
-| US | [META](reports/2026-11-07/193749/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.82 | 34.00% | 5.73 | 32.26% | 有望 |
-| JP | [3382.T](reports/2026-11-07/193749/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.29 | 277.00% | 1.32 | 8.08% | 有望 |
-| JP | [8411.T](reports/2026-11-07/193749/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 12.84 | 208.00% | 1.52 | 12.49% | 有望 |
-| US | [TXN](reports/2026-11-07/193749/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 35.97 | 219.00% | 13.21 | 39.72% | 有望 |
-| US | [AAPL](reports/2026-11-07/193749/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 38.13 | 32.00% | 44.39 | 142.26% | 有望 |
-| US | [NFLX](reports/2026-11-07/193749/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 18.33 | 0.00% | 8.89 | 53.46% | 有望 |
-| US | [AMD](reports/2026-11-07/193749/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 95.95 | 0.00% | 10.77 | 11.96% | 有望 |
+| US | [CRM](reports/2026-11-07/194009/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 19.55 | 82.00% | 4.58 | 19.38% | 有望 |
+| US | [ORCL](reports/2026-11-07/194009/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 18.20 | 172.00% | 5.68 | 41.19% | 有望 |
+| JP | [6758.T](reports/2026-11-07/194009/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 90 | 96 | 19.63 | 85.00% | 2.83 | 15.05% | 有望 |
+| US | [MSFT](reports/2026-11-07/194009/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.69 | 74.00% | 8.38 | 34.22% | 有望 |
+| JP | [6367.T](reports/2026-11-07/194009/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 21.75 | 170.00% | 2.04 | 9.78% | 有望 |
+| US | [ADBE](reports/2026-11-07/194009/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.36 | 0.00% | 7.95 | 61.90% | 有望 |
+| JP | [4502.T](reports/2026-11-07/194009/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 293.91 | 311.00% | 1.41 | 0.56% | 有望 |
+| US | [AMZN](reports/2026-11-07/194009/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 20.96 | 0.00% | 4.57 | 27.42% | 有望 |
+| JP | [6594.T](reports/2026-11-07/194009/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 50 | 82 | - | 0.00% | 2.33 | -61.33% | 有望 |
+| JP | [9020.T](reports/2026-11-07/194009/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 17.61 | 230.00% | 1.37 | 8.22% | 監視 |
