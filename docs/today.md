@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-09 23:51:57 JST / 実行ID: 2026-11-09-235157</div>
+<div class="meta-line">最終更新: 2026-11-10 21:26:23 JST / 実行ID: 2026-11-10-212623</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-11-09/235157/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 100 | 100 | 13.50 | 222.00% | 6.05 | 52.81% | 有望 |
-| JP | [6902.T](reports/2026-11-09/235157/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 100 | 100 | 11.83 | 398.00% | 0.94 | 8.93% | 有望 |
-| JP | [1605.T](reports/2026-11-09/235157/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 9.49 | 328.00% | 0.80 | 9.27% | 有望 |
-| JP | [7203.T](reports/2026-11-09/235157/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.67 | 300.00% | 1.10 | 11.58% | 有望 |
-| US | [META](reports/2026-11-09/235157/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 21.88 | 34.00% | 6.02 | 32.26% | 有望 |
-| JP | [9433.T](reports/2026-11-09/235157/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.99 | 296.00% | 2.08 | 14.51% | 有望 |
-| US | [MSFT](reports/2026-11-09/235157/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 28.45 | 74.00% | 8.61 | 34.22% | 有望 |
-| US | [AAPL](reports/2026-11-09/235157/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 39.05 | 32.00% | 45.47 | 142.26% | 有望 |
-| JP | [8766.T](reports/2026-11-09/235157/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | 50.40 | 2281.00% | 2.03 | - | 有望 |
-| US | [SPOT](reports/2026-11-09/235157/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 50 | 82 | 37.12 | 0.00% | 12.75 | 35.81% | 有望 |
+| US | [CRM](reports/2026-11-10/212623/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 19.53 | 82.00% | 4.58 | 19.38% | 有望 |
+| JP | [6758.T](reports/2026-11-10/212623/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.08 | 81.00% | 2.89 | 15.05% | 有望 |
+| JP | [7974.T](reports/2026-11-10/212623/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 21.95 | 294.00% | 3.27 | 15.38% | 有望 |
+| JP | [6098.T](reports/2026-11-10/212623/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 43.92 | 15.00% | 14.09 | 36.22% | 有望 |
+| JP | [8035.T](reports/2026-11-10/212623/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 50.55 | 183.00% | 9.29 | 33.80% | 有望 |
+| US | [ABNB](reports/2026-11-10/212623/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 35.07 | 0.00% | 11.82 | 35.79% | 有望 |
+| US | [AMD](reports/2026-11-10/212623/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 110.09 | 0.00% | 12.35 | 11.96% | 有望 |
+| US | [PANW](reports/2026-11-10/212623/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 815.90 | 0.00% | 9.67 | 1.74% | 有望 |
+| US | [UBER](reports/2026-11-10/212623/UBER.md) / [企業研究](research/UBER.md) | Uber Technologies, Inc. | 100 | 50 | 82 | 41.21 | 0.00% | 5.16 | 12.33% | 有望 |
+| JP | [4543.T](reports/2026-11-10/212623/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 70 | 80 | 78 | 22.52 | 141.00% | 2.23 | 10.85% | 有望 |
