@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-11-10 21:30:20 JST / 実行ID: 2026-11-10-213020</div>
+<div class="meta-line">最終更新: 2026-11-11 22:17:01 JST / 実行ID: 2026-11-11-221701</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| 9984.T | JP | SoftBank Group Corp. | 中位 | [詳細](./9984_T.md) |
-| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
-| 8306.T | JP | Mitsubishi UFJ Financial Group, Inc. | 上位 | [詳細](./8306_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 下位 | [詳細](./2914_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| 7267.T | JP | Honda Motor Co., Ltd. | 下位 | [詳細](./7267_T.md) |
-| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
+| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
+| DIS | US | The Walt Disney Company | 下位 | [詳細](./DIS.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| 3382.T | JP | Seven & i Holdings Co., Ltd. | 中位 | [詳細](./3382_T.md) |
+| 6501.T | JP | Hitachi, Ltd. | 上位 | [詳細](./6501_T.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
+| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
+| TSLA | US | Tesla, Inc. | 上位 | [詳細](./TSLA.md) |
+| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
