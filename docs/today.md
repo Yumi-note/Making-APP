@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-12 21:55:56 JST / 実行ID: 2026-11-12-215556</div>
+<div class="meta-line">最終更新: 2026-11-13 21:38:31 JST / 実行ID: 2026-11-13-213831</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [CRM](reports/2026-11-12/215556/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 19.91 | 81.00% | 4.67 | 19.38% | 有望 |
-| JP | [8316.T](reports/2026-11-12/215556/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.66 | 273.00% | 1.54 | 8.57% | 有望 |
-| JP | [9432.T](reports/2026-11-12/215556/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 14.59 | 333.00% | 1.37 | 9.75% | 有望 |
-| US | [MSFT](reports/2026-11-12/215556/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.30 | 75.00% | 8.26 | 34.22% | 有望 |
-| JP | [7974.T](reports/2026-11-12/215556/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 22.24 | 302.00% | 3.31 | 15.38% | 有望 |
-| JP | [4063.T](reports/2026-11-12/215556/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 80 | 83 | 22.94 | 203.00% | 2.33 | 11.75% | 有望 |
-| US | [SNAP](reports/2026-11-12/215556/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 4.02 | -6.78% | 有望 |
-| US | [AMD](reports/2026-11-12/215556/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 125.06 | 0.00% | 14.04 | 11.96% | 有望 |
-| US | [PANW](reports/2026-11-12/215556/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 806.65 | 0.00% | 9.57 | 1.74% | 有望 |
-| JP | [4543.T](reports/2026-11-12/215556/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 70 | 80 | 78 | 22.94 | 143.00% | 2.27 | 10.85% | 有望 |
+| JP | [9101.T](reports/2026-11-13/213831/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 100 | 100 | 100 | 9.12 | 485.00% | 0.87 | 10.24% | 有望 |
+| US | [NVDA](reports/2026-11-13/213831/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 90 | 96 | 20.59 | 60.00% | 17.17 | 117.21% | 有望 |
+| US | [GOOGL](reports/2026-11-13/213831/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 90 | 96 | 15.44 | 29.00% | 5.51 | 44.29% | 有望 |
+| JP | [8306.T](reports/2026-11-13/213831/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 14.70 | 274.00% | 1.72 | 9.46% | 有望 |
+| JP | [7751.T](reports/2026-11-13/213831/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.22 | 334.00% | 1.21 | 11.03% | 有望 |
+| JP | [9984.T](reports/2026-11-13/213831/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 90 | 96 | 15.74 | 29.00% | 1.23 | 9.76% | 有望 |
+| US | [AMAT](reports/2026-11-13/213831/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 80 | 93 | 29.36 | 56.00% | 11.25 | 43.37% | 有望 |
+| US | [ZM](reports/2026-11-13/213831/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 9.26 | 0.00% | 2.58 | 32.14% | 有望 |
+| JP | [6098.T](reports/2026-11-13/213831/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 37.44 | 16.00% | 13.31 | 39.71% | 有望 |
+| US | [ABNB](reports/2026-11-13/213831/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 50 | 82 | 35.04 | 0.00% | 11.81 | 35.79% | 有望 |
