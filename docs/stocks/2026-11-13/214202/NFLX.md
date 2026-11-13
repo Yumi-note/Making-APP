@@ -1,0 +1,45 @@
+# NFLX レポート
+
+> このページの目的: 単一銘柄のファンダメンタル・価格推移・ニュースを確認し、候補採用可否を判断する。
+
+- 最終更新: 2026-11-13 21:42:02 JST
+- 実行ID: 2026-11-13-214202
+
+## 基本情報
+
+- **longName**: Netflix, Inc.
+- **symbol**: NFLX
+- **sector**: Communication Services
+- **industry**: Entertainment
+- **country**: United States
+- **marketCap**: 255208161280
+
+## 株価チャート（3年）
+
+![NFLX 3-year price chart](NFLX_3y.png)
+
+## 主要指標
+
+- [指標の見方ヘルプ](../../../../indicators.md)
+
+| 指標 | 値 |
+|---|---:|
+| PER | 17.96 |
+| 配当利回り | 0.00% |
+| PBR | 8.71 |
+| ROE | 53.46% |
+| Debt/Equity | 59.86 |
+| 売上成長率 | 11.80% |
+| Beta | 1.61 |
+
+## yfinance ニュース
+
+1. [None](None)
+2. [None](None)
+3. [None](None)
+4. [None](None)
+5. [None](None)
+
+## NewsAPI ニュース
+
+- NewsAPI でニュースが取得されませんでした。
