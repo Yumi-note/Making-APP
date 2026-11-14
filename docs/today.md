@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-14 20:05:08 JST / 実行ID: 2026-11-14-200508</div>
+<div class="meta-line">最終更新: 2026-11-14 20:08:33 JST / 実行ID: 2026-11-14-200833</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-11-14/200508/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 100 | 100 | 13.58 | 213.00% | 6.08 | 52.81% | 有望 |
-| US | [MU](reports/2026-11-14/200508/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 100 | 100 | 10.47 | 8.00% | 6.36 | 88.26% | 有望 |
-| JP | [2914.T](reports/2026-11-14/200508/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 90 | 96 | 17.40 | 458.00% | 2.56 | 14.66% | 有望 |
-| JP | [9433.T](reports/2026-11-14/200508/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 15.11 | 295.00% | 2.11 | 14.51% | 有望 |
-| JP | [4502.T](reports/2026-11-14/200508/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 310.30 | 295.00% | 1.49 | 0.56% | 有望 |
-| JP | [4307.T](reports/2026-11-14/200508/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 151.44 | 153.00% | 8.70 | - | 有望 |
-| US | [TWLO](reports/2026-11-14/200508/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 55 | 84 | 26.53 | 0.00% | 3.56 | 14.92% | 有望 |
-| US | [PLTR](reports/2026-11-14/200508/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 118.30 | 0.00% | 36.04 | 40.91% | 有望 |
-| US | [SNOW](reports/2026-11-14/200508/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | 0.00% | 47.71 | -48.06% | 有望 |
-| JP | [9020.T](reports/2026-11-14/200508/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 18.85 | 215.00% | 1.47 | 8.22% | 監視 |
+| US | [DIS](reports/2026-11-14/200833/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 24.53 | 126.00% | 1.87 | 8.01% | 有望 |
+| US | [CRM](reports/2026-11-14/200833/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 19.93 | 81.00% | 4.67 | 19.38% | 有望 |
+| JP | [6902.T](reports/2026-11-14/200833/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 12.31 | 382.00% | 0.94 | 8.93% | 有望 |
+| JP | [3382.T](reports/2026-11-14/200833/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.56 | 273.00% | 1.34 | 8.08% | 有望 |
+| US | [CSCO](reports/2026-11-14/200833/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 25.44 | 165.00% | 7.51 | 27.32% | 有望 |
+| US | [MSFT](reports/2026-11-14/200833/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 27.34 | 75.00% | 8.27 | 34.22% | 有望 |
+| JP | [7974.T](reports/2026-11-14/200833/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 22.79 | 288.00% | 3.39 | 15.38% | 有望 |
+| JP | [6758.T](reports/2026-11-14/200833/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.63 | 80.00% | 2.97 | 15.05% | 有望 |
+| JP | [8766.T](reports/2026-11-14/200833/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | 51.52 | 262.00% | 2.08 | - | 有望 |
+| US | [AMD](reports/2026-11-14/200833/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 114.12 | 0.00% | 12.81 | 11.96% | 有望 |
