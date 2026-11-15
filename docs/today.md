@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-15 20:34:56 JST / 実行ID: 2026-11-15-203456</div>
+<div class="meta-line">最終更新: 2026-11-15 20:38:27 JST / 実行ID: 2026-11-15-203827</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| JP | [9104.T](reports/2026-11-15/203456/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.50 | 315.00% | 0.77 | 9.66% | 有望 |
-| US | [NVDA](reports/2026-11-15/203456/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 90 | 96 | 20.59 | 61.00% | 17.17 | 117.21% | 有望 |
-| JP | [4568.T](reports/2026-11-15/203456/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.64 | 351.00% | 2.96 | 17.59% | 有望 |
-| JP | [9984.T](reports/2026-11-15/203456/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 90 | 96 | 15.74 | 31.00% | 1.23 | 9.76% | 有望 |
-| US | [ADBE](reports/2026-11-15/203456/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 13.57 | 0.00% | 8.08 | 61.90% | 有望 |
-| US | [ZM](reports/2026-11-15/203456/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 9.26 | 0.00% | 2.58 | 32.14% | 有望 |
-| US | [NFLX](reports/2026-11-15/203456/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 17.96 | 0.00% | 8.71 | 53.46% | 有望 |
-| US | [SNAP](reports/2026-11-15/203456/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 4.05 | -6.78% | 有望 |
-| JP | [6594.T](reports/2026-11-15/203456/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 50 | 82 | - | 0.00% | 2.58 | -61.33% | 有望 |
-| JP | [4543.T](reports/2026-11-15/203456/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 70 | 75 | 76 | 31.16 | 150.00% | 2.22 | 7.49% | 有望 |
+| US | [ORCL](reports/2026-11-15/203827/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 19.65 | 160.00% | 6.13 | 41.19% | 有望 |
+| JP | [8316.T](reports/2026-11-15/203827/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.69 | 305.00% | 1.57 | 8.11% | 有望 |
+| JP | [2914.T](reports/2026-11-15/203827/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 90 | 96 | 17.40 | 458.00% | 2.56 | 14.66% | 有望 |
+| JP | [6367.T](reports/2026-11-15/203827/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.44 | 158.00% | 2.19 | 9.78% | 有望 |
+| US | [AVGO](reports/2026-11-15/203827/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 44.32 | 75.00% | 16.62 | 44.25% | 有望 |
+| JP | [8035.T](reports/2026-11-15/203827/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 53.10 | 165.00% | 9.76 | 33.80% | 有望 |
+| US | [SNOW](reports/2026-11-15/203827/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | 0.00% | 47.71 | -48.06% | 有望 |
+| US | [SHOP](reports/2026-11-15/203827/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 90.24 | 0.00% | 14.84 | 16.83% | 有望 |
+| US | [PANW](reports/2026-11-15/203827/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 805.60 | 0.00% | 9.55 | 1.74% | 有望 |
+| JP | [9020.T](reports/2026-11-15/203827/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 18.85 | 215.00% | 1.47 | 8.22% | 監視 |
