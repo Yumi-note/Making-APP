@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-11-15 20:38:27 JST / 実行ID: 2026-11-15-203827</div>
+<div class="meta-line">最終更新: 2026-11-16 23:50:49 JST / 実行ID: 2026-11-16-235049</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| ORCL | US | Oracle Corporation | 中位 | [詳細](./ORCL.md) |
-| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
-| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
-| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
-| AVGO | US | Broadcom Inc. | 上位 | [詳細](./AVGO.md) |
-| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
-| SNOW | US | Snowflake Inc. | 下位 | [詳細](./SNOW.md) |
-| SHOP | US | Shopify Inc. | 下位 | [詳細](./SHOP.md) |
-| PANW | US | Palo Alto Networks, Inc. | 中位 | [詳細](./PANW.md) |
-| 9020.T | JP | East Japan Railway Company | 下位 | [詳細](./9020_T.md) |
+| PYPL | US | PayPal Holdings, Inc. | 下位 | [詳細](./PYPL.md) |
+| IBM | US | International Business Machines Corporation | 中位 | [詳細](./IBM.md) |
+| 6902.T | JP | DENSO Corporation | 下位 | [詳細](./6902_T.md) |
+| 7751.T | JP | Canon Inc. | 下位 | [詳細](./7751_T.md) |
+| CSCO | US | Cisco Systems, Inc. | 上位 | [詳細](./CSCO.md) |
+| AMAT | US | Applied Materials, Inc. | 中位 | [詳細](./AMAT.md) |
+| 6758.T | JP | Sony Group Corporation | 上位 | [詳細](./6758_T.md) |
+| 7267.T | JP | Honda Motor Co., Ltd. | 中位 | [詳細](./7267_T.md) |
+| 4502.T | JP | Takeda Pharmaceutical Company Limited | 中位 | [詳細](./4502_T.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
