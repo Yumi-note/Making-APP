@@ -1,12 +1,12 @@
-# 7751.T 企業研究
+# TWLO 企業研究
 
 <div class="purpose">このページの目的: 企業の事業実態と業界立ち位置を把握し、中長期視点で判断する。</div>
 
-<div class="meta-line">最終更新: 2026-11-16 23:50:49 JST / 実行ID: 2026-11-16-235049</div>
+<div class="meta-line">最終更新: 2026-11-16 23:52:55 JST / 実行ID: 2026-11-16-235255</div>
 
 ## 画面遷移ガイド
 
-- 現在地: **企業研究: 7751.T**
+- 現在地: **企業研究: TWLO**
 - 次に見るページ:
   - [企業研究一覧](index.md): 他銘柄の研究ページへ
   - [今日の候補10銘柄](../today.md): 候補全体に戻る
@@ -14,17 +14,17 @@
 
 ## 企業の基本像
 
-- 企業名: Canon Inc.
-- 市場: JP
-- 国: Japan
+- 企業名: Twilio Inc.
+- 市場: US
+- 国: United States
 - セクター: Technology
-- 業種: Computer Hardware
-- 時価総額: 4.06T
-- 公式サイト: https://global.canon
+- 業種: Software - Infrastructure
+- 時価総額: 30.86B
+- 公式サイト: https://www.twilio.com
 
 ## この企業は何をしているか
 
-Canon Inc.（7751.T）はJapanを主な事業基盤とするTechnologyセクターの企業で、市場区分はJPです。業種はComputer Hardwareに属し、時価総額は4.06T、従業員規模は約165,547名です。
+Twilio Inc.（TWLO）はUnited Statesを主な事業基盤とするTechnologyセクターの企業で、市場区分はUSです。業種はSoftware - Infrastructureに属し、時価総額は30.86B、従業員規模は約5,625名です。
 
 事業の柱はソフトウェア/クラウド、半導体・ハードウェア、広告/プラットフォームで、単一事業に依存するのではなく複数領域を組み合わせて収益基盤を形成している点が特徴です。中長期で見る際は、既存事業の安定性と成長投資領域の拡大余地を併せて確認すると、事業の持続性を判断しやすくなります。
 
@@ -55,7 +55,7 @@ Canon Inc.（7751.T）はJapanを主な事業基盤とするTechnologyセクタ�
 
 ## 割安性コメント（国別基準）
 
-- PER基準(JP): 12以下が割安目安。PER 12.31 は中立。配当利回り 331.00% は高水準。
+- PER基準(US): 15以下が割安目安。PER 25.05 は割高寄り。配当利回り 0.00% は低め。
 
 ## 日常生活への影響
 
@@ -69,5 +69,5 @@ Canon Inc.（7751.T）はJapanを主な事業基盤とするTechnologyセクタ�
 
 ## 銘柄選定への接続
 
-- [当日の銘柄レポート](../reports/2026-11-16/235049/7751_T.md)
-- News Score: 100 / Value Score: 90 / 総合: 96
+- [当日の銘柄レポート](../reports/2026-11-16/235255/TWLO.md)
+- News Score: 100 / Value Score: 55 / 総合: 84
