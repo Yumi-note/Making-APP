@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-11-17 23:10:03 JST / 実行ID: 2026-11-17-231003</div>
+<div class="meta-line">最終更新: 2026-11-17 23:12:46 JST / 実行ID: 2026-11-17-231246</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| QCOM | US | QUALCOMM Incorporated | 中位 | [詳細](./QCOM.md) |
-| 7203.T | JP | Toyota Motor Corporation | 上位 | [詳細](./7203_T.md) |
-| 3382.T | JP | Seven & i Holdings Co., Ltd. | 下位 | [詳細](./3382_T.md) |
-| 6501.T | JP | Hitachi, Ltd. | 中位 | [詳細](./6501_T.md) |
-| ZM | US | Zoom Communications, Inc. | 下位 | [詳細](./ZM.md) |
-| 6098.T | JP | Recruit Holdings Co., Ltd. | 中位 | [詳細](./6098_T.md) |
-| NFLX | US | Netflix, Inc. | 中位 | [詳細](./NFLX.md) |
-| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
-| AMD | US | Advanced Micro Devices, Inc. | 上位 | [詳細](./AMD.md) |
-| 6594.T | JP | Nidec Corporation | 下位 | [詳細](./6594_T.md) |
+| 9104.T | JP | Mitsui O.S.K. Lines, Ltd. | 下位 | [詳細](./9104_T.md) |
+| 2914.T | JP | Japan Tobacco Inc. | 中位 | [詳細](./2914_T.md) |
+| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 中位 | [詳細](./4568_T.md) |
+| MSFT | US | Microsoft Corporation | 中位 | [詳細](./MSFT.md) |
+| AAPL | US | Apple Inc. | 上位 | [詳細](./AAPL.md) |
+| AVGO | US | Broadcom Inc. | 中位 | [詳細](./AVGO.md) |
+| TXN | US | Texas Instruments Incorporated | 下位 | [詳細](./TXN.md) |
+| 4307.T | JP | Nomura Research Institute, Ltd. | 下位 | [詳細](./4307_T.md) |
+| SNAP | US | Snap Inc. | 下位 | [詳細](./SNAP.md) |

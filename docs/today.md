@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-17 23:10:03 JST / 実行ID: 2026-11-17-231003</div>
+<div class="meta-line">最終更新: 2026-11-17 23:12:46 JST / 実行ID: 2026-11-17-231246</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-11-17/231003/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 100 | 100 | 13.12 | 218.00% | 5.88 | 52.81% | 有望 |
-| JP | [7203.T](reports/2026-11-17/231003/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.93 | 292.00% | 1.07 | 11.58% | 有望 |
-| JP | [3382.T](reports/2026-11-17/231003/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.79 | 269.00% | 1.36 | 8.08% | 有望 |
-| JP | [6501.T](reports/2026-11-17/231003/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 28.95 | 121.00% | 3.28 | 12.34% | 有望 |
-| US | [ZM](reports/2026-11-17/231003/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 8.49 | 0.00% | 2.37 | 32.14% | 有望 |
-| JP | [6098.T](reports/2026-11-17/231003/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 38.80 | 15.00% | 13.79 | 39.71% | 有望 |
-| US | [NFLX](reports/2026-11-17/231003/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 17.25 | 0.00% | 8.37 | 53.46% | 有望 |
-| US | [ABNB](reports/2026-11-17/231003/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 33.95 | 0.00% | 11.44 | 35.79% | 有望 |
-| US | [AMD](reports/2026-11-17/231003/AMD.md) / [企業研究](research/AMD.md) | Advanced Micro Devices, Inc. | 100 | 50 | 82 | 107.57 | 0.00% | 12.07 | 11.96% | 有望 |
-| JP | [6594.T](reports/2026-11-17/231003/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 50 | 82 | - | 0.00% | 2.41 | -61.33% | 有望 |
+| JP | [9104.T](reports/2026-11-17/231246/9104_T.md) / [企業研究](research/9104_T.md) | Mitsui O.S.K. Lines, Ltd. | 100 | 100 | 100 | 8.34 | 321.00% | 0.75 | 9.66% | 有望 |
+| JP | [2914.T](reports/2026-11-17/231246/2914_T.md) / [企業研究](research/2914_T.md) | Japan Tobacco Inc. | 100 | 90 | 96 | 17.31 | 460.00% | 2.56 | 14.66% | 有望 |
+| JP | [9432.T](reports/2026-11-17/231246/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 14.68 | 320.00% | 1.39 | 9.75% | 有望 |
+| JP | [4568.T](reports/2026-11-17/231246/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.16 | 348.00% | 2.88 | 17.59% | 有望 |
+| US | [MSFT](reports/2026-11-17/231246/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 26.42 | 76.00% | 7.99 | 34.22% | 有望 |
+| US | [AAPL](reports/2026-11-17/231246/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 39.19 | 31.00% | 45.63 | 142.26% | 有望 |
+| US | [AVGO](reports/2026-11-17/231246/AVGO.md) / [企業研究](research/AVGO.md) | Broadcom Inc. | 100 | 75 | 91 | 43.63 | 78.00% | 16.36 | 44.25% | 有望 |
+| US | [TXN](reports/2026-11-17/231246/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 38.37 | 207.00% | 14.10 | 39.72% | 有望 |
+| JP | [4307.T](reports/2026-11-17/231246/4307_T.md) / [企業研究](research/4307_T.md) | Nomura Research Institute, Ltd. | 100 | 75 | 91 | 154.28 | 150.00% | 8.71 | - | 有望 |
+| US | [SNAP](reports/2026-11-17/231246/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 4.23 | -6.78% | 有望 |
