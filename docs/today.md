@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-18 22:42:35 JST / 実行ID: 2026-11-18-224235</div>
+<div class="meta-line">最終更新: 2026-11-19 22:46:18 JST / 実行ID: 2026-11-19-224618</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [MU](reports/2026-11-18/224235/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 100 | 100 | 9.49 | 8.00% | 5.76 | 88.26% | 有望 |
-| US | [IBM](reports/2026-11-18/224235/IBM.md) / [企業研究](research/IBM.md) | International Business Machines Corporation | 100 | 90 | 96 | 19.50 | 293.00% | 6.08 | 34.77% | 有望 |
-| JP | [9984.T](reports/2026-11-18/224235/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 90 | 96 | 14.56 | 34.00% | 1.18 | 9.76% | 有望 |
-| US | [CSCO](reports/2026-11-18/224235/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 25.85 | 177.00% | 7.43 | 30.38% | 有望 |
-| US | [AMAT](reports/2026-11-18/224235/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 80 | 93 | 27.92 | 61.00% | 10.70 | 43.37% | 有望 |
-| JP | [6758.T](reports/2026-11-18/224235/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 20.24 | 82.00% | 2.90 | 15.05% | 有望 |
-| US | [ADBE](reports/2026-11-18/224235/ADBE.md) / [企業研究](research/ADBE.md) | Adobe Inc. | 100 | 75 | 91 | 12.63 | 0.00% | 7.52 | 61.90% | 有望 |
-| JP | [8766.T](reports/2026-11-18/224235/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | 50.16 | 268.00% | 2.02 | - | 有望 |
-| JP | [8035.T](reports/2026-11-18/224235/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 48.59 | 180.00% | 8.97 | 33.80% | 有望 |
-| JP | [4543.T](reports/2026-11-18/224235/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 90 | 75 | 86 | 32.56 | 144.00% | 2.34 | 7.49% | 有望 |
+| US | [GOOGL](reports/2026-11-19/224618/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 100 | 100 | 14.24 | 31.00% | 5.08 | 44.29% | 有望 |
+| JP | [1605.T](reports/2026-11-19/224618/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 7.70 | 324.00% | 0.78 | 11.17% | 有望 |
+| JP | [9101.T](reports/2026-11-19/224618/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 100 | 100 | 100 | 8.71 | 483.00% | 0.83 | 10.24% | 有望 |
+| US | [NVDA](reports/2026-11-19/224618/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 90 | 96 | 15.68 | 66.00% | 13.20 | 117.36% | 有望 |
+| JP | [7751.T](reports/2026-11-19/224618/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.17 | 335.00% | 1.21 | 11.03% | 有望 |
+| JP | [6367.T](reports/2026-11-19/224618/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.90 | 161.00% | 2.23 | 9.78% | 有望 |
+| JP | [4502.T](reports/2026-11-19/224618/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 307.79 | 297.00% | 1.50 | 0.56% | 有望 |
+| US | [AMZN](reports/2026-11-19/224618/AMZN.md) / [企業研究](research/AMZN.md) | Amazon.com, Inc. | 100 | 65 | 88 | 20.81 | 0.00% | 4.53 | 27.42% | 有望 |
+| US | [TWLO](reports/2026-11-19/224618/TWLO.md) / [企業研究](research/TWLO.md) | Twilio Inc. | 100 | 65 | 88 | 22.46 | 0.00% | 3.02 | 14.92% | 有望 |
+| US | [SHOP](reports/2026-11-19/224618/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 80.96 | 0.00% | 13.32 | 16.83% | 有望 |
