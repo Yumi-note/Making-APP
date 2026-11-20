@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-20 22:21:32 JST / 実行ID: 2026-11-20-222132</div>
+<div class="meta-line">最終更新: 2026-11-20 22:24:53 JST / 実行ID: 2026-11-20-222453</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [QCOM](reports/2026-11-20/222132/QCOM.md) / [企業研究](research/QCOM.md) | QUALCOMM Incorporated | 100 | 100 | 100 | 11.81 | 227.00% | 5.29 | 52.81% | 有望 |
-| US | [PYPL](reports/2026-11-20/222132/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 10.17 | 99.00% | 2.29 | 23.82% | 有望 |
-| JP | [7203.T](reports/2026-11-20/222132/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.60 | 296.00% | 1.04 | 11.58% | 有望 |
-| JP | [8316.T](reports/2026-11-20/222132/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 13.53 | 325.00% | 1.41 | 8.11% | 有望 |
-| JP | [6501.T](reports/2026-11-20/222132/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 80 | 93 | 27.95 | 118.00% | 3.24 | 12.34% | 有望 |
-| JP | [6098.T](reports/2026-11-20/222132/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 35.90 | 15.00% | 12.76 | 39.71% | 有望 |
-| US | [ABNB](reports/2026-11-20/222132/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 31.96 | 0.00% | 10.78 | 35.79% | 有望 |
-| US | [PLTR](reports/2026-11-20/222132/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 101.05 | 0.00% | 30.79 | 40.91% | 有望 |
-| US | [PANW](reports/2026-11-20/222132/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 602.32 | 0.00% | 9.81 | 2.44% | 有望 |
-| JP | [9020.T](reports/2026-11-20/222132/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 18.52 | 214.00% | 1.44 | 8.22% | 監視 |
+| US | [ORCL](reports/2026-11-20/222453/ORCL.md) / [企業研究](research/ORCL.md) | Oracle Corporation | 100 | 90 | 96 | 15.86 | 181.00% | 4.95 | 41.19% | 有望 |
+| JP | [9432.T](reports/2026-11-20/222453/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 14.61 | 320.00% | 1.37 | 9.75% | 有望 |
+| JP | [4568.T](reports/2026-11-20/222453/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 17.69 | 362.00% | 2.81 | 17.59% | 有望 |
+| JP | [3382.T](reports/2026-11-20/222453/3382_T.md) / [企業研究](research/3382_T.md) | Seven & i Holdings Co., Ltd. | 100 | 90 | 96 | 17.19 | 274.00% | 1.32 | 8.08% | 有望 |
+| JP | [7974.T](reports/2026-11-20/222453/7974_T.md) / [企業研究](research/7974_T.md) | Nintendo Co., Ltd. | 100 | 80 | 93 | 22.94 | 272.00% | 3.41 | 15.38% | 有望 |
+| US | [AAPL](reports/2026-11-20/222453/AAPL.md) / [企業研究](research/AAPL.md) | Apple Inc. | 100 | 75 | 91 | 38.15 | 31.00% | 44.41 | 142.26% | 有望 |
+| US | [ZM](reports/2026-11-20/222453/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 75 | 91 | 7.54 | 0.00% | 2.10 | 32.14% | 有望 |
+| US | [NFLX](reports/2026-11-20/222453/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 16.40 | 0.00% | 7.95 | 53.46% | 有望 |
+| JP | [4063.T](reports/2026-11-20/222453/4063_T.md) / [企業研究](research/4063_T.md) | Shin-Etsu Chemical Co., Ltd. | 80 | 90 | 86 | 19.30 | 210.00% | 2.11 | 11.75% | 有望 |
+| US | [SNAP](reports/2026-11-20/222453/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 3.50 | -6.78% | 有望 |
