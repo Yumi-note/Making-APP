@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-25 00:07:10 JST / 実行ID: 2026-11-25-000710</div>
+<div class="meta-line">最終更新: 2026-11-25 00:11:26 JST / 実行ID: 2026-11-25-001126</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [GOOGL](reports/2026-11-25/000710/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 100 | 100 | 14.57 | 31.00% | 5.20 | 44.29% | 有望 |
-| JP | [9101.T](reports/2026-11-25/000710/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 100 | 100 | 100 | 8.81 | 501.00% | 0.84 | 10.24% | 有望 |
-| US | [CSCO](reports/2026-11-25/000710/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 90 | 96 | 25.00 | 174.00% | 7.17 | 30.38% | 有望 |
-| JP | [9432.T](reports/2026-11-25/000710/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 14.48 | 322.00% | 1.36 | 9.75% | 有望 |
-| JP | [7751.T](reports/2026-11-25/000710/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.32 | 334.00% | 1.22 | 11.03% | 有望 |
-| US | [AMAT](reports/2026-11-25/000710/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 80 | 93 | 25.65 | 61.00% | 9.83 | 43.37% | 有望 |
-| JP | [4543.T](reports/2026-11-25/000710/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 90 | 75 | 86 | 33.09 | 141.00% | 2.35 | 7.49% | 有望 |
-| JP | [6273.T](reports/2026-11-25/000710/6273_T.md) / [企業研究](research/6273_T.md) | SMC Corporation | 80 | 90 | 86 | 16.13 | 181.00% | 1.74 | 10.53% | 有望 |
-| US | [TSLA](reports/2026-11-25/000710/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 422.73 | 0.00% | 17.03 | 3.84% | 有望 |
-| US | [PANW](reports/2026-11-25/000710/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 619.28 | 0.00% | 10.09 | 2.44% | 有望 |
+| US | [MU](reports/2026-11-25/001126/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 100 | 100 | 8.47 | 8.00% | 5.15 | 88.26% | 有望 |
+| US | [CRM](reports/2026-11-25/001126/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 17.68 | 95.00% | 4.14 | 19.38% | 有望 |
+| JP | [8316.T](reports/2026-11-25/001126/8316_T.md) / [企業研究](research/8316_T.md) | Sumitomo Mitsui Financial Group, Inc. | 100 | 90 | 96 | 14.03 | 341.00% | 1.46 | 8.11% | 有望 |
+| JP | [9433.T](reports/2026-11-25/001126/9433_T.md) / [企業研究](research/9433_T.md) | KDDI Corporation | 100 | 90 | 96 | 14.77 | 294.00% | 2.05 | 14.51% | 有望 |
+| JP | [4568.T](reports/2026-11-25/001126/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 17.88 | 369.00% | 2.84 | 17.59% | 有望 |
+| JP | [6367.T](reports/2026-11-25/001126/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.72 | 156.00% | 2.23 | 9.78% | 有望 |
+| JP | [8035.T](reports/2026-11-25/001126/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 46.64 | 188.00% | 9.23 | 33.80% | 有望 |
+| US | [ABNB](reports/2026-11-25/001126/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 32.53 | 0.00% | 10.97 | 35.79% | 有望 |
+| US | [PLTR](reports/2026-11-25/001126/PLTR.md) / [企業研究](research/PLTR.md) | Palantir Technologies Inc. | 100 | 50 | 82 | 113.51 | 0.00% | 34.58 | 40.91% | 有望 |
+| US | [SPOT](reports/2026-11-25/001126/SPOT.md) / [企業研究](research/SPOT.md) | Spotify Technology S.A. | 100 | 50 | 82 | 36.55 | 0.00% | 12.55 | 35.81% | 有望 |

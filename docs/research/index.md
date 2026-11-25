@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 銘柄選定だけでなく、企業そのものの理解を深める。</div>
 
-<div class="meta-line">最終更新: 2026-11-25 00:07:10 JST / 実行ID: 2026-11-25-000710</div>
+<div class="meta-line">最終更新: 2026-11-25 00:11:26 JST / 実行ID: 2026-11-25-001126</div>
 
 ## 画面遷移ガイド
 
@@ -14,13 +14,13 @@
 
 | 銘柄 | 市場 | 企業名 | 業界立ち位置 | 研究ページ |
 |---|---|---|---|---|
-| GOOGL | US | Alphabet Inc. | 上位 | [詳細](./GOOGL.md) |
-| 9101.T | JP | Nippon Yusen Kabushiki Kaisha | 下位 | [詳細](./9101_T.md) |
-| CSCO | US | Cisco Systems, Inc. | 中位 | [詳細](./CSCO.md) |
-| 9432.T | JP | NTT, Inc. | 上位 | [詳細](./9432_T.md) |
-| 7751.T | JP | Canon Inc. | 中位 | [詳細](./7751_T.md) |
-| AMAT | US | Applied Materials, Inc. | 下位 | [詳細](./AMAT.md) |
-| 4543.T | JP | Terumo Corporation | 中位 | [詳細](./4543_T.md) |
-| 6273.T | JP | SMC Corporation | 下位 | [詳細](./6273_T.md) |
-| TSLA | US | Tesla, Inc. | 中位 | [詳細](./TSLA.md) |
-| PANW | US | Palo Alto Networks, Inc. | 下位 | [詳細](./PANW.md) |
+| MU | US | Micron Technology, Inc. | 上位 | [詳細](./MU.md) |
+| CRM | US | Salesforce, Inc. | 中位 | [詳細](./CRM.md) |
+| 8316.T | JP | Sumitomo Mitsui Financial Group, Inc. | 上位 | [詳細](./8316_T.md) |
+| 9433.T | JP | KDDI Corporation | 中位 | [詳細](./9433_T.md) |
+| 4568.T | JP | Daiichi Sankyo Company, Limited | 下位 | [詳細](./4568_T.md) |
+| 6367.T | JP | Daikin Industries,Ltd. | 下位 | [詳細](./6367_T.md) |
+| 8035.T | JP | Tokyo Electron Limited | 中位 | [詳細](./8035_T.md) |
+| ABNB | US | Airbnb, Inc. | 下位 | [詳細](./ABNB.md) |
+| PLTR | US | Palantir Technologies Inc. | 中位 | [詳細](./PLTR.md) |
+| SPOT | US | Spotify Technology S.A. | 下位 | [詳細](./SPOT.md) |
