@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-27 00:08:27 JST / 実行ID: 2026-11-27-000827</div>
+<div class="meta-line">最終更新: 2026-11-27 23:44:26 JST / 実行ID: 2026-11-27-234426</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [PYPL](reports/2026-11-27/000827/PYPL.md) / [企業研究](research/PYPL.md) | PayPal Holdings, Inc. | 100 | 100 | 100 | 11.03 | 97.00% | 2.48 | 23.82% | 有望 |
-| JP | [7203.T](reports/2026-11-27/000827/7203_T.md) / [企業研究](research/7203_T.md) | Toyota Motor Corporation | 100 | 100 | 100 | 9.87 | 294.00% | 1.06 | 11.58% | 有望 |
-| US | [META](reports/2026-11-27/000827/META.md) / [企業研究](research/META.md) | Meta Platforms, Inc. | 100 | 90 | 96 | 20.81 | 34.00% | 5.72 | 32.26% | 有望 |
-| JP | [4568.T](reports/2026-11-27/000827/4568_T.md) / [企業研究](research/4568_T.md) | Daiichi Sankyo Company, Limited | 100 | 90 | 96 | 18.78 | 345.00% | 2.98 | 17.59% | 有望 |
-| JP | [6902.T](reports/2026-11-27/000827/6902_T.md) / [企業研究](research/6902_T.md) | DENSO Corporation | 100 | 90 | 96 | 12.28 | 379.00% | 0.94 | 8.93% | 有望 |
-| JP | [6758.T](reports/2026-11-27/000827/6758_T.md) / [企業研究](research/6758_T.md) | Sony Group Corporation | 100 | 80 | 93 | 21.38 | 78.00% | 3.04 | 15.05% | 有望 |
-| JP | [6098.T](reports/2026-11-27/000827/6098_T.md) / [企業研究](research/6098_T.md) | Recruit Holdings Co., Ltd. | 100 | 75 | 91 | 36.77 | 15.00% | 13.07 | 39.71% | 有望 |
-| US | [NFLX](reports/2026-11-27/000827/NFLX.md) / [企業研究](research/NFLX.md) | Netflix, Inc. | 100 | 65 | 88 | 17.17 | 0.00% | 8.33 | 53.46% | 有望 |
-| US | [SNAP](reports/2026-11-27/000827/SNAP.md) / [企業研究](research/SNAP.md) | Snap Inc. | 100 | 50 | 82 | - | 0.00% | 3.88 | -6.78% | 有望 |
-| US | [PANW](reports/2026-11-27/000827/PANW.md) / [企業研究](research/PANW.md) | Palo Alto Networks, Inc. | 100 | 50 | 82 | 624.81 | 0.00% | 10.18 | 2.44% | 有望 |
+| US | [NVDA](reports/2026-11-27/234426/NVDA.md) / [企業研究](research/NVDA.md) | NVIDIA Corporation | 100 | 90 | 96 | 16.16 | 67.00% | 13.60 | 117.36% | 有望 |
+| US | [CRM](reports/2026-11-27/234426/CRM.md) / [企業研究](research/CRM.md) | Salesforce, Inc. | 100 | 90 | 96 | 18.13 | 89.00% | 4.25 | 19.38% | 有望 |
+| JP | [7751.T](reports/2026-11-27/234426/7751_T.md) / [企業研究](research/7751_T.md) | Canon Inc. | 100 | 90 | 96 | 12.62 | 321.00% | 1.25 | 11.03% | 有望 |
+| US | [MSFT](reports/2026-11-27/234426/MSFT.md) / [企業研究](research/MSFT.md) | Microsoft Corporation | 100 | 80 | 93 | 25.72 | 80.00% | 7.78 | 34.22% | 有望 |
+| JP | [6367.T](reports/2026-11-27/234426/6367_T.md) / [企業研究](research/6367_T.md) | Daikin Industries,Ltd. | 100 | 80 | 93 | 23.82 | 155.00% | 2.21 | 9.78% | 有望 |
+| JP | [8035.T](reports/2026-11-27/234426/8035_T.md) / [企業研究](research/8035_T.md) | Tokyo Electron Limited | 100 | 75 | 91 | 44.18 | 198.00% | 8.48 | 33.80% | 有望 |
+| JP | [4502.T](reports/2026-11-27/234426/4502_T.md) / [企業研究](research/4502_T.md) | Takeda Pharmaceutical Company Limited | 100 | 75 | 91 | 324.82 | 281.00% | 1.58 | 0.56% | 有望 |
+| JP | [8766.T](reports/2026-11-27/234426/8766_T.md) / [企業研究](research/8766_T.md) | Tokio Marine Holdings, Inc. | 100 | 75 | 91 | - | 265.00% | 2.12 | 6.32% | 有望 |
+| US | [SHOP](reports/2026-11-27/234426/SHOP.md) / [企業研究](research/SHOP.md) | Shopify Inc. | 100 | 50 | 82 | 86.98 | 0.00% | 14.31 | 16.83% | 有望 |
+| US | [TSLA](reports/2026-11-27/234426/TSLA.md) / [企業研究](research/TSLA.md) | Tesla, Inc. | 100 | 50 | 82 | 439.56 | 0.00% | 17.71 | 3.84% | 有望 |
