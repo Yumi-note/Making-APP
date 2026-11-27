@@ -2,7 +2,7 @@
 
 <div class="purpose">このページの目的: 毎日の最終候補10銘柄を、ニュース材料と割安性で素早く比較する。</div>
 
-<div class="meta-line">最終更新: 2026-11-27 00:00:26 JST / 実行ID: 2026-11-27-000026</div>
+<div class="meta-line">最終更新: 2026-11-27 00:03:56 JST / 実行ID: 2026-11-27-000356</div>
 
 ## 画面遷移ガイド
 
@@ -21,13 +21,13 @@
 
 | 市場 | 銘柄 | 企業名 | News | Value | 総合 | PER | 配当利回り | PBR | ROE | 判定 |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---|
-| US | [ZM](reports/2026-11-27/000026/ZM.md) / [企業研究](research/ZM.md) | Zoom Communications, Inc. | 100 | 100 | 100 | 8.22 | 113.00% | 2.29 | 28.65% | 有望 |
-| JP | [9984.T](reports/2026-11-27/000026/9984_T.md) / [企業研究](research/9984_T.md) | SoftBank Group Corp. | 100 | 100 | 100 | 11.96 | 41.00% | 1.01 | 9.76% | 有望 |
-| JP | [1605.T](reports/2026-11-27/000026/1605_T.md) / [企業研究](research/1605_T.md) | Inpex Corporation | 100 | 100 | 100 | 7.53 | 342.00% | 0.76 | 11.17% | 有望 |
-| US | [DIS](reports/2026-11-27/000026/DIS.md) / [企業研究](research/DIS.md) | The Walt Disney Company | 100 | 90 | 96 | 22.31 | 159.00% | 1.95 | 9.13% | 有望 |
-| US | [AMAT](reports/2026-11-27/000026/AMAT.md) / [企業研究](research/AMAT.md) | Applied Materials, Inc. | 100 | 90 | 96 | 24.66 | 68.00% | 9.45 | 43.37% | 有望 |
-| JP | [8306.T](reports/2026-11-27/000026/8306_T.md) / [企業研究](research/8306_T.md) | Mitsubishi UFJ Financial Group, Inc. | 100 | 90 | 96 | 12.78 | 333.00% | 1.54 | 9.55% | 有望 |
-| US | [CSCO](reports/2026-11-27/000026/CSCO.md) / [企業研究](research/CSCO.md) | Cisco Systems, Inc. | 100 | 80 | 93 | 25.05 | 178.00% | 7.18 | 30.38% | 有望 |
-| US | [TXN](reports/2026-11-27/000026/TXN.md) / [企業研究](research/TXN.md) | Texas Instruments Incorporated | 100 | 75 | 91 | 35.04 | 225.00% | 12.87 | 39.72% | 有望 |
-| JP | [6594.T](reports/2026-11-27/000026/6594_T.md) / [企業研究](research/6594_T.md) | Nidec Corporation | 100 | 50 | 82 | - | 0.00% | 2.26 | -61.33% | 有望 |
-| JP | [9020.T](reports/2026-11-27/000026/9020_T.md) / [企業研究](research/9020_T.md) | East Japan Railway Company | 30 | 90 | 62 | 18.82 | 212.00% | 1.47 | 8.22% | 監視 |
+| US | [MU](reports/2026-11-27/000356/MU.md) / [企業研究](research/MU.md) | Micron Technology, Inc. | 100 | 100 | 100 | 8.09 | 10.00% | 4.91 | 88.26% | 有望 |
+| US | [GOOGL](reports/2026-11-27/000356/GOOGL.md) / [企業研究](research/GOOGL.md) | Alphabet Inc. | 100 | 100 | 100 | 14.26 | 32.00% | 5.09 | 44.29% | 有望 |
+| JP | [9101.T](reports/2026-11-27/000356/9101_T.md) / [企業研究](research/9101_T.md) | Nippon Yusen Kabushiki Kaisha | 100 | 100 | 100 | 8.81 | 497.00% | 0.84 | 10.24% | 有望 |
+| US | [PEP](reports/2026-11-27/000356/PEP.md) / [企業研究](research/PEP.md) | PepsiCo, Inc. | 100 | 90 | 96 | 18.10 | 411.00% | 8.81 | 52.19% | 有望 |
+| JP | [9432.T](reports/2026-11-27/000356/9432_T.md) / [企業研究](research/9432_T.md) | NTT, Inc. | 100 | 90 | 96 | 14.75 | 321.00% | 1.38 | 9.75% | 有望 |
+| JP | [8411.T](reports/2026-11-27/000356/8411_T.md) / [企業研究](research/8411_T.md) | Mizuho Financial Group, Inc. | 100 | 90 | 96 | 12.47 | 269.00% | 1.59 | 13.08% | 有望 |
+| JP | [6501.T](reports/2026-11-27/000356/6501_T.md) / [企業研究](research/6501_T.md) | Hitachi, Ltd. | 100 | 75 | 91 | 30.16 | 119.00% | 3.41 | 12.34% | 有望 |
+| JP | [4543.T](reports/2026-11-27/000356/4543_T.md) / [企業研究](research/4543_T.md) | Terumo Corporation | 90 | 75 | 86 | 34.83 | 134.00% | 2.48 | 7.49% | 有望 |
+| US | [ABNB](reports/2026-11-27/000356/ABNB.md) / [企業研究](research/ABNB.md) | Airbnb, Inc. | 100 | 55 | 84 | 32.30 | 0.00% | 10.89 | 35.79% | 有望 |
+| US | [SNOW](reports/2026-11-27/000356/SNOW.md) / [企業研究](research/SNOW.md) | Snowflake Inc. | 100 | 50 | 82 | - | 0.00% | 43.90 | -48.06% | 有望 |
